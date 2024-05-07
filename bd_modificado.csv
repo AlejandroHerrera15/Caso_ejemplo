@@ -1,0 +1,2105 @@
+id,fecha_nacimiento,edad,genero,direccion,ubicacion_recoleccion,visitas_usuario,volumen_generado
+USK21704,1992-10-26,26.0,Mujer,calle 94 # 51b 15,Plaza Mayor,1,69.0
+USK21703,1989-12-27,29.0,Hombre,carrera 45C #38B sur 10,Plaza Mayor,1,1.0
+USK21701,1994-01-31,25.0,Mujer,carrera 36 36 # 65 dd 14,Coltejer,1,18.0
+USK21697,2041-10-10,23.0,Hombre,carreraa 40 # 78 - 66,Coltejer,2,27.0
+USK21695,1997-12-04,21.0,Hombre,Cll 28sur # 43A-70,U. CES,1,1.0
+USK21694,1969-12-31,49.0,Hombre,cll65 n 50-50 prado centro,Coltejer,1,10.0
+USK21687,1984-04-26,34.0,Mujer,calle 50 # 38 - 11 boston,Coltejer,1,33.0
+USK21686,1994-03-09,25.0,Hombre,carrera 43b #108a 27,Coltejer,1,142.0
+USK21685,1994-04-22,24.0,Hombre,Cll 32BB # 76-54,U. CES,1,2.0
+USK21684,1996-03-15,23.0,Hombre,calle 58 #21c 45,Coltejer,1,55.0
+USK21683,1983-01-07,36.0,Hombre,cra 54 #35-44,Puerta del Norte,1,26.0
+USK21681,1996-04-09,22.0,Hombre,calle 56 # 61-24,Ruta N,1,6.0
+USK21680,1996-07-09,22.0,Mujer,calle 65# 61-24,Ruta N,1,10.0
+USK21677,1993-05-17,25.0,Hombre,avenida 19A # 57C-19,Ruta N,1,5.0
+USK21676,1975-04-22,43.0,Hombre,carrara 40 #99 65,Ruta N,1,68.0
+USK21674,1969-07-15,49.0,Hombre,diagonal 55# 32-64,Puerta del Norte,1,11.0
+USK21673,1988-12-13,30.0,Hombre,calle 62 #50c 20,Ruta N,1,6.0
+USK21668,1980-07-06,38.0,Mujer,Cll 48ff # 42D-53,U. CES,1,10.0
+USK21665,1989-10-14,29.0,Mujer,carrera 86 # 46-67,CESDE,1,3.0
+USK21664,1990-03-08,29.0,Hombre,circular 2 # 68-81,Ruta N,3,23.0
+USK21663,1977-10-12,41.0,Hombre,calle 70a # 51-24,Ruta N,1,11.0
+USK21657,1993-08-01,25.0,Hombre,calle2 B # 75d116,Ruta N,1,11.0
+USK21645,1989-08-20,29.0,Mujer,Cll 40A # 81A-75,U. CES,1,1.0
+USK21644,1980-10-20,38.0,Mujer,El bosque,Ruta N,1,38.0
+USK21642,1985-04-13,33.0,Mujer,Campo valdes,Ruta N,1,8.0
+USK21638,1995-06-10,23.0,Hombre,calle 29 # 55-17,Ruta N,1,3.0
+USK21636,1969-10-22,49.0,Hombre,diagonal 79 a # 76 2 89,Coltejer,1,62.0
+USK21633,1972-03-27,47.0,Mujer,calle 39b sur #24ee-151,Coltejer,2,23.0
+USK21631,1972-06-26,46.0,Hombre,calle 85a #93a 54 interior 201,Plaza Mayor,1,3.0
+USK21628,1975-02-18,44.0,Mujer,cr 58 # 32a-41,Coltejer,1,12.0
+USK21618,1970-06-05,48.0,Hombre,La america,Unicentro,1,1.0
+USK21616,1988-09-17,30.0,Mujer,carrera 43c # 48-36,Puerta del Norte,1,10.0
+USK21615,1993-07-10,25.0,Hombre,avenida 36c# 45-131,Ruta N,1,4.0
+USK21614,1979-11-23,39.0,Mujer,Calle 67#44-110,Coltejer,1,7.0
+USK21607,1982-01-20,37.0,Mujer,Calle 53#74-70,Coltejer,1,7.0
+USK21605,1995-09-16,23.0,Mujer,Cra 43A#110c-23,Coltejer,2,79.0
+USK21603,1976-02-17,43.0,Mujer,calle 40 a sur # 24 b 105,CESDE,1,1.0
+USK21602,1984-12-28,34.0,Mujer,Cra 7#55GA-85,Coltejer,1,18.0
+USK21597,1972-03-29,46.0,Mujer,calle 49 C# 6-25,Coltejer,1,14.0
+USK21589,1986-01-11,33.0,Mujer,calle 67 # 53 - 112,Unicentro,2,8.0
+USK21586,1980-11-21,38.0,Hombre,Cr 32#71b-01,Coltejer,1,50.0
+USK21585,1979-01-13,40.0,Hombre,Calle 82b #51b-58,Coltejer,1,15.0
+USK21584,1980-11-30,38.0,Hombre,calle 57d # 28a-14,Coltejer,1,53.0
+USK21583,1982-12-22,36.0,Hombre,cra 64 # 62 B-42,Puerta del Norte,1,7.0
+USK21574,1987-07-20,31.0,Mujer,calle 104#71-63,Ruta N,2,19.0
+USK21571,1992-12-20,26.0,Mujer,calle 66 #39a 19,Puerta del Norte,1,33.0
+USK21565,1994-10-11,24.0,Hombre,castilla,Coltejer,1,23.0
+USK21564,1975-09-26,43.0,Mujer,cra 51#81-56,Ruta N,1,105.0
+USK21561,1982-01-05,37.0,Mujer,Cr 96c #49ab-19,Ruta N,1,59.0
+USK21559,1995-05-04,23.0,Mujer,cr 55 c n 89-92 int 154,Coltejer,1,11.0
+USK21558,1979-05-29,39.0,Mujer,cra 118 calle 42AD-5,Ruta N,1,12.0
+USK21552,1991-01-03,28.0,Hombre,laureles,Unicentro,1,2.0
+USK21551,1997-09-03,21.0,Mujer,calle 20 sur # 39a 72,Ruta N,1,8.0
+USK21548,1983-11-09,35.0,Mujer,Calle45#10a-209,Coltejer,1,32.0
+USK21543,1981-09-11,37.0,Mujer,prado centro calle 63 a # 46 - 18,Ruta N,1,2.0
+USK21541,1980-06-30,38.0,Mujer,Carrera 98 81a 09 vereda paraÃ­so,Coltejer,2,152.0
+USK21540,1980-03-23,39.0,Hombre,Calle 15 # 72-11,Coltejer,1,19.0
+USK21534,1991-12-21,27.0,Mujer,avenida 34# 55-65,Puerta del Norte,4,188.0
+USK21531,1993-07-05,25.0,Hombre,torres de la fuente,Ruta N,1,2.0
+USK21526,1989-12-28,29.0,Mujer,Carrera 37 # 63a 56,Coltejer,1,34.0
+USK21525,1991-03-04,28.0,Mujer,Calle 56a #49-50,Coltejer,1,15.0
+USK21522,1985-11-05,33.0,Mujer,cll 105 n 74-57,Coltejer,1,20.0
+USK21516,1979-09-30,39.0,Hombre,cr 85 n 30a-27,Coltejer,1,139.0
+USK21515,1982-03-10,37.0,Mujer,Aranjuez,Ruta N,3,66.0
+USK21514,1997-08-05,21.0,Mujer,Aranjuez,Ruta N,1,11.0
+USK21513,1989-06-01,29.0,Mujer,manrique central,Coltejer,2,44.0
+USK21509,1980-09-02,38.0,Mujer,carrera 33 # 69 - 32,Coltejer,1,15.0
+USK21507,1995-01-10,24.0,Mujer,cr 30 #71a-49 int 2151020465247,Coltejer,2,124.0
+USK21506,1982-04-08,36.0,Hombre,Cr 34 #11B-31,U. CES,2,12.0
+USK21501,1984-09-06,34.0,Hombre,Campo Valdes,Ruta N,3,532.0
+USK21491,1977-04-16,41.0,Mujer,calle 57 ea 22 b 76,Coltejer,1,13.0
+USK21490,1993-05-05,25.0,Hombre,calle 66 A# 51A-50,Ruta N,1,10.0
+USK21487,1996-10-06,22.0,Mujer,calle 64ca cr 106-233,Coltejer,2,31.0
+USK21484,1996-07-19,22.0,Mujer,calle 65#55-30,Ruta N,1,2.0
+USK21478,1988-12-04,30.0,Mujer,Avenida 41#62-69,Ruta N,1,26.0
+USK21477,1998-10-12,20.0,Mujer,Calle 78#55b-99,Ruta N,2,41.0
+USK21472,1972-09-04,46.0,Mujer,calle 43#45- 43,Puerta del Norte,1,40.0
+USK21459,1990-01-18,29.0,Mujer,Robledo Pajarito,Unicentro,1,47.0
+USK21458,1980-07-26,38.0,Mujer,Conquistadores,Unicentro,1,1.0
+USK21457,1980-05-09,38.0,Hombre,Boyaca Las brisas,Unicentro,2,42.0
+USK21456,1995-01-11,24.0,Mujer,Manrrique,Unicentro,2,8.0
+USK21455,1969-12-08,49.0,Mujer,Calle 58A No 40-67,Coltejer,1,53.0
+USK21452,1979-12-23,39.0,Hombre,cll32 n 69-26,Unicentro,1,4.0
+USK21450,1982-06-04,36.0,Mujer,Dig 56 44-100,Puerta del Norte,5,200.0
+USK21445,1983-04-29,35.0,Mujer,cl 49d cr 93-115,Coltejer,1,1.0
+USK21442,1991-02-05,28.0,Mujer,la floresta,CESDE,1,32.0
+USK21441,1978-03-10,41.0,Mujer,cr 31aa # 82-16,Coltejer,1,8.0
+USK21439,1990-10-04,28.0,Mujer,calle 71#48a-94,Coltejer,2,197.0
+USK21437,1989-10-04,29.0,Mujer,cr 100 #70db robledo villa santa fe,Coltejer,1,2.0
+USK21436,1987-07-25,31.0,Hombre,cra 38 A # 82-23,Puerta del Norte,4,105.0
+USK21434,1983-01-31,36.0,Hombre,carrera 90 c #83 24,Ruta N,5,259.0
+USK21432,1972-02-22,47.0,Mujer,calle 79#87a-35 robledo,Coltejer,1,12.0
+USK21431,1991-10-14,27.0,Mujer,La floresta,Coltejer,1,159.0
+USK21425,1976-07-05,42.0,Mujer,calle 71 # 27-28,Coltejer,2,50.0
+USK21419,1988-01-09,31.0,Mujer,calle69 #95b-25,Coltejer,1,6.0
+USK21415,1998-11-01,20.0,Mujer,poblado,U. CES,1,19.0
+USK21410,1997-12-27,21.0,Hombre,cr53 # 50-32 bello,Coltejer,1,74.0
+USK21409,1972-01-30,47.0,Mujer,calle 50# 50 A13,Puerta del Norte,2,11.0
+USK21407,1981-04-11,37.0,Mujer,cr16d #46d-05,Coltejer,1,18.0
+USK21398,1970-12-08,48.0,Mujer,Cr 65G #25-29,Coltejer,1,32.0
+USK21396,1976-01-31,43.0,Mujer,Cll 48 # 52-27,Coltejer,1,15.0
+USK21367,1988-03-19,31.0,Hombre,diagonal 56 # 45 - 61,Ruta N,2,3.0
+USK21365,1995-12-29,23.0,Mujer,calle 75 # 75 - 101,Ruta N,1,80.0
+USK21360,1992-08-30,26.0,Mujer,calle 57# 61-33,Ruta N,2,4.0
+USK21355,1990-09-30,28.0,Mujer,calle36sur#3971,Plaza Mayor,1,7.0
+USK21349,1971-02-07,48.0,Mujer,Cll 10E # 25-156,U. CES,1,25.0
+USK21314,1982-09-06,36.0,Hombre,Rodeo Alto,CESDE,1,1.0
+USK21302,1969-08-31,49.0,Hombre,Circular 2 #73-32,Unicentro,2,31.0
+USK21290,1991-09-06,27.0,Mujer,carrera 28 #45-56,Coltejer,2,47.0
+USK21287,1980-03-08,39.0,Hombre,Cll 71 # 27-60,Coltejer,3,32.0
+USK21286,1976-10-06,42.0,Mujer,Manrrique Horiental,CESDE,1,36.0
+USK21279,1992-03-01,27.0,Hombre,el dorado envigado,CESDE,1,1.0
+USK21278,1986-01-10,33.0,Mujer,carrera 44 a # 31 - 43,CESDE,1,27.0
+USK21270,1993-04-07,25.0,Mujer,cra 119 d 62d-32,Ruta N,1,1.0
+USK21269,1995-10-31,23.0,Mujer,carrera 67 25 b 3,Ruta N,1,27.0
+USK21268,1992-02-03,27.0,Mujer,Calle 50 nÂ° 33 - 61,Coltejer,2,205.0
+USK21267,1981-07-04,37.0,Mujer,coltejer,Coltejer,1,34.0
+USK21266,1970-02-28,49.0,Hombre,barrio santa fe,Coltejer,1,2.0
+USK21264,1998-08-16,20.0,Mujer,cra 78 # 52 a 10,Ruta N,1,3.0
+USK21255,1995-09-04,23.0,Hombre,cr 88 #48b-11,Ruta N,1,11.0
+USK21253,1998-05-18,20.0,Hombre,parque bolivar,Coltejer,10,22.0
+USK21252,1998-01-17,21.0,Hombre,calle 58 21c-45,Ruta N,11,348.0
+USK21250,1990-01-06,29.0,Hombre,calle 100 b sur 49 d 28,Ruta N,2,19.0
+USK21248,1996-05-15,22.0,Mujer,calle 51 #74-53,Unicentro,1,5.0
+USK21246,1982-11-20,36.0,Hombre,Cr 26D # 36A sur-30 (casa 138),Coltejer,4,105.0
+USK21240,1993-03-08,26.0,Hombre,niquia manzana 5 bloque 87 apt 220,Puerta del Norte,3,8.0
+USK21239,1982-07-13,36.0,Mujer,cra 57 b # 53-28,Puerta del Norte,1,1.0
+USK21235,1986-05-14,32.0,Mujer,carrera 64 c # 97 a -150 apto 325,CESDE,1,17.0
+USK21234,1984-12-22,34.0,Hombre,calle 78 # 56-16,"Ruta N, Coltejer",5,148.0
+USK21233,1990-01-18,29.0,Hombre,carrera 60 # 60a 01,Coltejer,2,64.0
+USK21232,1976-07-30,42.0,Hombre,cuatro bocas,Coltejer,5,419.0
+USK21231,1986-10-02,32.0,Mujer,carrera 76 # 110 A 38,Ruta N,1,44.0
+USK21229,1995-06-13,23.0,Hombre,san jeronimo,CESDE,1,18.0
+USK21228,1981-07-10,37.0,Mujer,calle 65 bb # 39 - 66,CESDE,1,6.0
+USK21222,1982-03-28,37.0,Mujer,Cll 40AA # 22A - 10,Coltejer,1,18.0
+USK21220,1976-05-18,42.0,Mujer,Cll 67C # 105 - 237,Coltejer,1,41.0
+USK21212,1991-08-17,27.0,Mujer,cll 39a n 113-22,Coltejer,1,4.0
+USK21210,1992-05-26,26.0,Mujer,CR 48 N 16 A SUR 43,Kaptadora 71,4,7.0
+USK21207,1988-01-20,31.0,Hombre,Calle 108 #64 d 04,Ruta N,1,7.0
+USK21204,1990-02-25,29.0,Mujer,Cll 59C # 18D - 81,Coltejer,2,90.0
+USK21203,1971-06-10,47.0,Mujer,Cl 69A # 30-19,Coltejer,3,79.0
+USK21200,1975-11-10,43.0,Mujer,Sucre,Coltejer,5,49.0
+USK21196,1973-05-08,45.0,Mujer,Cr 39 # 47-53,Coltejer,2,33.0
+USK21191,1987-04-24,31.0,Hombre,Cr 50 # 55 - 22,Coltejer,1,62.0
+USK21185,1969-06-03,49.0,Hombre,calle 59 a # 66 b 14 bello,CESDE,1,3.0
+USK21182,1998-03-01,21.0,Hombre,cl 29 a N 50 165 Bello,"Unicentro, Coltejer",4,32.0
+USK21181,1994-01-31,25.0,Hombre,calle 47 A # 50-59,Ruta N,1,53.0
+USK21180,1976-06-03,42.0,Mujer,buenos aires,Coltejer,5,300.0
+USK21177,1994-12-10,24.0,Mujer,carrera 17 h # 12 a -51 barrio la nueva,CESDE,1,27.0
+USK21176,1971-11-22,47.0,Hombre,Cll 58 # 63-71 (interior 287),Ruta N,1,25.0
+USK21173,1981-01-01,38.0,Hombre,carrera 42b #107-30,Coltejer,1,139.0
+USK21169,1996-09-16,22.0,Hombre,Cll 82 # 44A-31,Ruta N,3,34.0
+USK21165,1978-11-13,40.0,Mujer,calle47dd # 8704 inte404,Ruta N,2,60.0
+USK21164,1969-06-28,49.0,Mujer,ciudadela cevilla,Ruta N,2,19.0
+USK21157,1992-02-06,27.0,Hombre,Cl 34 DD sur # 27D-90,U. CES,2,38.0
+USK21156,1990-04-22,28.0,Hombre,medellin,Plaza Mayor,15,431.0
+USK21154,1978-06-09,40.0,Mujer,Calle 59 c # 66 a 22,Coltejer,2,103.0
+USK21153,1973-12-30,45.0,Mujer,Calle 81 dd carrera 54-25,Coltejer,5,377.0
+USK21152,1983-05-12,35.0,Mujer,calle 50 # 34 138,Coltejer,6,521.0
+USK21150,1975-07-07,43.0,Mujer,calle101c #25a 130,Terminal del Norte,1,54.0
+USK21148,1990-10-23,28.0,Mujer,calle 64 f 93-09,Coltejer,1,2.0
+USK21146,1995-10-22,23.0,Hombre,cra 31 # 71 A 18,Ruta N,2,46.0
+USK21144,1975-08-17,43.0,Mujer,calle 52 # 2 - 52 int 11 - 19,Coltejer,1,31.0
+USK21140,1971-08-01,47.0,Mujer,transversal 103 a # 74 a 79,Coltejer,2,20.0
+USK21134,1987-10-06,31.0,Mujer,calle 50 # 57 -13 apto 201,Coltejer,6,137.0
+USK21129,1990-05-28,28.0,Mujer,calle 48 cd sur n 42 bb 15,Ruta N,1,23.0
+USK21118,1984-09-23,34.0,Mujer,carrera 31 -102 b # 197,Coltejer,1,2.0
+USK21115,1986-04-09,32.0,Mujer,carrera 28 # 29- 145,Coltejer,1,115.0
+USK21112,1980-04-15,38.0,Hombre,san antonio de prado centro,Coltejer,1,37.0
+USK21111,1991-07-15,27.0,Mujer,cra 89 n 49dd 115,Ruta N,4,245.0
+USK21097,1989-05-19,29.0,Mujer,carrera 29 # 47 -60,CESDE,6,78.0
+USK21088,1982-12-08,36.0,Mujer,carrera 63 c # 96 A 136,CESDE,2,9.0
+USK21085,1976-07-21,42.0,Mujer,Cll 34 b 130 245,Coltejer,1,34.0
+USK21082,1982-03-07,37.0,Mujer,San Javier,Coltejer,5,245.0
+USK21076,1973-11-08,45.0,Mujer,Cll 52 47 28,Coltejer,3,47.0
+USK21055,1998-05-20,20.0,Hombre,Bogota,La Solar,2,6.0
+USK21053,1969-10-14,49.0,Mujer,Cr 26A # 47-26 piso 201,Coltejer,2,21.0
+USK21049,1971-11-16,47.0,Hombre,calle 34 e 89 52,"Puerta del Norte, Ruta N",8,35.0
+USK21048,1991-08-31,27.0,Mujer,Cll 83A # 50E - 43,Coltejer,2,31.0
+USK21037,1994-07-05,24.0,Hombre,calle 46 n 51 25,Ruta N,3,10.0
+USK21031,1972-01-06,47.0,Hombre,calle 70 n 51d 42,Ruta N,2,431.0
+USK21030,1989-02-26,30.0,Mujer,Cll 64 # 115 - 185,Coltejer,35,160.0
+USK21021,1987-01-14,32.0,Mujer,Playa Rica,Coltejer,1,122.0
+USK21018,1971-11-14,47.0,Mujer,calle 67A # 51 D 50,Ruta N,4,60.0
+USK21017,1985-04-19,33.0,Mujer,cll 133b sur N 51 06,"La Solar, Ruta N",5,7.0
+USK21016,1994-03-07,25.0,Hombre,calle 72 A # 47 - 05,Ruta N,1,64.0
+USK21013,1993-11-13,25.0,Mujer,carrera 25 # 10 b 120 apto 104 edificio refugio alto,Unicentro,2,70.0
+USK21012,1997-12-12,21.0,Hombre,Calle 1 A #77B-16,Ruta N,3,11.0
+USK21011,1981-10-28,37.0,Mujer,Cra 62 D # 71-64,Puerta del Norte,4,124.0
+USK21009,1970-01-20,49.0,Hombre,cll18 n 35 69,U. CES,1,6.0
+USK21007,1990-09-05,28.0,Hombre,cll 52 Edificio la Ceiba,Coltejer,2,66.0
+USK21006,1977-07-04,41.0,Mujer,cr 68 a 69 c 33,Coltejer,3,45.0
+USK21000,1984-02-04,35.0,Mujer,carrera 48 # 17 a sur - 51,"Terminal del Norte, CESDE",5,11.0
+USK20999,1978-03-10,41.0,Mujer,tricentenario,Coltejer,2,66.0
+USK20998,1985-03-02,34.0,Mujer,cll 72 a 50 a 112,Ruta N,1,60.0
+USK20997,1983-07-13,35.0,Mujer,cra 38 a # 82 -23,Ruta N,8,229.0
+USK20996,1991-12-02,27.0,Mujer,carrera 71 #45e 75,Coltejer,1,7.0
+USK20981,1991-02-16,28.0,Mujer,calle 46 E sur #42 b 24,Kaptadora 71,1,2.0
+USK20979,1990-10-01,28.0,Hombre,CRA 24D No 39-29,Kaptadora 71,1,2.0
+USK20978,1988-03-07,31.0,Mujer,Carrera 72 #9-105,Kaptadora 71,2,2.0
+USK20972,1979-01-12,40.0,Mujer,carrera 46 # 64b sur 35,Coltejer,4,58.0
+USK20970,1994-10-18,24.0,Hombre,carrera 59 # 72-20,"Coltejer, Ruta N, Terminal del Norte",12,233.0
+USK20966,1975-02-01,44.0,Mujer,carrera 79 23 - 45,"Unicentro, CESDE",3,157.0
+USK20962,1993-06-13,25.0,Mujer,Crr 45 N 84-9,Coltejer,2,104.0
+USK20961,1989-10-17,29.0,Hombre,calle 71 # 65 471,"Ruta N, Terminal del Norte",2,63.0
+USK20955,1971-11-15,47.0,Mujer,Cll 77 ee N 91-81,Coltejer,2,50.0
+USK20954,1987-04-08,31.0,Mujer,calle 78 c # 54 B 43,Ruta N,2,118.0
+USK20953,1970-05-12,48.0,Hombre,Aranjuez,Coltejer,1,7.0
+USK20950,1977-04-11,41.0,Mujer,la nueva Jerusalem,Ruta N,9,194.0
+USK20949,1973-05-30,45.0,Hombre,calle 88 # 43 B 28,Ruta N,2,25.0
+USK20943,1996-01-28,23.0,Mujer,calle 27 sur 27 d 79,U. CES,2,14.0
+USK20939,1995-04-08,23.0,Mujer,Calle Colombia,Coltejer,1,41.0
+USK20932,1982-04-26,36.0,Mujer,calle 89 # 67- 34,"Terminal del Norte, Coltejer",3,128.0
+USK20919,1980-07-31,38.0,Mujer,Crr 65gg N 19-15,Coltejer,1,28.0
+USK20917,1997-07-02,21.0,Mujer,carrera 43 # 76-06,CESDE,1,14.0
+USK20915,1972-07-21,46.0,Hombre,Crr 43 N 66-26,Coltejer,5,56.0
+USK20912,1972-07-25,46.0,Mujer,prado centro,Coltejer,3,39.0
+USK20910,1990-12-14,28.0,Hombre,urbanizacion torres de san sebastian carrera 46 # 41 apto 1224 torre 2,Ruta N,10,24.0
+USK20909,1970-10-04,48.0,Mujer,Cll 24b N 60-114,Coltejer,3,227.0
+USK20904,1992-09-08,26.0,Mujer,Calle 47E #100a-56,La Solar,1,1.0
+USK20903,1995-11-05,23.0,Hombre,Cr 33 N 53-34,Coltejer,2,23.0
+USK20885,1994-03-06,25.0,Hombre,calle 75 # 57-06,CESDE,1,8.0
+USK20882,1996-11-09,22.0,Hombre,Cll97a n 35.27,Ruta N,1,47.0
+USK20881,1998-02-24,21.0,Mujer,sabaneta,Coltejer,11,471.0
+USK20875,1994-12-26,24.0,Mujer,tranversal 39a #70a-61,Unicentro,1,3.0
+USK20874,1989-02-01,30.0,Mujer,carrera40b # 61sur 89,Plaza Mayor,7,35.0
+USK20873,1970-06-02,48.0,Mujer,Barrio Jardin,Coltejer,9,1.12
+USK20871,1977-03-19,42.0,Hombre,calle51 #84 181,Plaza Mayor,2,3.0
+USK20870,1979-09-29,39.0,Mujer,cll 73n49-15,Ruta N,1,37.0
+USK20867,1980-06-01,38.0,Mujer,Crr 63d N 102 - 40,Coltejer,2,91.0
+USK20860,1982-04-22,36.0,Mujer,Crr 35 N 29 - 81,Coltejer,6,39.0
+USK20856,1990-06-09,28.0,Mujer,carrera 50 #122sur 114,Plaza Mayor,1,1.0
+USK20853,1979-05-29,39.0,Mujer,calle 77 a c # 75-53,Unicentro,1,103.0
+USK20851,1988-04-13,30.0,Hombre,avenida 38 bb 42 eb 65,Plaza Mayor,8,105.0
+USK20848,1996-01-29,23.0,Mujer,Crr 89c N68a 105,Coltejer,1,37.0
+USK20847,1994-03-05,25.0,Hombre,tranversal 65 d # 43 - 45,Ruta N,1,13.0
+USK20843,1978-05-05,40.0,Mujer,Cll20 N 84f 77,Coltejer,1,1.0
+USK20836,1997-09-02,21.0,Mujer,cll 09 n 31-105,U. CES,2,9.0
+USK20833,1997-04-15,21.0,Mujer,cll55 n 53a-39,U. CES,2,34.0
+USK20829,1990-01-21,29.0,Mujer,Crr 26 N 39 - 29,Coltejer,1,1.0
+USK20828,1991-03-02,28.0,Mujer,Av 48c N58 - 59,Coltejer,3,55.0
+USK20827,1992-05-01,26.0,Mujer,Cll 59 n 54 - 13,Coltejer,7,73.0
+USK20824,1993-02-14,26.0,Hombre,calle 93 # 40 - 78,CESDE,1,2.0
+USK20823,1979-10-10,39.0,Mujer,Av 48 N 65-62,Coltejer,1,16.0
+USK20822,1983-04-17,35.0,Mujer,Barboza,"Coltejer, Ruta N",2,33.0
+USK20821,1987-10-22,31.0,Mujer,cll64c n 94a-29,Ruta N,2,75.0
+USK20820,1994-07-12,24.0,Mujer,CALLE 45 # 36-38,Coltejer,1,13.0
+USK20819,1981-01-18,38.0,Hombre,urbanizacion entre colinas,"Unicentro, Coltejer",12,92.0
+USK20818,1995-09-04,23.0,Mujer,Carrera80c #21-53,Coltejer,1,14.0
+USK20817,1980-04-23,38.0,Mujer,castilla,Ruta N,3,201.0
+USK20816,1994-02-21,25.0,Mujer,bello,Ruta N,4,206.0
+USK20815,1976-12-25,42.0,Hombre,Crr24N 52 - 97,Coltejer,4,252.0
+USK20812,1977-05-06,41.0,Mujer,calle 90 # 53 - 20,Ruta N,3,321.0
+USK20810,1981-11-02,37.0,Mujer,Crr 82a N 28-54,Coltejer,1,3.0
+USK20809,1984-05-16,34.0,Mujer,Crr 74 a N 97 - 09,Coltejer,3,75.0
+USK20808,1977-05-11,41.0,Mujer,calle 55 N 43-45,Coltejer,2,23.0
+USK20807,1994-02-23,25.0,Hombre,carrera 50 c # 84-27 apto 201,Ruta N,6,225.0
+USK20806,1989-01-13,30.0,Mujer,carrera 38 b 49,CESDE,1,21.0
+USK20805,1995-02-16,24.0,Mujer,Cr 40 A # 44 sur 67,Ruta N,2,37.0
+USK20802,1996-01-29,23.0,Hombre,Av. 48b N 65 70,Coltejer,2,15.0
+USK20801,1983-08-30,35.0,Mujer,Cll 56H Crr 17 a N 23 - 13,Coltejer,8,118.0
+USK20799,1973-01-22,46.0,Mujer,Cll 97 N 39 30,Coltejer,2,70.0
+USK20796,1979-10-07,39.0,Mujer,crr 36 # 34-61,Coltejer,6,39.0
+USK20795,1981-06-20,37.0,Mujer,caicedo,Coltejer,7,428.0
+USK20791,1985-09-24,33.0,Mujer,Calle 91 b # 83 - 07,Ruta N,1,117.0
+USK20787,1997-05-28,21.0,Mujer,carrera 52 a n 75- 94,Unicentro,1,11.0
+USK20786,1997-03-26,22.0,Hombre,salvador quintas,U. CES,3,20.0
+USK20785,1985-11-01,33.0,Mujer,carrera 90 NÂ° 65C10,CESDE,1,9.0
+USK20781,1980-07-18,38.0,Mujer,crr 22c # 59b 12,Coltejer,4,140.0
+USK20780,1991-03-25,28.0,Mujer,estadio,U. CES,1,1.0
+USK20779,1999-03-11,20.0,Hombre,Crr 43B N 108a - 27,Coltejer,1,115.0
+USK20778,1984-04-22,34.0,Mujer,Robledo aures,Coltejer,4,101.0
+USK20777,1999-03-08,20.0,Mujer,cll 79 # 45-76,Coltejer,1,11.0
+USK20775,1972-03-01,47.0,Hombre,cll 81 n 30-20,"Plaza Mayor, Unicentro, U. CES, Terminal del Norte, Coltejer",15,749.0
+USK20774,1973-01-31,46.0,Hombre,Crr 62D N 112-11,Coltejer,10,481.0
+USK20764,1992-08-04,26.0,Hombre,Patio Bonito,Plaza Mayor,4,84.0
+USK20763,1975-11-15,43.0,Mujer,carrera 39 n 47 -12,CESDE,1,33.0
+USK20759,1981-05-11,37.0,Mujer,carre 3 d n 48 67,CESDE,1,1.0
+USK20757,1990-02-24,29.0,Hombre,enciso,Coltejer,1,32.0
+USK20755,1983-10-08,35.0,Mujer,Cll106B N 86 - 101,Coltejer,1,2.0
+USK20753,1995-02-20,24.0,Mujer,Manrrique,Coltejer,3,58.0
+USK20751,1985-10-12,33.0,Mujer,Oasis,Coltejer,4,98.0
+USK20750,1986-10-07,32.0,Mujer,Oasis,Coltejer,3,60.0
+USK20743,1988-02-20,31.0,Mujer,Cra 52B 11A sur 125,Kaptadora 71,12,27.0
+USK20734,1996-03-11,23.0,Hombre,carrera 60 d n 44 c sur 48,CESDE,1,1.0
+USK20733,1993-03-29,25.0,Mujer,carrea 49 n 92 99,CESDE,1,1.0
+USK20727,1971-03-10,48.0,Mujer,Zamora,Coltejer,6,443.0
+USK20725,1998-07-04,20.0,Hombre,calle 92 e n 66 a 17,CESDE,3,8.0
+USK20724,1988-05-12,30.0,Hombre,carrera 47 n 39 a sur 44,CESDE,1,1.0
+USK20722,1977-08-19,41.0,Mujer,calle 1 # 75 b a 160 casa 123,Unicentro,1,43.0
+USK20720,1989-11-13,29.0,Mujer,cll 78b n 85a- 50,Coltejer,1,29.0
+USK20719,1977-06-06,41.0,Mujer,carrera 36#40-12,Coltejer,3,87.0
+USK20718,1978-07-18,40.0,Mujer,cll 45g n 14d- 34 buenos aires,Coltejer,9,72.0
+USK20717,1996-01-17,23.0,Hombre,calle 65 # 55-30,Ruta N,1,15.0
+USK20716,1988-09-29,30.0,Mujer,diagonal 58#47-48,Puerta del Norte,5,69.0
+USK20713,1986-05-26,32.0,Mujer,El Salvador,Coltejer,6,326.0
+USK20711,1988-12-28,30.0,Mujer,Cll 57 N 50- 46,Coltejer,1,49.0
+USK20710,1980-07-30,38.0,Hombre,carrera 90 # 65 c 10,Ruta N,1,53.0
+USK20707,1982-06-24,36.0,Mujer,calle 120 a # 67 b 25,Ruta N,1,5.0
+USK20705,1990-10-11,28.0,Hombre,Boston,Coltejer,1,40.0
+USK20704,1975-10-17,43.0,Hombre,vereda las mercedes,Coltejer,4,48.0
+USK20703,1984-07-01,34.0,Mujer,cra 47c #75-33 ( bello),"Puerta del Norte, Ruta N",2,75.0
+USK20702,1984-06-12,34.0,Mujer,cll 21d #41c-131 torre 3 apto 302,Puerta del Norte,1,105.0
+USK20701,1989-09-12,29.0,Mujer,Corregimiento Santa Elena,Coltejer,2,30.0
+USK20698,1997-03-22,22.0,Mujer,cr 64b n 38-34,U. CES,3,8.0
+USK20695,1982-08-05,36.0,Mujer,calle120 carrera49c-22,Plaza Mayor,16,119.0
+USK20694,1994-10-24,24.0,Hombre,diag 59 42 - 63,"Puerta del Norte, Coltejer",4,248.0
+USK20691,1994-06-09,24.0,Hombre,cra 27 # 57 b 25,Coltejer,5,344.0
+USK20689,1990-02-20,29.0,Mujer,calle 70 gb # 95 - 40 apt 102,Ruta N,1,14.0
+USK20687,1996-04-23,22.0,Mujer,cll53b n 78-105,U. CES,2,58.0
+USK20684,1994-03-19,25.0,Mujer,cll83a sur n 61.24,U. CES,2,155.0
+USK20681,1995-07-01,23.0,Mujer,zamora,Ruta N,1,4.0
+USK20678,1996-04-26,22.0,Hombre,avenida 45#3501,Coltejer,6,84.0
+USK20677,1987-10-07,31.0,Hombre,Carrera 42A #93-70,CESDE,2,6.0
+USK20672,1991-07-14,27.0,Mujer,carrera 55# 65-42,"Coltejer, Ruta N",4,290.0
+USK20671,1992-07-09,26.0,Hombre,Calle 37 #93A-13 apto 203,CESDE,1,2.0
+USK20670,1982-06-04,36.0,Hombre,calle 38 a sur # 65 d 2,Unicentro,1,30.0
+USK20669,1992-01-31,27.0,Mujer,la milagrosa,Coltejer,2,46.0
+USK20667,1985-04-09,33.0,Hombre,itagui,Unicentro,1,40.0
+USK20665,1992-12-14,26.0,Mujer,Carrera 47 48-27,Coltejer,2,12.0
+USK20663,1971-01-31,48.0,Mujer,carrera30 #46-21,Coltejer,1,62.0
+USK20661,1973-12-07,45.0,Mujer,calle: 120 # 50B52,Coltejer,10,162.0
+USK20657,1998-01-16,21.0,Mujer,Carmen de viboral,Terminal del Norte,1,16.0
+USK20650,1982-02-10,37.0,Hombre,carre53a #45-124,Kaptadora 71,1,1.0
+USK20646,1984-01-04,35.0,Hombre,cra 50 #5 115,Coltejer,1,2.0
+USK20645,1993-11-26,25.0,Hombre,carrera 50 c # 63 - 36,Ruta N,1,7.0
+USK20643,1970-09-27,48.0,Mujer,Calle 66 E #97-39,Ruta N,3,209.0
+USK20640,1991-11-24,27.0,Mujer,calle 65 # 43 - 19,Ruta N,1,32.0
+USK20633,1987-08-22,31.0,Hombre,CARRERA 70 A NUMERO 56 A SUR 76,Coltejer,1,18.0
+USK20631,1969-06-30,49.0,Mujer,carrera 38 # 68- 55,Ruta N,11,127.0
+USK20629,1990-12-19,28.0,Mujer,calle 50 a # 84- 122,Unicentro,2,86.0
+USK20628,1980-11-07,38.0,Mujer,carrera86#42c43,Unicentro,2,73.0
+USK20622,1970-05-13,48.0,Mujer,calle 27 sur 27b 34,Unicentro,3,150.0
+USK20619,1978-12-25,40.0,Mujer,vereda el cerro santa elena,Unicentro,1,219.0
+USK20615,1983-03-16,36.0,Mujer,Cr118N 39D127 AP 301,Ruta N,1,79.0
+USK20614,1977-12-17,41.0,Hombre,cra44 43 15 itagui,Coltejer,3,218.0
+USK20612,1969-12-08,49.0,Mujer,cr 24a n 34-16,Coltejer,3,309.0
+USK20610,1991-06-06,27.0,Hombre,carrera 48a # 118-18,Ruta N,2,21.0
+USK20605,1997-07-14,21.0,Hombre,Carrera 43C #100-43,Ruta N,1,13.0
+USK20602,1974-12-03,44.0,Mujer,Carrera 76 # 91A87 robledo kennedy,Coltejer,10,544.0
+USK20599,1972-04-18,46.0,Hombre,cll 26 # 43-59 bello,"Coltejer, Puerta del Norte",10,34.0
+USK20594,1995-02-12,24.0,Hombre,carrera 65 # 55-30,"Coltejer, Terminal del Norte, Ruta N",12,68.0
+USK20593,1980-06-18,38.0,Mujer,pilarica,Coltejer,1,33.0
+USK20589,1979-09-13,39.0,Hombre,carrera10c#44aa-46,Ruta N,2,36.0
+USK20588,1990-12-18,28.0,Mujer,cra 53 100 71,Coltejer,1,13.0
+USK20586,1977-04-17,41.0,Mujer,calle 53 49 124 int 502,Coltejer,2,107.0
+USK20585,1998-08-11,20.0,Mujer,cll 113e n 63d-03,U. CES,1,7.0
+USK20582,1985-08-03,33.0,Mujer,calle49e #83a200,Plaza Mayor,1,2.0
+USK20581,1995-02-15,24.0,Hombre,diagonal 60 a # 37a 52,Puerta del Norte,1,2.0
+USK20580,1980-12-11,38.0,Hombre,cr 84 n 32-69 ap 402,U. CES,10,255.0
+USK20579,1988-05-09,30.0,Hombre,Cll 56N 41 - 99,Coltejer,3,78.0
+USK20578,1973-06-05,45.0,Mujer,cra 48 57 43,Coltejer,16,824.0
+USK20571,1998-03-12,21.0,Hombre,cll48d n 120e-24,U. CES,5,62.0
+USK20564,1990-12-30,28.0,Hombre,calle 2 # 65 - 81,Ruta N,7,52.0
+USK20562,1983-02-28,36.0,Hombre,calle39a#50a52,Plaza Mayor,10,17.0
+USK20561,1977-02-28,42.0,Hombre,calle 66 a # 55 a 51,Ruta N,1,66.0
+USK20560,1982-03-09,37.0,Hombre,cll 103 n 72-32,Coltejer,14,538.0
+USK20551,1980-10-31,38.0,Hombre,cll4a n 17a-59,Coltejer,6,290.0
+USK20549,1987-08-28,31.0,Mujer,marizapata68@hotmail.com,Coltejer,1,15.0
+USK20548,1989-12-04,29.0,Mujer,copacabana el noral,Coltejer,1,58.0
+USK20546,1982-07-11,36.0,Mujer,carrera50 #55-25,Coltejer,2,94.0
+USK20545,1998-07-12,20.0,Mujer,Carrera 28B #108A-29,CESDE,1,33.0
+USK20544,1981-09-30,37.0,Mujer,Calle 56A #63-53,CESDE,3,40.0
+USK20540,1970-02-10,49.0,Mujer,carrera46 #94-50,"Kaptadora 71, Plaza Mayor",43,400.0
+USK20539,1983-12-13,35.0,Mujer,carrera66-50 fa sur12,"Plaza Mayor, Coltejer",3,26.0
+USK20536,1991-04-14,27.0,Mujer,clla 41 # 34-35,"Coltejer, Ruta N",2,30.0
+USK20526,1996-05-14,22.0,Mujer,carrera102 calle31b-69,Coltejer,9,459.0
+USK20524,1996-01-08,23.0,Mujer,Calle 66E #42-12,Ruta N,6,252.0
+USK20519,1988-06-14,30.0,Mujer,calle40 b sur 61f26,Coltejer,1,3.0
+USK20517,1970-03-28,49.0,Mujer,carre36 #89-20,Coltejer,1,30.0
+USK20508,1975-08-04,43.0,Mujer,carrera 98 calle 33 a 11,Coltejer,2,331.0
+USK20506,1985-09-27,33.0,Mujer,cll69 n 68a-04,Coltejer,1,15.0
+USK20500,1989-02-18,30.0,Mujer,carrera 58 a #32-17,Ruta N,1,50.0
+USK20496,1995-11-29,23.0,Mujer,calle51#65-128,Ruta N,1,23.0
+USK20495,1985-05-01,33.0,Mujer,carrera 52 # 60-44,Ruta N,3,91.0
+USK20491,1996-12-12,22.0,Mujer,calle104 #39b12,Coltejer,14,501.0
+USK20487,1994-07-16,24.0,Hombre,carrera 52a calle 65-47,Ruta N,2,60.0
+USK20486,1977-06-09,41.0,Mujer,calle79 #43-38,Plaza Mayor,1,1.0
+USK20485,1993-08-07,25.0,Hombre,Carrera 56A #51-24,Ruta N,1,181.0
+USK20484,1970-11-18,48.0,Mujer,cll 119a n 67b-23,Coltejer,1,22.0
+USK20482,1986-11-15,32.0,Mujer,cr 47 n 106-61,Coltejer,10,
+USK20481,1991-05-09,27.0,Mujer,calle132asur #55a-67,Plaza Mayor,1,1.0
+USK20480,1997-07-13,21.0,Mujer,Calle 61 B Sur # 40-20,Coltejer,1,6.0
+USK20474,1984-12-25,34.0,Mujer,Carrera 18 #1-171 Apto 411,Ruta N,2,79.0
+USK20470,1984-06-18,34.0,Hombre,Carrera 28D #38D-69,CESDE,7,330.0
+USK20468,1979-09-15,39.0,Mujer,Carrera 81A #47-97,CESDE,10,251.0
+USK20465,1982-12-09,36.0,Mujer,caicedo la libertad,Coltejer,4,370.0
+USK20461,1996-12-05,22.0,Hombre,popular 2,Coltejer,6,69.0
+USK20460,1985-10-26,33.0,Hombre,Cll 48d #95-62,"Ruta N, Unicentro",4,296.0
+USK20453,1998-03-20,21.0,Mujer,Carrera 46 #83A-13,Ruta N,1,39.0
+USK20451,1979-04-20,39.0,Mujer,Castillas,Ruta N,2,102.0
+USK20446,1990-10-07,28.0,Mujer,cra 29 # 73 sur 102,Coltejer,2,55.0
+USK20445,1990-05-09,28.0,Mujer,Carrera 25 #43B-10,Ruta N,1,17.0
+USK20439,1987-04-11,31.0,Hombre,Calle 48 #58E-25,Ruta N,4,82.0
+USK20438,1981-08-30,37.0,Hombre,Calle 48 #58E-23,Ruta N,3,103.0
+USK20430,1991-01-06,28.0,Mujer,Calle 49 #4-36,Ruta N,1,4.0
+USK20417,1986-11-04,32.0,Mujer,Carrera 48 #93-91,Ruta N,1,1.0
+USK20416,1973-05-23,45.0,Mujer,calle 92 #47-34,Ruta N,1,8.0
+USK20414,1988-08-01,30.0,Hombre,Carrera 71A #79D-47 Int 413,Ruta N,2,62.0
+USK20413,1985-02-16,34.0,Mujer,dig 80 78b 240,Ruta N,4,102.0
+USK20397,1998-03-24,21.0,Hombre,cr 16b n 32 50,"Terminal del Norte, Ruta N, Plaza Mayor, Coltejer, Puerta del Norte",29,173.0
+USK20396,1985-07-20,33.0,Mujer,Carrera 84D # 9 - 60,"Kaptadora 71, Unicentro, Plaza Mayor, Ruta N",4,547.0
+USK20388,1990-05-12,28.0,Hombre,calle 53 # 49 135,Coltejer,7,175.0
+USK20387,1971-09-07,47.0,Mujer,cra 74 53 - 205 apta 206 los colores,Coltejer,7,667.0
+USK20386,1987-07-27,31.0,Mujer,Carrera 48A #59A-43,Ruta N,1,61.0
+USK20369,1996-01-20,23.0,Mujer,Calle 69 #51D-27 Int 402,Ruta N,1,77.0
+USK20367,1976-07-16,42.0,Mujer,Cr 80 5 SUR 40,Coltejer,1,20.0
+USK20355,1994-12-25,24.0,Mujer,Carrera 55 #30B-43,Ruta N,1,9.0
+USK20354,1979-11-07,39.0,Hombre,Calle 66 #55-30,Ruta N,4,74.0
+USK20353,1985-09-19,33.0,Mujer,Transversal 45 #79C-47,Ruta N,1,16.0
+USK20344,1977-08-06,41.0,Hombre,calle 76 sur # 46-22,Unicentro,2,38.0
+USK20342,1985-06-17,33.0,Hombre,Carrera 64C #75A 38,Ruta N,3,310.0
+USK20340,1986-03-23,33.0,Hombre,calle42-31-30 apto 201,Ruta N,4,173.0
+USK20333,1984-09-23,34.0,Mujer,CARRERA43 CO CALLE 63 #63A-29,Coltejer,2,91.0
+USK20329,1974-11-13,44.0,Mujer,Cr 16b 32 50,Coltejer,2,48.0
+USK20328,1990-12-20,28.0,Hombre,"Calle 27 # 58BB - 151, Bello Antioquia",Puerta del Norte,1,10.0
+USK20320,1992-08-24,26.0,Mujer,Campo Valdes,Ruta N,1,109.0
+USK20315,1995-01-14,24.0,Hombre,Calle 7 #80-185,Ruta N,1,156.0
+USK20314,1998-08-10,20.0,Hombre,Calle 35 #81 A 47,Unicentro,1,100.0
+USK20308,1992-07-05,26.0,Mujer,Cra 25 # 10 - 40,U. CES,3,125.0
+USK20290,1973-11-21,45.0,Mujer,Carrera 51 D numero 67-69,Ruta N,4,294.0
+USK20281,1994-11-30,24.0,Mujer,cll 62 n57-56,Coltejer,1,14.0
+USK20273,1983-04-28,35.0,Mujer,calle 90 76 a 17,"Ruta N, Terminal del Norte",5,421.0
+USK20270,1974-02-13,45.0,Mujer,CR 68 50 70,Coltejer,10,169.0
+USK20263,1982-07-06,36.0,Mujer,CR 33 C 34 32,Coltejer,8,
+USK20257,1982-09-14,36.0,Hombre,CL 71A 41 60,Ruta N,1,2.0
+USK20254,1991-07-22,27.0,Mujer,carrera 84b #28-19,Coltejer,4,73.0
+USK20253,1992-06-29,26.0,Mujer,carrera 22b # 59a - 29,Coltejer,1,11.0
+USK20251,1995-03-15,24.0,Hombre,Carrera 85 #66-72 Apto 9903,Ruta N,2,142.0
+USK20250,1998-07-01,20.0,Mujer,san cristobal barrio la libertad,Coltejer,2,126.0
+USK20242,1995-01-07,24.0,Mujer,CLL 44 C 86 12,Coltejer,9,482.0
+USK20241,1974-09-05,44.0,Mujer,Cr 44 107 C 41,Coltejer,1,28.0
+USK20240,1984-12-09,34.0,Mujer,Carrera 66BB #57A-16,Puerta del Norte,1,46.0
+USK20237,1983-01-09,36.0,Hombre,vereda pedregal,Ruta N,1,37.0
+USK20234,1996-06-22,22.0,Hombre,CARRERA 59 C 55 A 24,"Puerta del Norte, Unicentro",8,268.0
+USK20229,1971-11-11,47.0,Mujer,carrer 56#51a-20,Ruta N,2,356.0
+USK20227,1972-07-28,46.0,Mujer,Transversal 65 d 41 a 30,Coltejer,1,24.0
+USK20224,1996-02-13,23.0,Hombre,Cra 81B #54-138,Ruta N,4,311.0
+USK20219,1994-12-27,24.0,Mujer,carrera 16a # 40 - 52 buenos aires,Unicentro,1,9.0
+USK20217,1981-01-04,38.0,Hombre,calle 31c #87b-18,Unicentro,1,182.0
+USK20216,1997-08-18,21.0,Mujer,Calle 48 de # 96 a 38,Coltejer,3,107.0
+USK20212,1990-12-22,28.0,Mujer,CLL 65 g 45 79,Coltejer,2,74.0
+USK20211,1972-05-09,46.0,Mujer,r 41 65 64,Coltejer,1,17.0
+USK20209,1994-09-09,24.0,Mujer,CLL 48 42 36,Coltejer,7,213.0
+USK20208,1983-07-08,35.0,Hombre,calle 45 f 14 b 26,Coltejer,1,9.0
+USK20202,1994-12-15,24.0,Mujer,cra 69 28 43 itahui,Coltejer,1,43.0
+USK20200,1977-12-26,41.0,Mujer,cra 47 88 52,Coltejer,1,29.0
+USK20199,1983-09-26,35.0,Mujer,Calle 7 #70-500,Unicentro,7,675.0
+USK20196,1993-02-02,26.0,Mujer,Cr 44 65F 60,Coltejer,1,2.0
+USK20194,1972-01-15,47.0,Mujer,Barrio los Angeles,Coltejer,4,156.0
+USK20191,1971-03-03,48.0,Mujer,Barrio boston,Coltejer,1,70.0
+USK20190,1982-07-08,36.0,Hombre,Carrera 76 #103A-06,Ruta N,3,29.0
+USK20189,1981-05-06,37.0,Mujer,calle 80c# 55-87. int 110,"Terminal del Norte, Ruta N",2,379.0
+USK20186,1984-01-06,35.0,Mujer,Carrera 55 #65-108,Ruta N,18,
+USK20185,1971-02-15,48.0,Mujer,Carrera 72 #51-10,Ruta N,5,983.0
+USK20184,1972-06-21,46.0,Mujer,CLL 38c 26 ee 160,Coltejer,4,134.0
+USK20183,1978-08-31,40.0,Mujer,cra 76 91 a 112,Coltejer,7,584.0
+USK20182,1985-11-19,33.0,Mujer,Cr 24 A 56B 41 enciso,Coltejer,2,54.0
+USK20177,1976-03-01,43.0,Mujer,Carrera 68 #102-40,"Terminal del Norte, Ruta N",2,75.0
+USK20175,1992-04-10,26.0,Hombre,Calle 59 #64E- 44 Interior 234,Ruta N,1,51.0
+USK20170,1993-12-19,25.0,Mujer,carrera 50b #66- 60,"Coltejer, Ruta N",3,119.0
+USK20168,1983-06-18,35.0,Mujer,calle 63b # 100 - 21 apto 403,Coltejer,3,58.0
+USK20167,1996-03-25,23.0,Hombre,carrera 48a #82-49 301,Ruta N,4,32.0
+USK20163,1983-05-17,35.0,Mujer,Av 42 #57-29,Puerta del Norte,1,47.0
+USK20159,1984-03-19,35.0,Mujer,Calle 33 #19-105,CESDE,1,47.0
+USK20157,1997-10-28,21.0,Mujer,carrera 65f 31-40 apto 713,Unicentro,2,150.0
+USK20149,1985-05-09,33.0,Mujer,Cr 55 DD 83H 09,Ruta N,1,59.0
+USK20147,1998-02-13,21.0,Mujer,Cr 78 A 89A 20,Ruta N,1,3.0
+USK20146,1978-02-01,41.0,Mujer,Calle 64FF #97-30,Coltejer,1,1.0
+USK20145,1977-09-19,41.0,Hombre,Cra. 24A #56B-25,Coltejer,1,746.0
+USK20144,1974-05-27,44.0,Mujer,Calle 55 #49-85,Coltejer,2,82.0
+USK20141,1995-11-25,23.0,Hombre,carrera 48# 84-35,Ruta N,3,51.0
+USK20133,1992-03-18,27.0,Mujer,Calle 32D #79A-24,Aventura,1,26.0
+USK20125,1979-10-23,39.0,Mujer,Cr 67A 42 Sur 109,Coltejer,5,66.0
+USK20115,1992-11-28,26.0,Mujer,santa elena,Coltejer,12,213.0
+USK20114,1983-04-13,35.0,Mujer,ave 37 55 192,Puerta del Norte,1,10.0
+USK20112,1990-03-27,29.0,Hombre,Carrera 48 #76D Sur 34,Ruta N,12,69.0
+USK20110,1995-03-13,24.0,Mujer,carrera 43aa 107b 26,Coltejer,5,133.0
+USK20108,1986-09-07,32.0,Mujer,calle 80c # 89-51,Coltejer,7,124.0
+USK20105,1988-12-16,30.0,Mujer,carrera43con63-29,Coltejer,1,163.0
+USK20104,1986-11-11,32.0,Mujer,cll 123 49B 31,Ruta N,1,73.0
+USK20101,1995-06-27,23.0,Mujer,Cra. 58 #24A-29,Ruta N,1,11.0
+USK20096,1990-01-23,29.0,Mujer,calle 78 # 43 - 56,Ruta N,4,48.0
+USK20095,1974-05-31,44.0,Hombre,Carrera 108 #40-35,CESDE,1,1.0
+USK20091,1971-11-09,47.0,Hombre,carrera 33 27a 91,Coltejer,2,18.0
+USK20090,1996-03-14,23.0,Mujer,calle 77d #86-50,"Coltejer, Ruta N",4,90.0
+USK20088,1979-05-13,39.0,Mujer,Carrera 63A #104-124,Puerta del Norte,1,24.0
+USK20087,1970-12-27,48.0,Mujer,Diagonal 62 #43-13,Puerta del Norte,2,21.0
+USK20079,1987-08-31,31.0,Mujer,calle 105 64d 65,Coltejer,1,38.0
+USK20078,1998-09-13,20.0,Hombre,carrerab38# 68-50,Ruta N,3,54.0
+USK20074,1996-03-22,23.0,Mujer,carrera 38 # 55-24,Coltejer,4,69.0
+USK20073,1973-04-16,45.0,Mujer,calle 60 #43-53,Coltejer,2,80.0
+USK20072,1995-10-26,23.0,Hombre,calle 60 #43-53,Coltejer,3,181.0
+USK20071,1997-08-20,21.0,Hombre,calle 74 sur # 62a 91,Ruta N,1,13.0
+USK20069,1985-08-30,33.0,Mujer,carrera 53 #67-52,"Ruta N, Coltejer",11,196.0
+USK20068,1983-11-20,35.0,Mujer,calle 68a 87 43,"Ruta N, Coltejer",9,215.0
+USK20063,1985-08-27,33.0,Mujer,Calle 101 #72A-114,Coltejer,1,39.0
+USK20060,1981-02-16,38.0,Mujer,CALLE 32C # 28A32,Coltejer,1,51.0
+USK20059,1983-02-25,36.0,Mujer,calle 78 40-58,Coltejer,1,40.0
+USK20057,1984-05-22,34.0,Hombre,calle 48 a sur 39 b 48,Ruta N,1,3.0
+USK20053,1974-04-08,44.0,Mujer,Cra. 82 #88-37,Coltejer,4,75.0
+USK20050,1981-12-14,37.0,Mujer,cll 101b 7227 tercer piso,Aventura,1,65.0
+USK20048,1990-10-05,28.0,Mujer,cr 55 49- 04,Aventura,3,10.0
+USK20046,1992-05-26,26.0,Mujer,cra 39 71 a 26,Ruta N,1,8.0
+USK20044,1992-01-01,27.0,Hombre,san javier,"Unicentro, Coltejer, Ruta N",16,176.0
+USK20040,1987-01-18,32.0,Hombre,cll 50A Cr 97- 125 (interior 1512),"Coltejer, Ruta N",13,154.0
+USK20030,1978-09-07,40.0,Mujer,calle 45 #34-64,Coltejer,2,58.0
+USK20029,1998-12-07,20.0,Hombre,Diagonal 59 #38-31 Barrio Niquia,U. CES,1,10.0
+USK20025,1992-03-13,27.0,Mujer,calle 110b #38-20,Coltejer,3,44.0
+USK20024,1979-11-06,39.0,Hombre,calle 57 50a-46 apto 204,Coltejer,1,12.0
+USK20021,1979-04-07,39.0,Hombre,calle 58 35-45,Coltejer,6,111.0
+USK20017,1998-03-29,20.0,Mujer,Calle 61 #56-51 Chagualo,Ruta N,1,2.0
+USK20016,1988-10-10,30.0,Mujer,Calle 70A #44-44 Manrique,Ruta N,1,5.0
+USK20011,1995-12-26,23.0,Mujer,Carrera 50D #64-49 Prado Centro,Aventura,1,29.0
+USK20003,1995-10-21,23.0,Mujer,Cra. 40 #40-27 Torres de BombonÃ¡,Coltejer,5,171.0
+USK20002,1980-07-01,38.0,Mujer,Calle 84 #41A-10,Coltejer,1,91.0
+USK19999,1983-12-02,35.0,Mujer,cra 35 a 99 62,Coltejer,1,25.0
+USK19993,1984-05-05,34.0,Mujer,cra 50 a 57 51,Coltejer,5,164.0
+USK19982,1992-05-24,26.0,Mujer,Carrera 43 A #38-78,CESDE,1,178.0
+USK19979,1984-07-03,34.0,Mujer,calle 61 # 75~116,Unicentro,2,42.0
+USK19974,1984-06-03,34.0,Mujer,calle 69a #38a-12,"Coltejer, Kaptadora 70",2,55.0
+USK19962,1996-04-12,22.0,Mujer,Carrera 38 #26-343,Ruta N,3,37.0
+USK19958,1997-03-03,22.0,Hombre,diagonal 56 #47-14,Coltejer,2,5.0
+USK19956,1982-06-21,36.0,Hombre,calle 78b 94a-25 robledo,Coltejer,4,6.0
+USK19953,1997-09-22,21.0,Mujer,calle 48 sur 39 b 39,Coltejer,1,18.0
+USK19952,1980-06-20,38.0,Mujer,calle 94b sur puebo viejo,Coltejer,5,101.0
+USK19946,1981-08-09,37.0,Hombre,Calle 44 #94-68,Ruta N,3,26.0
+USK19943,1986-03-10,33.0,Mujer,CalÃ±le 65AA #36-124 Villa Hermosa,Coltejer,3,97.0
+USK19941,1969-11-15,49.0,Mujer,carrea 44 #48-75 centro,Coltejer,7,246.0
+USK19939,1997-06-22,21.0,Hombre,Calle 102 #45-17 Santa Cruz,Coltejer,1,8.0
+USK19932,1973-04-18,45.0,Mujer,carrea 115a #43b-15,Coltejer,1,40.0
+USK19917,1984-07-06,34.0,Mujer,Av. 38BB #42EB-51 5 Estrellas,Coltejer,2,44.0
+USK19915,1992-05-20,26.0,Hombre,Carrera 50,Ruta N,2,10.0
+USK19913,1979-11-02,39.0,Mujer,Cra. 15B #35-20 Buenos Aires,Coltejer,13,560.0
+USK19909,1987-12-14,31.0,Hombre,la camila,Puerta del Norte,4,260.0
+USK19906,1987-05-13,31.0,Mujer,CALLE 48FD #100AE 40,"Colaboramerica, Ruta N, Plaza Mayor",69,558.0
+USK19899,1986-04-16,32.0,Mujer,Cra 36a No. 65B 60,Ruta N,1,49.0
+USK19898,1996-10-29,22.0,Hombre,calle 108#37-10,Ruta N,1,24.0
+USK19888,1970-01-31,49.0,Mujer,cr 60 N 74 - 22,Colaboramerica,5,61.0
+USK19887,1991-01-11,28.0,Mujer,cr 133c N 62c - 05,Colaboramerica,1,5.0
+USK19885,1987-01-12,32.0,Mujer,cr 39 N 46 c sur 67,Colaboramerica,1,3.0
+USK19884,1977-09-26,41.0,Mujer,cl 72 sur N 45a 39,Colaboramerica,1,3.0
+USK19883,1991-04-26,27.0,Hombre,carrera 57a calle 38,Ruta N,3,100.0
+USK19882,1998-03-26,21.0,Mujer,3/26/1998,Colaboramerica,1,11.0
+USK19881,1978-07-25,40.0,Hombre,cr 83 N 83 45 Barrio Cordoba,Colaboramerica,1,25.0
+USK19878,1978-03-10,41.0,Mujer,cra 77 b 60 81,Coltejer,3,197.0
+USK19876,1986-07-08,32.0,Hombre,El Poblado,Ruta N,1,1.0
+USK19874,1994-03-06,25.0,Mujer,calle 66 cra 103 - 15,Coltejer,1,41.0
+USK19865,1994-02-12,25.0,Mujer,Cll 65 # 80a 95,Ruta N,4,27.0
+USK19863,1989-11-07,29.0,Hombre,Calle 39A #89-51,CESDE,1,24.0
+USK19862,1988-04-08,30.0,Mujer,SAN ANTONIO DE PRADO,Colaboramerica,1,15.0
+USK19858,1995-02-17,24.0,Mujer,Calle 53 #50-20 Centro,Coltejer,1,160.0
+USK19855,1984-08-27,34.0,Mujer,Carrera 81 # 25B - 12,Terminal del Norte,2,95.0
+USK19854,1982-01-26,37.0,Mujer,montoyatatiana79@gmail.com,Puerta del Norte,1,79.0
+USK19852,1992-07-20,26.0,Hombre,CALLE 20E #41A 109,"Ruta N, Colaboramerica",6,89.0
+USK19851,1974-10-30,44.0,Mujer,CALLE 110 #63B 37,Colaboramerica,2,42.0
+USK19850,1992-05-28,26.0,Mujer,calle 103 b Â·63 c18,Colaboramerica,4,31.0
+USK19849,1996-10-22,22.0,Mujer,CALLE 105 #46A 30,Colaboramerica,3,56.0
+USK19846,1982-08-18,36.0,Mujer,CARRERA 42 #85 140,Colaboramerica,2,24.0
+USK19840,1977-06-26,41.0,Mujer,CALLE 48DE 45 153,Colaboramerica,6,65.0
+USK19839,1995-10-12,23.0,Hombre,CAICEDO,Colaboramerica,2,16.0
+USK19834,1998-03-24,21.0,Mujer,CARRERA 36 #39 25,Colaboramerica,1,28.0
+USK19833,1990-09-28,28.0,Hombre,San Cristobal,Colaboramerica,1,37.0
+USK19832,1992-11-10,26.0,Hombre,carrera 53 #58-13,Coltejer,4,54.0
+USK19831,1997-07-26,21.0,Hombre,c74a #37a sur 40,"Colaboramerica, Ruta N",4,271.0
+USK19828,1996-05-10,22.0,Hombre,Robledo,Colaboramerica,1,3.0
+USK19827,1991-12-05,27.0,Mujer,Calle76 sur #46-22 Sabaneta,U. CES,2,18.0
+USK19825,1986-10-20,32.0,Hombre,calle88A #51B 23,Colaboramerica,8,60.0
+USK19823,1970-09-08,48.0,Hombre,calle 98 #83-64 12 de octubre,Coltejer,1,30.0
+USK19821,1999-02-27,20.0,Mujer,Cll 81 # 52d 160,Ruta N,2,4.0
+USK19819,1994-06-18,24.0,Mujer,Cr44a5414,Colaboramerica,1,13.0
+USK19812,1994-10-10,24.0,Hombre,Carrera 96A #49-29,CESDE,15,46.0
+USK19810,1984-03-05,35.0,Mujer,carr 47b #73-09,Puerta del Norte,3,93.0
+USK19809,1995-10-17,23.0,Mujer,av 50a #54-62,Puerta del Norte,1,6.0
+USK19807,1971-10-18,47.0,Mujer,av 40 #51-110,Puerta del Norte,1,1.0
+USK19806,1989-02-03,30.0,Mujer,carrera 61 #36-84,Ruta N,5,54.0
+USK19805,1996-11-12,22.0,Mujer,calle 41b sur #25a-42,Ruta N,1,5.0
+USK19793,1991-07-07,27.0,Hombre,Calle 103A #47-24,Coltejer,1,6.0
+USK19792,1971-01-04,48.0,Mujer,calle 57 d # 24 bb 44 int 107,Coltejer,1,177.0
+USK19783,1996-09-04,22.0,Mujer,Carrera 64b #25-139 Barrio Bariloche,Coltejer,4,103.0
+USK19773,1993-02-23,26.0,Mujer,crr 30 #51-06,Puerta del Norte,2,100.0
+USK19772,1997-06-24,21.0,Mujer,crr 51a #96-65,Puerta del Norte,1,24.0
+USK19770,1987-07-03,31.0,Mujer,av 45b #65-40,Puerta del Norte,2,232.0
+USK19769,1981-02-26,38.0,Mujer,El velodromo,"Unicentro, Puerta del Norte",2,133.0
+USK19763,1996-08-21,22.0,Mujer,calle 68a# 95-57,Ruta N,1,41.0
+USK19762,1995-06-07,23.0,Mujer,Cll. 111 a # 65 a 53 int 301,"Puerta del Norte, Aventura",5,139.0
+USK19760,1995-06-04,23.0,Hombre,Diagonal 81B #76-89 (302),Ruta N,4,766.0
+USK19750,1994-07-16,24.0,Mujer,Calle 45C #14D-17 Buenos Aires Los Cerros,Aventura,1,7.0
+USK19749,1978-05-11,40.0,Mujer,Torres De La Fuente - Chagualo,"Aventura, Ruta N",4,68.0
+USK19747,1987-02-20,32.0,Mujer,Cra. 32 #36A-31 La Milagrosa,Aventura,1,36.0
+USK19745,1993-03-01,26.0,Mujer,Sevilla,"Ruta N, Aventura",7,154.0
+USK19744,1998-11-25,20.0,Mujer,Sevilla,Ruta N,2,110.0
+USK19741,1995-02-06,24.0,Mujer,Cll 96 # 84b-36 Robledo Primaveral,Coltejer,2,80.0
+USK19736,1994-06-12,24.0,Hombre,calle 56b #66bb-30,Puerta del Norte,1,40.0
+USK19734,1987-01-02,32.0,Hombre,calle 64 a # 106 151,Coltejer,4,78.0
+USK19733,1978-05-13,40.0,Mujer,Centro,Coltejer,2,28.0
+USK19732,1977-01-17,42.0,Mujer,Calle 91C #84-24 Robledo Miramar,Coltejer,91,
+USK19728,1993-11-02,25.0,Hombre,Calle 65 #55-30,Ruta N,2,22.0
+USK19723,1994-02-08,25.0,Hombre,calle 76# 49-20,Ruta N,5,20.0
+USK19722,1997-11-17,21.0,Mujer,Calle 70 #31-33,CESDE,3,15.0
+USK19717,1994-08-01,24.0,Mujer,Calle 65A #144-65 Int 136,CESDE,3,13.0
+USK19713,1975-03-23,44.0,Mujer,Av. 35a # 44 02,Aventura,1,13.0
+USK19710,1972-02-21,47.0,Mujer,Cra 50a 82 58,Aventura,1,6.0
+USK19705,1998-04-19,20.0,Mujer,ciudadela sevilla,Ruta N,2,5.0
+USK19700,1993-05-06,25.0,Mujer,Sabaneta,CESDE,2,31.0
+USK19699,1981-07-13,37.0,Mujer,Calle 103B #47-42 Villa del Socorro,Coltejer,3,67.0
+USK19696,1995-11-11,23.0,Mujer,Belen,Coltejer,1,24.0
+USK19694,1972-12-11,46.0,Mujer,Cll 64 # 94c 77 Robledo,"Ruta N, Coltejer",2,90.0
+USK19691,1995-07-21,23.0,Hombre,Carrera 53 #61A-21,CESDE,1,5.0
+USK19690,1977-11-15,41.0,Mujer,Calle 63 #31-57 BostÃ³n,Coltejer,12,334.0
+USK19686,1992-05-05,26.0,Hombre,Carre 49 Calle 103A-05,CESDE,5,25.0
+USK19685,1983-07-27,35.0,Mujer,Cra. 47 #52-86 Centro,Coltejer,2,29.0
+USK19684,1987-07-03,31.0,Mujer,la camila,Puerta del Norte,2,251.0
+USK19682,1981-02-11,38.0,Mujer,Cr 32 107 a 25,"Ruta N, Aventura",5,400.0
+USK19677,1985-11-10,33.0,Hombre,carrera 8# 57a-8,Unicentro,1,1.0
+USK19674,1993-09-07,25.0,Hombre,Chagualo,Aventura,1,24.0
+USK19673,1977-11-22,41.0,Mujer,Diagonal 80 # 78b 240,"Ruta N, Aventura",3,118.0
+USK19664,1973-07-14,45.0,Mujer,calle 72a#50-54,Ruta N,2,74.0
+USK19663,1995-04-24,23.0,Hombre,carrera 48#95-130,Coltejer,2,16.0
+USK19658,1997-04-26,21.0,Mujer,Cll 76 eb # 81 c - 37 apt 301,Ruta N,1,60.0
+USK19655,1993-03-21,26.0,Mujer,Carrera 50C #79-34,"Coltejer, Ruta N",13,215.0
+USK19654,1998-05-19,20.0,Hombre,carrera 25# 53-79,Ruta N,1,2.0
+USK19653,1993-06-13,25.0,Mujer,carrera 34a#31-27,Ruta N,1,4.0
+USK19648,1980-02-03,39.0,Mujer,Calle 49 #95-70 Floresta La Pradera,Coltejer,3,9.0
+USK19645,1988-10-25,30.0,Mujer,Calle 77CC #84-39 Robledo,Coltejer,3,72.0
+USK19644,1992-06-27,26.0,Mujer,Calle 76#31-63 Barrip Manrique Oriental,Coltejer,4,72.0
+USK19643,1996-07-17,22.0,Mujer,Carrera 33 #71-43,CESDE,4,59.0
+USK19642,1981-10-04,37.0,Mujer,Carrera50 #100-72 Barrio Santa Cruz,Coltejer,10,141.0
+USK19640,1977-12-03,41.0,Mujer,Carrera 42B #108A-38,CESDE,2,11.0
+USK19638,1988-02-13,31.0,Hombre,carr 53 #53a-55,"CESDE, Puerta del Norte",2,9.0
+USK19637,1991-07-13,27.0,Mujer,carr 53 #53a-55,Puerta del Norte,2,23.0
+USK19635,1982-12-04,36.0,Hombre,Cra. 39 #58-14 Boston,"Coltejer, Ruta N",2,263.0
+USK19628,1998-07-27,20.0,Hombre,calle 101# 45-27,Unicentro,1,1.0
+USK19627,1976-10-17,42.0,Mujer,Calle 81#72c35,Terminal del Norte,1,21.0
+USK19626,1973-11-11,45.0,Mujer,Diagonal 79A #76-290 Robledo,Ruta N,1,5.0
+USK19625,1991-09-04,27.0,Mujer,Calle 40C # 22b 62,Ruta N,21,223.0
+USK19624,1982-03-29,36.0,Mujer,Calle 57c #28-53 Enciso,Coltejer,1,2.0
+USK19621,1989-01-31,30.0,Mujer,Cra. 19 # 1006,Aventura,3,18.0
+USK19619,1998-11-09,20.0,Mujer,Sector Universidad de Antioquia,Aventura,1,4.0
+USK19618,1994-05-04,24.0,Mujer,Cra 81a # 19 112,Aventura,1,34.0
+USK19614,1980-10-07,38.0,Mujer,Cll 86a # 47 29,Aventura,1,122.0
+USK19608,1992-09-01,26.0,Mujer,cra 15 bb 35 54,Coltejer,2,92.0
+USK19606,1971-01-27,48.0,Mujer,Carrera87 a#32-81 Belen Las Mercedes,Coltejer,4,44.0
+USK19604,1969-05-19,49.0,Hombre,cra 50 c 80 campo valdez,Coltejer,1,79.0
+USK19602,1976-09-30,42.0,Hombre,Av 26 #52-200 Apto 1403,"Unicentro, Puerta del Norte",8,447.0
+USK19601,1982-08-13,36.0,Hombre,Carrera 63B #76-05,Puerta del Norte,3,197.0
+USK19599,1989-11-18,29.0,Hombre,Boyaca Las Brisas,Puerta del Norte,1,7.0
+USK19593,1980-03-16,39.0,Hombre,calle 63b #76-29,Puerta del Norte,2,72.0
+USK19592,1988-02-20,31.0,Mujer,Carrera 33 #42-36,CESDE,16,111.0
+USK19590,1977-08-07,41.0,Mujer,CR 39 58 14,Coltejer,10,349.0
+USK19587,1988-07-15,30.0,Hombre,Cra. 8A #57A-41 Caicedo,Coltejer,6,262.0
+USK19586,1982-02-07,37.0,Mujer,calle 22 Â· 71 - 26,"Unicentro, Coltejer",6,475.0
+USK19579,1990-12-28,28.0,Mujer,Cra. 76 a # 91 05 Robledo Kenedy,"Ruta N, Aventura",5,131.0
+USK19573,1986-09-20,32.0,Mujer,Cra. 21A #59-12 Llanadas,Coltejer,3,108.0
+USK19572,1988-05-28,30.0,Mujer,Cll 103 # 77a 21,Aventura,1,14.0
+USK19567,1983-07-17,35.0,Mujer,Carrera49# 63a-72,Ruta N,2,31.0
+USK19566,1984-04-10,34.0,Mujer,Carrera 70 #24-210,CESDE,3,71.0
+USK19564,1989-11-26,29.0,Mujer,Cra. 39 #78-39 Manrique,Coltejer,5,117.0
+USK19562,1980-11-25,38.0,Mujer,Cra. 30 #49-41,Coltejer,2,156.0
+USK19561,1972-06-08,46.0,Mujer,Cra. 26C #97BB-53 Santo Domingo,Coltejer,2,107.0
+USK19554,1990-08-12,28.0,Hombre,calle 104 # 84d 48,Terminal del Norte,1,15.0
+USK19548,1970-03-16,49.0,Mujer,Calle58 #29-45 Barrio Enciso,Coltejer,2,49.0
+USK19547,1992-02-03,27.0,Mujer,Diagonal 69C #39B-126,Puerta del Norte,1,131.0
+USK19546,1974-04-15,44.0,Mujer,Av. 49 #58-18 NiquÃ­a,Coltejer,1,4.0
+USK19544,1993-01-29,26.0,Mujer,Carrera88 a #68-38 Barrio Robledo Palenque,Coltejer,1,3.0
+USK19541,1985-01-28,34.0,Mujer,calle 45b *107b18,Coltejer,6,565.0
+USK19540,1989-04-03,29.0,Mujer,Cra. 49 #55-57 Prado,Coltejer,1,28.0
+USK19539,1997-04-12,21.0,Mujer,Calle 52 #29-72,CESDE,1,1.0
+USK19538,1981-06-29,37.0,Mujer,Calle 101 #50a-37 Barrio Santa Cruz,Coltejer,2,40.0
+USK19533,1995-10-17,23.0,Mujer,Chagualo,Ruta N,1,2.0
+USK19531,1994-07-01,24.0,Mujer,cl 3 N 77 16,Ruta N,2,3.0
+USK19521,1985-07-20,33.0,Mujer,Calle 80C #7247,Ruta N,1,59.0
+USK19520,1990-06-03,28.0,Mujer,calle 34b#65-67,Unicentro,2,45.0
+USK19516,1978-01-03,41.0,Hombre,calle 23 b 60 77,"Aventura, Ruta N, Puerta del Norte",6,382.0
+USK19511,1973-05-05,45.0,Hombre,Carrra50 #63-136 Barrio Prado Centro,Coltejer,10,278.0
+USK19508,1992-11-21,26.0,Mujer,Calle 91A #36BB-13 Manrique - San Blas,Coltejer,5,123.0
+USK19507,1977-10-29,41.0,Mujer,calle 81 sur # 59-115,Unicentro,3,264.0
+USK19505,1988-04-27,30.0,Mujer,Cra55#58-59,"Coltejer, Puerta del Norte, Ruta N",6,53.0
+USK19500,1983-03-22,36.0,Hombre,dig 69c #39b-198,Ruta N,8,90.0
+USK19497,1977-04-02,41.0,Mujer,Calle 23A #65B-41 Santa FÃ©,Coltejer,3,94.0
+USK19493,1993-03-23,26.0,Mujer,carrera 62b#53-68,Ruta N,1,51.0
+USK19490,1992-12-28,26.0,Mujer,Calle 31a # 84 - 55,Ruta N,7,190.0
+USK19485,1994-07-30,24.0,Hombre,Carrera 89b#89-101,Unicentro,1,1.0
+USK19482,1993-10-17,25.0,Hombre,Carrera27 #59-56 Enciso,Coltejer,2,49.0
+USK19481,1987-10-16,31.0,Mujer,calle 5b #5-104,"Puerta del Norte, Ruta N",4,70.0
+USK19467,1984-08-28,34.0,Mujer,CARRERA 61 58-51,Coltejer,1,157.0
+USK19465,1995-02-06,24.0,Mujer,Calle 62 #105B-10 Robledo,Coltejer,2,31.0
+USK19459,1970-10-28,48.0,Hombre,calle 56 #62-69,Puerta del Norte,1,223.0
+USK19458,1980-03-06,39.0,Mujer,crr 50 #65-7,Puerta del Norte,2,39.0
+USK19457,1994-06-27,24.0,Mujer,cl 65 # 58 31,Ruta N,4,109.0
+USK19454,1988-12-09,30.0,Hombre,Diagonal 57 #43-38 Apto 102,Puerta del Norte,1,15.0
+USK19453,1982-10-06,36.0,Mujer,Calle 83 # 76-95,Terminal del Norte,1,12.0
+USK19452,1969-04-18,49.0,Hombre,calle 75 72b-55,Unicentro,4,291.0
+USK19451,1981-07-02,37.0,Mujer,santa elena,Coltejer,3,52.0
+USK19447,1994-11-25,24.0,Mujer,crr 43c #34-06,Aventura,1,430.0
+USK19442,1989-02-19,30.0,Mujer,crr 74 #109-10,"Coltejer, Aventura",4,8.0
+USK19433,1969-03-29,49.0,Mujer,carrera 42#86-33,"Aventura, Ruta N",4,293.0
+USK19427,1998-04-17,20.0,Hombre,Cll 24a # 58 82,Aventura,1,12.0
+USK19426,1980-12-23,38.0,Mujer,Carrera 43a-47b-44,Coltejer,2,7.0
+USK19422,1992-10-04,26.0,Mujer,Calle47#30-44,Ruta N,4,33.0
+USK19421,1994-09-09,24.0,Hombre,Calle119#67b-13,Ruta N,1,67.0
+USK19420,1995-06-23,23.0,Mujer,Calle113a#64c-62,Ruta N,1,30.0
+USK19419,1995-02-03,24.0,Hombre,Cr 37 # 107 e 01q,Ruta N,2,60.0
+USK19418,1983-07-26,35.0,Hombre,calle 70Sur #46 83,Ruta N,1,5.0
+USK19416,1980-10-17,38.0,Mujer,Carrera 36C #107-F9 Int 201,"Aventura, Puerta del Norte, Ruta N",5,46.0
+USK19415,1987-11-02,31.0,Mujer,Vereda San Diego. Girardota,Puerta del Norte,6,77.0
+USK19414,1971-04-12,47.0,Mujer,Dir. crr 69 #91-5,Terminal del Norte,2,4.0
+USK19412,1972-06-29,46.0,Mujer,crr 33b #40a -7,"Coltejer, Terminal del Norte",6,154.0
+USK19411,1988-07-22,30.0,Mujer,Dir. la francia,Terminal del Norte,1,6.0
+USK19410,1988-03-15,31.0,Hombre,calle 6#57-20,Ruta N,1,9.0
+USK19406,1975-01-03,44.0,Mujer,TRANSVERSAL 5D #39-135 Barrio Poblado,U. CES,1,15.0
+USK19405,1991-11-19,27.0,Mujer,Calle 26#39-75 Barrio Poblado,U. CES,2,23.0
+USK19402,1988-02-05,31.0,Mujer,carrera 72 45e - 63,"U. CES, Unicentro",2,20.0
+USK19396,1992-03-19,27.0,Hombre,calle 16 #99 107,Ruta N,4,31.0
+USK19395,1997-01-12,22.0,Mujer,carrera 49D # 97A Sur 158,Ruta N,6,53.0
+USK19390,1990-03-24,29.0,Mujer,cr 15 a# 36-40 Buenos aires,Coltejer,1,52.0
+USK19387,1987-08-12,31.0,Hombre,Calle 121 # 50B-153 La Frontera,Coltejer,8,165.0
+USK19385,1996-07-25,22.0,Hombre,cll 59 a# 37-19 Boston,Coltejer,2,28.0
+USK19381,1977-12-17,41.0,Mujer,Cra. 16B #32-14 Buenos Aires,Coltejer,6,161.0
+USK19378,1969-06-22,49.0,Mujer,Calle 52 #16-70 Caicedo,Coltejer,5,113.0
+USK19374,1989-04-14,29.0,Hombre,Carrera 74B Calle 65-41 camino del cerro apto 422,Coltejer,1,30.0
+USK19371,1998-04-27,20.0,Hombre,Tablaza,Ruta N,2,10.0
+USK19367,1970-08-10,48.0,Mujer,calle 59b #68c-03,"Terminal del Norte, Coltejer",3,41.0
+USK19366,1986-03-20,33.0,Mujer,"Dir: Yolombo, antioquia",Terminal del Norte,1,18.0
+USK19364,1976-11-14,42.0,Hombre,Dir. b. Pablo Escobar,Terminal del Norte,4,217.0
+USK19363,1980-09-02,38.0,Mujer,Diagonal 43 #34D-20,Puerta del Norte,6,140.0
+USK19362,1979-04-21,39.0,Mujer,Calle 52A #54-21,Puerta del Norte,2,171.0
+USK19361,1979-04-20,39.0,Mujer,Av 33 #55-95 Apto 193,"Puerta del Norte, Ruta N",2,52.0
+USK19357,1996-06-30,22.0,Hombre,Calle 115 #67-C16 Florencia,Coltejer,4,81.0
+USK19346,1994-03-30,24.0,Mujer,Calle 44b # 90-31,Ruta N,1,32.0
+USK19343,1989-01-10,30.0,Hombre,Calle 94 c N. 84 b 11 Apto 201. Robledo,Terminal del Norte,1,5.0
+USK19336,1998-09-29,20.0,Mujer,calle 48 #4-18,Coltejer,2,72.0
+USK19335,1997-10-07,21.0,Hombre,CALLE 66 #50C 25,Ruta N,1,27.0
+USK19334,1994-04-12,24.0,Hombre,CARRERA 39 #75 60,Ruta N,4,67.0
+USK19332,1996-07-13,22.0,Hombre,cra 67 a 48 d 122,Unicentro,2,77.0
+USK19330,1995-08-13,23.0,Mujer,Transversal 73 #38-32 Barrio Laureles,"Unicentro, U. CES",3,40.0
+USK19328,1990-11-04,28.0,Mujer,Calle 48d sur #42d- 21 Barrio SeÃ±orial,U. CES,3,75.0
+USK19325,1985-12-22,33.0,Hombre,circular 6 #66 b-135 Sanjuaquin,Coltejer,2,90.0
+USK19324,1996-07-01,22.0,Mujer,Calle 5 sur #29a- 141 Barrio Poblado,U. CES,1,1.0
+USK19320,1987-10-13,31.0,Mujer,Calle 49 #87-111 Buenos Aires,Coltejer,33,
+USK19319,1991-11-14,27.0,Mujer,Cra. 51 #110-31 La Francia,Coltejer,1,12.0
+USK19313,1997-08-12,21.0,Mujer,Calle 32a #65c -26 Barrio Belen Fatima,U. CES,3,25.0
+USK19309,1996-02-25,23.0,Hombre,VEREDA HATOVIEJO BELLO,Ruta N,1,8.0
+USK19308,1981-06-14,37.0,Mujer,CALLE 103d #72 98,"Coltejer, Ruta N",3,59.0
+USK19307,1993-12-21,25.0,Mujer,CALLE 10 #43D 64,Ruta N,1,10.0
+USK19306,1998-06-07,20.0,Hombre,calle 79 #57B 47,Ruta N,1,7.0
+USK19302,1995-09-11,23.0,Mujer,carrera 42#80-58,Ruta N,1,8.0
+USK19299,1996-12-04,22.0,Mujer,Carrera 68A #45-30,CESDE,4,69.0
+USK19298,1981-08-04,37.0,Hombre,Calle105a #78c-17 Barrio 12 de Octubre,U. CES,2,17.0
+USK19296,1996-09-03,22.0,Mujer,Carrera32b #10-110 Barrio Poblado,U. CES,1,99.0
+USK19294,1992-03-11,27.0,Mujer,calle 93#51b-18,Ruta N,3,87.0
+USK19291,1987-11-19,31.0,Hombre,Calle 80 # 72A-505,Terminal del Norte,1,66.0
+USK19290,1977-10-28,41.0,Mujer,Calle97A-116,Terminal del Norte,1,43.0
+USK19289,1970-01-06,49.0,Mujer,Calle 97A-116,Terminal del Norte,1,136.0
+USK19287,1981-04-03,37.0,Mujer,calle 84 n 65-38,Terminal del Norte,4,81.0
+USK19280,1997-01-31,22.0,Hombre,cr 25ab n 54 20,Ruta N,1,4.0
+USK19274,1990-05-02,28.0,Hombre,CL 45A #102B-25,"Unicentro, Aventura",2,25.0
+USK19270,1990-01-11,29.0,Mujer,Cra 46 #63A-12 Prado Centro,"Coltejer, Aventura",3,27.0
+USK19269,1979-05-10,39.0,Mujer,cl 44 cc cr 9 d 13,Coltejer,14,305.0
+USK19266,1978-01-12,41.0,Mujer,cll 20 f # 62 a -55 Jose antonio galan,Coltejer,1,3.0
+USK19261,1980-11-26,38.0,Mujer,Carrera 73b #98-46 Barrio Castila,Coltejer,12,374.0
+USK19252,1979-10-27,39.0,Hombre,carrera 56a#61-24 atpo 1112,Ruta N,1,19.0
+USK19250,1984-10-27,34.0,Hombre,Calle 34 #56-98 Bello,Puerta del Norte,2,74.0
+USK19247,1971-05-25,47.0,Mujer,Carrera51a#69-5,Ruta N,7,410.0
+USK19239,1992-04-13,26.0,Mujer,cll 98 cr 78 Doce de octubre,Coltejer,7,14.0
+USK19238,1980-01-04,39.0,Mujer,cr 49 # 99-87 Santa cruz,Coltejer,1,7.0
+USK19237,1972-04-14,46.0,Mujer,cll 52 # 49-28 Centro,Coltejer,1,21.0
+USK19233,1992-10-03,26.0,Mujer,calle 72 #57-22,Puerta del Norte,1,1.0
+USK19232,1986-08-19,32.0,Hombre,calle 114 #76d-71,Puerta del Norte,1,11.0
+USK19230,1989-03-27,30.0,Mujer,Calle 56F #18E-26 Enciso,Coltejer,3,99.0
+USK19228,1997-03-31,21.0,Hombre,Calle 64 #40-17 Villa Hermosa,Coltejer,2,29.0
+USK19227,1993-08-12,25.0,Mujer,calle 77-#52-46,Ruta N,2,38.0
+USK19225,1997-12-04,21.0,Hombre,Calle 113 #68a-77 Barrio Florencia,U. CES,12,100.0
+USK19224,1990-10-05,28.0,Mujer,cr 51a n 94 48,Ruta N,2,5.0
+USK19223,1991-09-14,27.0,Hombre,cll 52 # 19 -20 Caicedo,Coltejer,5,117.0
+USK19218,1986-08-15,32.0,Hombre,calle 48c sur #39a-92,Ruta N,2,21.0
+USK19217,1997-06-27,21.0,Mujer,Calle 43 sur #83-28 San Antonio de Prado,U. CES,4,141.0
+USK19215,1977-05-20,41.0,Mujer,Cr63c #76-65,"Puerta del Norte, Ruta N",3,226.0
+USK19214,1984-07-13,34.0,Hombre,calle 66#50-40,Ruta N,5,717.0
+USK19213,1996-03-27,23.0,Hombre,calle 142sur#51-143,Ruta N,2,6.0
+USK19212,1989-06-17,29.0,Hombre,cl 73 n 50 17,Ruta N,3,37.0
+USK19211,1991-06-23,27.0,Hombre,cl 57b n 64 63 bello,Ruta N,3,23.0
+USK19210,1992-12-22,26.0,Hombre,cll 37b sur n 27 21,Ruta N,1,2.0
+USK19209,1969-04-26,49.0,Mujer,Calle 79 #46-28 Campo Valdes,"Coltejer, Ruta N",4,218.0
+USK19207,1996-07-22,22.0,Mujer,Carrera10c #44a-25 Barrio Buenos Aires,U. CES,6,41.0
+USK19205,1995-07-01,23.0,Mujer,Carrera59 #40aa-24 Serramonte (Bello),U. CES,2,69.0
+USK19204,1996-10-20,22.0,Mujer,carrera61dd #41a-09 Rionegro,"U. CES, Ruta N",10,55.0
+USK19200,1989-02-09,30.0,Mujer,Ensizo,Coltejer,3,85.0
+USK19195,1988-10-03,30.0,Mujer,calle 70a#43-67,Ruta N,7,891.0
+USK19190,1975-05-04,43.0,Mujer,CALLE 3 # 54-124,Ruta N,3,196.0
+USK19185,1993-10-02,25.0,Mujer,Cra 52 #67-21 ItagÃ¼Ã­,Coltejer,2,127.0
+USK19183,1972-03-05,47.0,Mujer,cr 97 n 47a 160,Ruta N,6,71.0
+USK19174,1993-10-06,25.0,Mujer,Calle 37A #88-26,CESDE,1,4.0
+USK19173,1987-02-24,32.0,Hombre,Carrera 75 #48B-56,CESDE,4,28.0
+USK19169,1992-08-31,26.0,Hombre,Carrera 79AA #3C Int 21,CESDE,1,16.0
+USK19168,1996-07-22,22.0,Hombre,cll 110 #48B-40,CESDE,1,18.0
+USK19166,1980-06-01,38.0,Mujer,calle 10 A no. 22 04,U. CES,2,61.0
+USK19164,1986-10-19,32.0,Hombre,Avenida 26 #52-200 apto 2436 .,Puerta del Norte,2,91.0
+USK19162,1969-08-22,49.0,Hombre,crr 40 #40fsur -53,"Puerta del Norte, Unicentro",4,437.0
+USK19156,1999-03-20,20.0,Mujer,Carrera44#23 sur-52 Barrio ZuÃ±iga (Envigado),U. CES,5,71.0
+USK19151,1995-09-01,23.0,Mujer,Calle 57AA #16D-24,CESDE,10,106.0
+USK19150,1997-10-10,21.0,Hombre,carrera 65g#24-36,CESDE,17,177.0
+USK19149,1995-07-31,23.0,Hombre,medellin,CESDE,4,13.0
+USK19148,1996-04-04,22.0,Mujer,Calle 57D #28-55,CESDE,3,192.0
+USK19147,1990-10-04,28.0,Hombre,Calle 8 Sur #83A-60,CESDE,6,66.0
+USK19135,1997-04-13,21.0,Hombre,Diagonal 50 #30-08,CESDE,2,6.0
+USK19134,1994-10-29,24.0,Hombre,Carrera 37 #50-72,CESDE,11,79.0
+USK19131,1990-04-24,28.0,Hombre,Carrera 23 AA #37-23,"Unicentro, CESDE",3,445.0
+USK19130,1994-08-03,24.0,Hombre,Carrera 97AA # 64AC-01,CESDE,1,25.0
+USK19129,1998-12-07,20.0,Mujer,Calle 54 #17b-80 Barrio Villatina,"U. CES, Coltejer",5,72.0
+USK19127,1996-07-10,22.0,Mujer,Cra. 25B #99B-14 Santo Domingo,Coltejer,10,254.0
+USK19125,1988-03-08,31.0,Mujer,carrra36 #68-44 Barrrio Manrique,U. CES,4,27.0
+USK19120,1971-11-27,47.0,Hombre,calle35a #66a-57 Barrio Conquistadores,U. CES,1,12.0
+USK19112,1970-01-08,49.0,Mujer,cll 54 # 50a-41 Villanueva,Coltejer,2,28.0
+USK19106,1981-04-30,37.0,Mujer,cr 45 # 64-40 Villa hermosa,Coltejer,26,388.0
+USK19103,1986-03-29,32.0,Hombre,crr 76 #95-108,Terminal del Norte,1,60.0
+USK19102,1996-08-26,22.0,Mujer,dig 80 n 79c 131,Ruta N,10,200.0
+USK19101,1995-07-29,23.0,Mujer,cl 86 n 67 37,Ruta N,4,40.0
+USK19096,1991-06-06,27.0,Mujer,crr 65 #55-30,"Ruta N, Aventura",3,25.0
+USK19095,1990-06-13,28.0,Mujer,carrera 42 # 79-45,Ruta N,1,32.0
+USK19091,1977-03-28,42.0,Hombre,cr 50 # 90-15 Aranjuez,Coltejer,7,72.0
+USK19088,1992-05-11,26.0,Hombre,transversal 45d # 83-17,Ruta N,1,1.0
+USK19087,1993-10-01,25.0,Hombre,calle 57 sur #67-22,"Unicentro, Aventura, Ruta N",7,112.0
+USK19083,1988-05-01,30.0,Mujer,cr23 # 95-14 Carpinelo,Coltejer,2,152.0
+USK19082,1997-09-18,21.0,Mujer,calle 71 sur #34-60 Barrio Carmelo (Sabaneta),U. CES,5,30.0
+USK19081,1997-03-11,22.0,Hombre,calle65 sur #42b-14 Barrio Carmelo,U. CES,2,7.0
+USK19079,1999-01-19,20.0,Mujer,calle 92#69-113,Ruta N,1,1.0
+USK19072,1974-06-17,44.0,Mujer,carrera 38#68-50,Ruta N,1,10.0
+USK19070,1996-07-29,22.0,Mujer,Calle 64A #95-43 Robledo,Coltejer,3,67.0
+USK19063,1993-08-27,25.0,Hombre,carrera 66#96-58,Ruta N,4,192.0
+USK19060,1984-07-12,34.0,Mujer,cr 53 a 83 b 001,Ruta N,5,216.0
+USK19057,1994-04-09,24.0,Mujer,Paris,Coltejer,5,80.0
+USK19056,1994-01-04,25.0,Hombre,calle 27a#82a-55,Ruta N,4,23.0
+USK19052,1995-05-18,23.0,Mujer,carrera 66 #42-65,Coltejer,16,279.0
+USK19049,1994-11-14,24.0,Hombre,carrera 73#74-20,Ruta N,2,4.0
+USK19048,1989-02-02,30.0,Mujer,cr 71 n 80 144,Ruta N,4,164.0
+USK19045,1996-12-24,22.0,Hombre,carrera 28 # 29-190,Ruta N,5,36.0
+USK19044,1996-10-01,22.0,Mujer,calle 65#44b-57,Ruta N,1,1.0
+USK19041,1979-08-12,39.0,Mujer,Calle 45E #82-19,"Ruta N, Aventura",2,131.0
+USK19039,1978-03-28,41.0,Mujer,Cra 72A #76-70 Castilla,Coltejer,6,151.0
+USK19037,1997-07-08,21.0,Mujer,carrera 97# 47a - 106 piso 2,Coltejer,1,33.0
+USK19035,1986-07-22,32.0,Mujer,carrera 86 77c-27,Ruta N,2,2.0
+USK19034,1992-03-23,27.0,Hombre,Calle 49E #09D-51 Buenos Aires,Coltejer,16,889.0
+USK19031,1983-06-27,35.0,Mujer,Calle 27 Sur No 28-100 Envigado,Plaza Mayor,1,3.0
+USK19027,1984-04-01,34.0,Mujer,CLL 77d# 88-20 Robledo bello horizonte,Coltejer,5,75.0
+USK19025,1994-10-14,24.0,Mujer,cra 42 # 40 c sur 63,U. CES,3,81.0
+USK19023,1978-03-02,41.0,Mujer,call 27 # 40-46 Lomas de san julian,Unicentro,1,138.0
+USK19020,1997-03-17,22.0,Mujer,Carrera 72 #97-23,"Puerta del Norte, Ruta N",2,22.0
+USK19016,1985-10-13,33.0,Hombre,diag 62 #37aa -45,Puerta del Norte,2,65.0
+USK19007,1987-07-16,31.0,Mujer,calle 45e #6c- 90,Aventura,1,65.0
+USK19005,1989-10-06,29.0,Hombre,kr 47-64 Prado centro,Coltejer,5,70.0
+USK19003,1999-01-23,20.0,Hombre,carrera 28aa#77-70,Ruta N,1,2.0
+USK18999,1977-02-17,42.0,Mujer,Calle 84 #25-C10 Bello Oriente,Coltejer,1,1.0
+USK18998,1990-07-18,28.0,Mujer,cr 19 # 56a-76 Libertad,Coltejer,1,47.0
+USK18990,1981-01-21,38.0,Mujer,Carrerqa 46 #97A-16,Ruta N,4,219.0
+USK18989,1994-07-04,24.0,Hombre,Carrera 71#46-56,Ruta N,3,183.0
+USK18988,1981-10-01,37.0,Mujer,carrera 56#61-43,"Aventura, Ruta N",5,135.0
+USK18981,1998-04-22,20.0,Mujer,calle 52 d #57a- 40 Barrio Rosalpi (Bello),U. CES,1,12.0
+USK18980,1997-11-03,21.0,Mujer,cr 16 n 40 26,Ruta N,2,9.0
+USK18979,1994-05-20,24.0,Hombre,cr 43b n 87 51,Ruta N,3,172.0
+USK18977,1997-02-22,22.0,Hombre,Carrera 56# 30-100 Bello,Ruta N,2,10.0
+USK18976,1998-08-22,20.0,Mujer,Cra. 39 #63-56 Villa Hermosa,Coltejer,12,
+USK18975,1982-01-22,37.0,Hombre,Cra. 94 #35B-36 Santa Monica,Coltejer,8,635.0
+USK18970,1991-03-10,28.0,Hombre,calle 45 # 10 a-303 Buenios aires,"La Solar, Coltejer",22,955.0
+USK18969,1979-01-13,40.0,Mujer,carrera50#65-42 Barrio Prado Centro,U. CES,3,34.0
+USK18967,1974-09-21,44.0,Mujer,Diagonal 59 #32-02 Int 100,Puerta del Norte,10,247.0
+USK18965,1974-01-11,45.0,Hombre,Avenida 48 #68-28 NiquÃ­a,Coltejer,1,73.0
+USK18964,1996-01-04,23.0,Mujer,Enciso LLanadas,Coltejer,3,88.0
+USK18962,1994-01-04,25.0,Mujer,Calle 41 Sur # 82-65,"Kaptadora 71, Plaza Mayor, Unicentro, Coltejer",13,107.0
+USK18960,1989-09-04,29.0,Mujer,carrera 95 #63c -36,"Coltejer, Aventura",6,248.0
+USK18958,1993-05-27,25.0,Hombre,calle 61 # 56-51,Ruta N,1,8.0
+USK18955,1973-04-23,45.0,Mujer,calle 39b #46-40,"Coltejer, Terminal del Norte",3,245.0
+USK18951,1974-12-24,44.0,Hombre,BelÃ©n,Coltejer,4,48.0
+USK18948,1996-05-13,22.0,Mujer,calle 52 b sur # 39 e - 37,Coltejer,3,89.0
+USK18946,1983-11-05,35.0,Mujer,CALLE 82 51-13,Ruta N,2,62.0
+USK18945,1983-06-08,35.0,Mujer,Calle 98 #51a64(301),Coltejer,4,267.0
+USK18942,1997-04-18,21.0,Mujer,clle 116 N 65-77,"Ruta N, Colaboramerica",2,39.0
+USK18937,1997-10-03,21.0,Mujer,calle 81 sur #121 la estrella,Ruta N,1,10.0
+USK18934,1993-06-16,25.0,Mujer,Calle 60 #58FF-11 Itagui,Coltejer,2,90.0
+USK18933,1997-10-15,21.0,Hombre,calle 61#56-51,Ruta N,1,16.0
+USK18932,1991-02-22,28.0,Mujer,calle 86a #40-58,Aventura,1,120.0
+USK18928,1986-02-07,33.0,Mujer,calle 45a sur #32b-22 Barrio Las Antillas,U. CES,3,9.0
+USK18926,1988-06-23,30.0,Hombre,carr 74 #89a -127,Terminal del Norte,1,47.0
+USK18925,1989-12-22,29.0,Mujer,calle 97a #76-23,Ruta N,1,160.0
+USK18924,1986-09-15,32.0,Hombre,Carrera 45A#73-12,Coltejer,1,33.0
+USK18922,1975-08-08,43.0,Mujer,calle70 sur #43a-15 Sabaneta,U. CES,2,86.0
+USK18921,1992-03-11,27.0,Hombre,calle 64ee #92-22,Aventura,1,68.0
+USK18920,1990-03-07,29.0,Mujer,Carrera 71#98-49,Coltejer,4,88.0
+USK18918,1973-10-27,45.0,Mujer,cra 45 a # 85 79 manrique,Ruta N,4,131.0
+USK18917,1970-03-21,49.0,Mujer,calle 103e #65-19,Ruta N,2,113.0
+USK18916,1995-03-10,24.0,Mujer,carrera 56#48asur-46,Ruta N,1,9.0
+USK18915,1979-12-02,39.0,Hombre,CARRERA 66 42 31,Unicentro,1,130.0
+USK18913,1998-08-04,20.0,Mujer,calle 80 # 47 83,Ruta N,1,40.0
+USK18909,1997-09-13,21.0,Hombre,Calle 83A#54-30 Itagui,Aventura,1,7.0
+USK18899,1990-01-10,29.0,Hombre,calle 42csur #64b-34,"Ruta N, Kaptadora 71, Coltejer",4,79.0
+USK18890,1997-09-07,21.0,Mujer,calle 66 # 55-30,Ruta N,3,26.0
+USK18888,1992-03-19,27.0,Mujer,Calle 78A# 69-30,Aventura,1,3.0
+USK18884,1994-12-15,24.0,Hombre,carrera 82#44-31 apto 401,Unicentro,1,87.0
+USK18880,1978-11-12,40.0,Mujer,avenida 42b #62-91,Aventura,2,99.0
+USK18878,1972-04-30,46.0,Mujer,cra 53 # 62 21,Ruta N,2,66.0
+USK18876,1976-02-11,43.0,Mujer,Calle 35C #87A-25 Laureles,Coltejer,20,975.0
+USK18875,1994-08-12,24.0,Mujer,CALLE 111 #66 18,Ruta N,1,16.0
+USK18874,1993-03-01,26.0,Mujer,Calle 60 #45D-26 Prado Centro,Coltejer,1,49.0
+USK18873,1990-08-04,28.0,Hombre,cra 51 c # 82 aa 19,Ruta N,1,109.0
+USK18867,1980-11-08,38.0,Mujer,Cra. 84B #101CE-17 Picacho,Terminal del Norte,1,9.0
+USK18866,1996-04-21,22.0,Mujer,Envigado,Terminal del Norte,1,1.0
+USK18864,1980-05-25,38.0,Hombre,Calle 50BA #37-11 Boston,Coltejer,30,562.0
+USK18860,1975-04-28,43.0,Hombre,Calle 111 A #67-38,Puerta del Norte,2,40.0
+USK18859,1970-07-21,48.0,Mujer,Calle 49 AC #93-96 2do piso La Floresta,"Coltejer, Puerta del Norte",6,120.0
+USK18858,1984-04-13,34.0,Mujer,Cra. 77 #20B-34 Picacho,Coltejer,3,75.0
+USK18857,1976-03-28,43.0,Mujer,carrera47c #75-34 Barrio Mirador,Puerta del Norte,4,209.0
+USK18855,1997-07-31,21.0,Mujer,carrera 69 #78B 12,"Ruta N, Aventura",12,922.0
+USK18852,1997-12-17,21.0,Mujer,calle 102 # 47 16,Ruta N,1,1.0
+USK18850,1981-08-22,37.0,Mujer,Calle 16 #17-25 Santo Domingo - Antioquia,Terminal del Norte,3,19.0
+USK18848,1989-05-30,29.0,Mujer,Cra. 56A #77-58,"Terminal del Norte, Ruta N",2,189.0
+USK18847,1993-04-21,25.0,Hombre,Calle 100 #26C-28 Santo Domingo,Terminal del Norte,2,2.0
+USK18846,1983-04-24,35.0,Hombre,cll 42 # 102- 06,Unicentro,1,39.0
+USK18840,1996-06-06,22.0,Mujer,circular 73 #37-06 Barrio Laureles,U. CES,3,20.0
+USK18836,1993-07-29,25.0,Hombre,calle 57 # 50 a-46 interior 905 Prado,"Ruta N, Coltejer",95,
+USK18835,1997-07-14,21.0,Mujer,calle40 #92-52 Barrio Santa Monica,U. CES,1,7.0
+USK18834,1993-06-02,25.0,Hombre,Av 23 #50-52 Urb. Plaza Navarra,Puerta del Norte,5,159.0
+USK18829,1992-08-27,26.0,Hombre,calle105a #37b-27 Barrio Santa Cruz,"Ruta N, Aventura",5,296.0
+USK18828,1997-03-27,22.0,Hombre,Calle 61#56-51,Aventura,3,42.0
+USK18824,1988-11-08,30.0,Mujer,calle101 b #42c-08,"Aventura, Ruta N",2,56.0
+USK18821,1991-10-09,27.0,Mujer,calle 3 # 54 60,"Coltejer, Plaza Mayor",2,92.0
+USK18818,1988-02-08,31.0,Mujer,Calle 63 NÂ° 133C-28,Terminal del Norte,1,11.0
+USK18816,1995-01-07,24.0,Mujer,Transversal 39A No. 70A - 87,Unicentro,1,37.0
+USK18814,1972-08-19,46.0,Mujer,Diagonal 69 # 39b44 interior 301,Puerta del Norte,2,41.0
+USK18810,1983-04-11,35.0,Mujer,torres de Balvuena,Ruta N,2,52.0
+USK18809,1989-08-13,29.0,Hombre,Carrera 39 #47-50,CESDE,1,1.0
+USK18804,1998-04-21,20.0,Mujer,Cr 74 b# 93 -104 Castilla,Coltejer,17,
+USK18801,1991-12-05,27.0,Hombre,Calle 65 # 52-62,"Aventura, Ruta N",15,524.0
+USK18796,1983-03-26,36.0,Hombre,kr 24a # 52 a-57 Caicedo,Coltejer,4,71.0
+USK18793,1979-04-24,39.0,Mujer,San Javier,Terminal del Norte,1,16.0
+USK18792,1984-07-31,34.0,Hombre,carrera52 #79 sur-91,Coltejer,1,25.0
+USK18791,1980-11-23,38.0,Hombre,av 42 #53-74,"Puerta del Norte, Ruta N",4,76.0
+USK18790,1977-04-27,41.0,Hombre,calle 24 #57a-33,Puerta del Norte,1,6.0
+USK18786,1983-04-07,35.0,Mujer,Carrera 65 # 42-38 apto 301,"Coltejer, Unicentro",5,496.0
+USK18784,1997-11-10,21.0,Hombre,Calle 92b #67-32,Coltejer,21,316.0
+USK18782,1985-12-09,33.0,Hombre,carrera 80 # 44 - 121 apto 201,Unicentro,3,270.0
+USK18773,1995-04-04,23.0,Hombre,Calle 69 #46-112,CESDE,6,19.0
+USK18769,1992-11-12,26.0,Hombre,Aranjuez,CESDE,2,17.0
+USK18768,1996-04-20,22.0,Mujer,carrera 51aa#31ae-36,Ruta N,2,17.0
+USK18767,1993-11-01,25.0,Mujer,calle92 #38-83 Barrio Manrique,"Ruta N, Aventura",3,62.0
+USK18766,1991-10-27,27.0,Hombre,calle 44 c # 9d 32 Buenos aires,Coltejer,15,572.0
+USK18764,1982-12-02,36.0,Mujer,carrera 49a#110 la francia,Ruta N,15,948.0
+USK18762,1974-03-19,45.0,Mujer,calle 59 #54-70 Barrio Chagualo,Ruta N,1,26.0
+USK18753,1981-10-04,37.0,Hombre,Cra. 57 #128B Sur -11 La Planta,Terminal del Norte,1,20.0
+USK18751,1978-10-28,40.0,Mujer,Calle 47B #92-B8 La Floresta,Unicentro,2,63.0
+USK18750,1971-12-19,47.0,Hombre,carrera 103a 48c-29,Ruta N,1,113.0
+USK18749,1985-12-29,33.0,Mujer,diag 60 #42-10,Puerta del Norte,1,35.0
+USK18744,1991-07-25,27.0,Hombre,carrera 58a #53-144,Ruta N,13,366.0
+USK18742,1972-09-21,46.0,Mujer,carrera 47#89-29,"Plaza Mayor, Ruta N, Kaptadora 71",3,274.0
+USK18741,1995-06-26,23.0,Mujer,carerra 84b#63-21,Ruta N,2,128.0
+USK18740,1984-10-11,34.0,Hombre,Calle 99 # 49-61,Aventura,1,3.0
+USK18739,1988-11-11,30.0,Mujer,Calle 99 # 49-61,Aventura,1,4.0
+USK18737,1996-05-13,22.0,Hombre,El Pinal,CESDE,12,16.0
+USK18735,1976-03-11,43.0,Mujer,Carrera50c #76-20,Ruta N,3,120.0
+USK18729,1994-08-30,24.0,Hombre,calle 20# 74-22,Ruta N,1,50.0
+USK18726,1989-07-15,29.0,Hombre,calle 32c#65d-33,Ruta N,3,154.0
+USK18725,1987-11-07,31.0,Hombre,Calle 110 # 63A-33,Aventura,1,2.0
+USK18721,1984-03-15,35.0,Hombre,carrera 57#88-48,"Aventura, Ruta N",16,380.0
+USK18720,1979-12-27,39.0,Hombre,calle 63b # 100-77-9902 apto,Coltejer,2,129.0
+USK18719,1998-06-27,20.0,Hombre,carrera51a #86-36 Itagui,U. CES,1,49.0
+USK18718,1994-09-11,24.0,Mujer,Carrera 43B #118-12,CESDE,1,4.0
+USK18717,1993-10-23,25.0,Hombre,carrera 26a#18a-24,Ruta N,1,1.0
+USK18716,1990-03-31,28.0,Hombre,kr 28 # 49 -26,Coltejer,3,85.0
+USK18713,1994-11-22,24.0,Mujer,bello vereda Hato viejo sector los Rieles,Puerta del Norte,2,58.0
+USK18706,1992-11-23,26.0,Hombre,calle 30a#80-12,Ruta N,5,20.0
+USK18700,1990-03-18,29.0,Mujer,Av 33 #55-95 Int 071,CESDE,8,47.0
+USK18690,1972-01-07,47.0,Hombre,carrera 46#85-03,Ruta N,2,19.0
+USK18684,1972-09-09,46.0,Mujer,calle 62a # 93-026,Coltejer,6,233.0
+USK18673,1984-06-20,34.0,Hombre,crr 15 #2-92,"Puerta del Norte, Terminal del Norte",7,304.0
+USK18672,1980-04-11,38.0,Mujer,calle 23b #61-65,Puerta del Norte,3,220.0
+USK18671,1982-09-18,36.0,Hombre,kr 74 # 40 -27 Laureles,Coltejer,3,7.0
+USK18669,1981-06-03,37.0,Mujer,Calle 54# 85-40,U. CES,3,36.0
+USK18668,1972-12-22,46.0,Mujer,Calle 24 B#60-68,U. CES,5,74.0
+USK18659,1971-03-30,47.0,Mujer,calle 52 #47-42 local 305,Coltejer,2,25.0
+USK18657,1991-10-06,27.0,Hombre,Calle 58A #22C-34,CESDE,2,23.0
+USK18653,1979-02-11,40.0,Mujer,calle 121#50-65,Aventura,1,22.0
+USK18652,1987-05-10,31.0,Hombre,carrera 45# 48-64,Aventura,2,37.0
+USK18650,1998-09-21,20.0,Mujer,calle 78 # 28 aa 51,"Aventura, Ruta N",4,215.0
+USK18649,1996-05-19,22.0,Mujer,Carrera 81 B #19B-63,CESDE,1,12.0
+USK18648,1997-10-12,21.0,Mujer,calle138 sur #46-77 Barrio Felipe Echavarria #2,U. CES,5,239.0
+USK18637,1979-12-26,39.0,Mujer,carrera 43b #88-126,"Coltejer, Aventura",2,67.0
+USK18629,1983-11-06,35.0,Hombre,cr 38 n 26 385,Ruta N,4,8.0
+USK18624,1998-09-09,20.0,Hombre,calle 91a #78-21 Barrio Robledo Kennedy,"Terminal del Norte, U. CES",6,31.0
+USK18620,1991-04-28,27.0,Mujer,cra 95 b # 49 ac 14,"Plaza Mayor, Ruta N",2,57.0
+USK18616,1984-06-20,34.0,Mujer,Calle 103 D # 74-71 Apto 301,Coltejer,2,77.0
+USK18612,1995-09-19,23.0,Mujer,Calle 94 #74B-05 Castilla,"Ruta N, Aventura, Terminal del Norte, Coltejer",5,95.0
+USK18611,1996-01-02,23.0,Hombre,Calle 44 NÂ°63 A 96,"Coltejer, Ruta N, Unicentro",12,
+USK18609,1974-08-22,44.0,Mujer,av 31 diag 65 -93,Puerta del Norte,3,78.0
+USK18608,1991-04-22,27.0,Hombre,carrera67b #51a-72 Barrio Carlos C,U. CES,1,34.0
+USK18607,1980-04-16,38.0,Hombre,CR 63 DA #103DD-15,"Aventura, Ruta N",4,80.0
+USK18606,1998-09-30,20.0,Mujer,carrera45a #86-29 Barrio Manrique Las Esmeraldas,U. CES,9,135.0
+USK18605,1970-03-14,49.0,Mujer,kr 55bb # 84 sur -31 La estrella,Coltejer,7,137.0
+USK18602,1989-12-10,29.0,Hombre,Carrera 15# 36-40,Aventura,8,183.0
+USK18594,1998-02-28,21.0,Hombre,San Antonio del Prado,CESDE,5,17.0
+USK18593,1996-03-31,22.0,Hombre,Carrera 96CC #49-117 Int 301,"CESDE, Terminal del Norte",35,125.0
+USK18585,1981-06-25,37.0,Mujer,calle 48 42 36 apto 1205,"Kaptadora 71, Plaza Mayor",3,16.0
+USK18582,1998-10-24,20.0,Hombre,carrera40b #17-188 Barrio Castropol,U. CES,2,78.0
+USK18581,1984-07-10,34.0,Mujer,calle 67sur # 45-76,Ruta N,5,52.0
+USK18576,1984-07-26,34.0,Hombre,crr 37 calle 110a -14,"Coltejer, Puerta del Norte",7,73.0
+USK18575,1983-09-01,35.0,Mujer,calle 47 #81-47,Puerta del Norte,3,64.0
+USK18574,1989-12-26,29.0,Mujer,calle 52b sur #63-50,"Puerta del Norte, Coltejer",2,11.0
+USK18571,1999-02-15,20.0,Hombre,carrera84b #4a-75 Barrio Belen,U. CES,1,24.0
+USK18568,1997-08-17,21.0,Hombre,Calle 58 #35-47,CESDE,1,4.0
+USK18559,1972-08-30,46.0,Mujer,Cra. 50A #65-01 Prado Centro,Aventura,1,84.0
+USK18557,1988-03-09,31.0,Mujer,Calle10b sur#56b-63,"Terminal del Norte, Coltejer",23,2.48
+USK18556,1980-10-14,38.0,Hombre,Calle 34 # 64-110,"Aventura, Ruta N",4,51.0
+USK18554,1987-11-06,31.0,Hombre,calle 64ad#106-151,Ruta N,6,463.0
+USK18553,1997-08-03,21.0,Hombre,calle 42a#21-32,Ruta N,1,1.0
+USK18548,1987-05-11,31.0,Mujer,Calle 82 #74-176 Robledo,Terminal del Norte,1,660.0
+USK18546,1988-07-26,30.0,Mujer,Cra. 89B #89-101 Robledo,Terminal del Norte,1,18.0
+USK18545,1970-12-18,48.0,Hombre,Calle 91 # 52-42,Aventura,1,140.0
+USK18543,1985-06-08,33.0,Mujer,carrera 41#71-122,Ruta N,1,18.0
+USK18542,1976-12-16,42.0,Mujer,kr 96 # 49 -57 Pradera,Coltejer,8,220.0
+USK18538,1993-07-19,25.0,Mujer,Calle 53 #10C-12 Caicedo,Coltejer,2,125.0
+USK18537,1992-03-01,27.0,Mujer,Cra. 42 59-65 Villa Hermosa,Coltejer,1,14.0
+USK18536,1996-03-02,23.0,Mujer,carrera49 #52-54 Barrio Los Naranjos (Itagui),U. CES,3,83.0
+USK18529,1997-03-15,22.0,Mujer,carrera 46a# 151 apto 301,Ruta N,22,289.0
+USK18528,1998-03-07,21.0,Mujer,calle 65a#56-62 chagualo,Ruta N,1,4.0
+USK18527,1990-09-07,28.0,Hombre,carrera16b #32-14 Barrio Buenos Aires,U. CES,2,34.0
+USK18526,1994-07-24,24.0,Mujer,calle 61# 56-51,Ruta N,5,40.0
+USK18523,1998-05-11,20.0,Mujer,calle 62#53-57,Ruta N,2,7.0
+USK18522,1977-01-30,42.0,Mujer,Carrera 66B # Circular 1-13,"Unicentro, Aventura",6,249.0
+USK18521,1995-12-07,23.0,Mujer,av 55 #52a-92,Puerta del Norte,1,41.0
+USK18518,1990-11-05,28.0,Mujer,Carrera 50BB #80-62,"Ruta N, CESDE",7,89.0
+USK18515,1996-03-05,23.0,Hombre,cr 56a n 61 24,Ruta N,5,93.0
+USK18514,1986-11-08,32.0,Hombre,cl 36 n 77 47,Ruta N,4,161.0
+USK18510,1985-02-06,34.0,Hombre,calle 84 # 58-50,Aventura,1,34.0
+USK18508,1969-09-19,49.0,Hombre,calle 21a# 54-59,Ruta N,1,1.0
+USK18503,1997-07-16,21.0,Hombre,carrera45 #84-40 Barrio Manrique Central,U. CES,6,43.0
+USK18502,1989-10-21,29.0,Mujer,Carrera 70 #9A-61 Primer piso.,CESDE,5,17.0
+USK18496,1994-02-26,25.0,Mujer,calle 75 # 64 c 34,"Aventura, Ruta N",3,20.0
+USK18491,1989-07-11,29.0,Mujer,Carrera 87 #45c 26,Unicentro,9,206.0
+USK18490,1974-06-18,44.0,Hombre,Calle 65 # 55-30,Aventura,1,27.0
+USK18489,1997-01-10,22.0,Mujer,Calle 64# 52-58,"Aventura, Ruta N",3,194.0
+USK18485,1993-06-24,25.0,Hombre,carrera 51d#67a-41,"Ruta N, Aventura",5,88.0
+USK18484,1992-05-16,26.0,Hombre,CR 51 B 67-31,Ruta N,4,72.0
+USK18483,1990-02-02,29.0,Mujer,carrera 66 #25aa-30 int 201,Ruta N,1,16.0
+USK18480,1996-11-29,22.0,Mujer,Calle 118 #30-59,CESDE,1,6.0
+USK18479,1984-11-12,34.0,Mujer,Calle 65 #55-30,"Ruta N, Aventura",4,53.0
+USK18478,1988-12-07,30.0,Hombre,cl 56 N 25 bb 68,"Puerta del Norte, Ruta N, Coltejer",4,123.0
+USK18474,1994-07-04,24.0,Hombre,transversal79c #80-12 Barrio Robledo,U. CES,4,97.0
+USK18473,1993-01-07,26.0,Hombre,carrera25b #27sur-15 Envigado,U. CES,8,33.0
+USK18472,1990-01-05,29.0,Hombre,calle29aa #54b-69 Itagui,U. CES,1,2.0
+USK18471,1975-05-08,43.0,Hombre,calle 101bb#75-20,Ruta N,4,225.0
+USK18470,1982-10-18,36.0,Hombre,Cra. 78A #92-117 Robledo Mira Mar,Terminal del Norte,1,78.0
+USK18469,1991-10-02,27.0,Mujer,Carrera 92 #89-40,CESDE,3,3.0
+USK18465,1986-12-07,32.0,Mujer,Carrera 33 #44-11,CESDE,2,51.0
+USK18464,1985-09-01,33.0,Mujer,crr 58 #87aa-34,"Puerta del Norte, Ruta N",6,404.0
+USK18463,1995-07-26,23.0,Hombre,carrera82 #32ee-77 Barrio Laureles,U. CES,1,3.0
+USK18459,1992-11-28,26.0,Hombre,diagonal 51 a# 43-93,Coltejer,2,15.0
+USK18456,1996-06-12,22.0,Mujer,carrera33 #36b-22 Barrio La Milagrosa,U. CES,4,23.0
+USK18451,1986-08-31,32.0,Mujer,Carrera 44 #63-11,Ruta N,3,19.0
+USK18449,1997-06-02,21.0,Hombre,carrera 51 # 79-67,Ruta N,1,5.0
+USK18448,1991-12-29,27.0,Hombre,calle 50 #37-11,Ruta N,7,47.0
+USK18447,1993-08-02,25.0,Hombre,calle 50#37-17,Ruta N,3,17.0
+USK18446,1994-03-11,25.0,Mujer,Carrera 81 #18-180,"Coltejer, CESDE",15,103.0
+USK18445,1993-12-21,25.0,Hombre,calle 50#37-11,Ruta N,4,52.0
+USK18441,1991-01-15,28.0,Hombre,Carrera 34 #71A-8 Int 201,CESDE,3,4.0
+USK18438,1990-12-16,28.0,Mujer,Calle 65 # 55-30,"Ruta N, Aventura",3,62.0
+USK18434,1994-05-06,24.0,Mujer,carrera 45#87-42,Ruta N,1,8.0
+USK18433,1990-08-04,28.0,Hombre,carrera 10b45ad buenos aires,Ruta N,8,521.0
+USK18431,1994-10-30,24.0,Mujer,Carrera 22 #45-55. Buenos Aires,CESDE,5,88.0
+USK18429,1996-12-02,22.0,Mujer,Carrera 53 #25-32. Apto 103. Oporto CabaÃ±itas,"Coltejer, Puerta del Norte, Ruta N, CESDE",6,131.0
+USK18428,1984-11-16,34.0,Mujer,calle 31 61-28 Itagui,Coltejer,4,237.0
+USK18424,1994-05-28,24.0,Mujer,calle28 sur #43a-50 Barrio Otra Parte (Envigado),U. CES,2,21.0
+USK18423,1996-03-24,23.0,Mujer,carrera 52#100 int 234,Ruta N,6,196.0
+USK18415,1988-01-14,31.0,Hombre,cl 30b n 89 b 36,Ruta N,1,13.0
+USK18414,1987-05-18,31.0,Mujer,Calle 54 #45-92,Coltejer,15,386.0
+USK18413,1998-12-13,20.0,Mujer,Carrera 39 70-63,"Ruta N, Aventura",5,264.0
+USK18411,1994-06-02,24.0,Mujer,cr 78b N 3a sur 20,Ruta N,8,423.0
+USK18410,1998-07-13,20.0,Hombre,cr 72 N 79 a 64,Ruta N,3,12.0
+USK18406,1979-07-20,39.0,Mujer,Calle 38 #33A-24,Coltejer,3,78.0
+USK18405,1996-06-18,22.0,Hombre,Calle 16 #75-20,CESDE,2,4.0
+USK18391,1988-11-22,30.0,Mujer,diagonal32d #34b sur - 15 Barrio San Mateo (Envigado),U. CES,2,39.0
+USK18389,1989-02-25,30.0,Hombre,Carrera 59c # 36a 07,Coltejer,1,6.0
+USK18386,1998-06-10,20.0,Mujer,calle 30 a # 30-40,U. CES,4,22.0
+USK18383,1999-03-23,20.0,Mujer,Carrera 26 CC #37-85 Int 301,CESDE,1,4.0
+USK18382,1992-04-08,26.0,Mujer,Diagonal 53#44-40,Ruta N,1,15.0
+USK18381,1981-05-09,37.0,Mujer,Cra. 26C #26-28 La Milagrosa,Coltejer,1,49.0
+USK18379,1996-09-27,22.0,Hombre,Carrera 96A #48DE-40,Ruta N,2,2.0
+USK18378,1979-10-11,39.0,Mujer,Cra. 51 #47-11 AmagÃ¡,U. CES,1,41.0
+USK18376,1983-02-09,36.0,Mujer,Carrera 106C# 17A-49,Ruta N,2,191.0
+USK18374,1976-09-09,42.0,Hombre,dig 62 #40b -15,Puerta del Norte,4,163.0
+USK18373,1995-11-05,23.0,Mujer,diag. 43 av 34 -60,Puerta del Norte,4,715.0
+USK18372,1969-12-23,49.0,Mujer,av 44 #59-15,Puerta del Norte,1,54.0
+USK18371,1992-02-09,27.0,Hombre,Cra. 49 #52-48 Copa Cabana,Terminal del Norte,1,5.0
+USK18368,1998-08-13,20.0,Hombre,Carrera 90c #76da-15 Barrio Robledo Curazao,Terminal del Norte,4,35.0
+USK18365,1990-12-29,28.0,Mujer,cra 70 # 9A-51,U. CES,3,16.0
+USK18364,1988-01-13,31.0,Mujer,calle 54 # 50 a -13 Candelaria,Coltejer,11,173.0
+USK18363,1989-06-21,29.0,Mujer,carrera44 360b sur -54 Barrio Restrepo Naranjo (Sabaneta),U. CES,8,325.0
+USK18362,1971-03-27,48.0,Hombre,kr 50a # 53-22,Coltejer,1,3.0
+USK18359,1985-03-21,34.0,Hombre,Calle 65 # 55 - 30 Apto 801,Ruta N,4,87.0
+USK18347,1997-01-17,22.0,Hombre,Calle 65 #56-84,"Ruta N, Aventura",2,29.0
+USK18344,1976-09-27,42.0,Mujer,cr 67 n 52b sur. 72 san antonio prado,"Ruta N, U. CES, Kaptadora 71, Plaza Mayor, Aventura",14,143.0
+USK18341,1986-06-16,32.0,Hombre,calle 76#89c-66,Ruta N,4,206.0
+USK18340,1994-10-08,24.0,Mujer,Cl 48a N 85b 22,Ruta N,2,73.0
+USK18338,1998-02-10,21.0,Mujer,Calle 83# 44-20,"Terminal del Norte, Ruta N, Aventura",13,534.0
+USK18336,1994-01-31,25.0,Mujer,carrera32 #50-10 Barrio Buenos Aires,U. CES,2,2.0
+USK18335,1995-06-16,23.0,Mujer,carrera64a #39-87 Barrio Villalia,U. CES,10,47.0
+USK18333,1988-05-15,30.0,Mujer,calle 71a#45-66,"Ruta N, Aventura",4,119.0
+USK18332,1992-09-04,26.0,Mujer,calle 66a#55a-51,Ruta N,6,18.0
+USK18331,1979-12-04,39.0,Hombre,Carrra 66 #52 sur - 60 Barrio San Antonio De Prado,U. CES,10,170.0
+USK18329,1988-05-08,30.0,Mujer,Calle 62#85-390,"Ruta N, Aventura",11,117.0
+USK18327,1983-09-04,35.0,Hombre,Ed coltejer,Coltejer,6,110.0
+USK18324,1978-07-07,40.0,Hombre,Diagonal 55 #31-52,Puerta del Norte,1,77.0
+USK18320,1984-01-01,35.0,Mujer,carrera 48#65-95,Ruta N,4,148.0
+USK18317,1991-02-13,28.0,Mujer,Carrera 59 #49,"Ruta N, CESDE",5,300.0
+USK18315,1996-06-07,22.0,Hombre,Carrera 82 #53-AB12,Puerta del Norte,4,217.0
+USK18314,1991-10-23,27.0,Mujer,Calle 102 Carrera 63E 44 Int 106,Puerta del Norte,6,62.0
+USK18313,1985-03-06,34.0,Mujer,Diagonal 56 #45-25,Puerta del Norte,4,50.0
+USK18311,1983-01-07,36.0,Mujer,cl 80 N 71 30,Ruta N,1,40.0
+USK18310,1997-05-02,21.0,Mujer,calle5 #80c-130 Barrio Loma De Los Bernal,U. CES,7,56.0
+USK18309,1991-12-04,27.0,Mujer,Calle51b #28-49 Barrio Caicedo,"Ruta N, Terminal del Norte, Aventura",12,873.0
+USK18306,1979-10-03,39.0,Mujer,calle 94 # 46 a -12 apto 401 Aranjuez,Aventura,1,131.0
+USK18305,1984-10-03,34.0,Mujer,calle 11 # 73-101 Belen,"Unicentro, Aventura",5,173.0
+USK18300,1969-12-31,49.0,Mujer,kr 39 a # 40 a -193 Salvador,"Ruta N, Unicentro, Aventura",17,
+USK18295,1981-09-18,37.0,Hombre,Carrera 89B # 89-101,"Aventura, Ruta N",12,523.0
+USK18294,1984-10-06,34.0,Mujer,Calle 80B#55-102,Aventura,3,130.0
+USK18293,1981-09-13,37.0,Hombre,Calle 26A#58-76,Aventura,1,47.0
+USK18291,1979-02-16,40.0,Mujer,Calle 66E#97-133,"Ruta N, Aventura",4,118.0
+USK18287,1978-05-19,40.0,Hombre,Calle 9 Sur #53-55,"Ruta N, Plaza Mayor, Kaptadora 71, Aventura",15,351.0
+USK18286,1982-06-27,36.0,Mujer,CRA 52 # 53-52 INT 301,"Coltejer, Aventura",5,359.0
+USK18277,1983-10-15,35.0,Mujer,Dir. girardota vereda san andres,Puerta del Norte,6,260.0
+USK18276,1970-08-06,48.0,Mujer,cll 30c #42e-189,Puerta del Norte,12,658.0
+USK18275,1996-11-23,22.0,Hombre,cll 38 sur #50-71,Puerta del Norte,2,48.0
+USK18273,1985-12-10,33.0,Hombre,calle78# 44-84 manrique central piso 301,Ruta N,3,13.0
+USK18269,1982-05-09,36.0,Mujer,Cra. 115A #39E-78,Coltejer,47,
+USK18263,1998-04-28,20.0,Mujer,Calle60 #75-150 Barrio Los Colores,U. CES,9,56.0
+USK18260,1996-02-03,23.0,Mujer,calle 99b# 35a-57,Ruta N,1,18.0
+USK18259,1995-11-07,23.0,Mujer,calle 83 #50A-25,Aventura,1,12.0
+USK18254,1986-02-12,33.0,Mujer,Carrera 43 #71-15. Manrrique Central,Ruta N,3,213.0
+USK18252,1996-10-30,22.0,Mujer,carrera45 #65sur-75 Sabaneta,U. CES,3,22.0
+USK18246,1973-08-30,45.0,Mujer,carrera49 #101-27 Barrio SantaCruz,U. CES,6,162.0
+USK18242,1992-06-15,26.0,Hombre,diagonal58 #45-84 Barrio Niquia (Bello),U. CES,5,108.0
+USK18241,1996-04-13,22.0,Mujer,calle24b #71-58 Barrio Belen,U. CES,7,167.0
+USK18239,1976-04-01,42.0,Mujer,carrera74a #92-69 Barrio Robledo Kennedy,U. CES,2,154.0
+USK18238,1988-10-11,30.0,Mujer,calle 45 # 10a -11 interior 201 Buenos aires,Coltejer,2,254.0
+USK18237,1994-01-28,25.0,Mujer,av 37 #55-108,Puerta del Norte,1,34.0
+USK18236,1987-05-18,31.0,Mujer,av 47b #65-67,Puerta del Norte,1,12.0
+USK18235,1971-11-02,47.0,Mujer,calle 51 #81b-97,Puerta del Norte,19,1.1
+USK18233,1996-10-18,22.0,Mujer,av 32 #54-55,Puerta del Norte,2,50.0
+USK18231,1978-05-30,40.0,Mujer,crr 59a #35-08,"Aventura, Puerta del Norte",4,247.0
+USK18229,1993-05-27,25.0,Hombre,carrera25a #10-41 Barrio Poblado,U. CES,5,143.0
+USK18223,1994-01-30,25.0,Hombre,Calle 82#57-34,Aventura,1,7.0
+USK18221,1983-04-11,35.0,Hombre,calle 42 # 108 a 215 apta 522,Ruta N,2,2.0
+USK18220,1998-08-12,20.0,Hombre,Carrera 32#69-22,Aventura,1,27.0
+USK18218,1990-12-17,28.0,Hombre,calle 20 e #41 f 81,Ruta N,5,138.0
+USK18217,1983-03-19,36.0,Hombre,calle 53 b #17 a 52,Ruta N,7,142.0
+USK18216,1971-01-08,48.0,Mujer,Cra. 7 #49C28-110 Caicedo,Coltejer,2,50.0
+USK18215,1986-11-10,32.0,Hombre,Carrera 42#77-20,Ruta N,4,33.0
+USK18214,1980-01-13,39.0,Hombre,Carrera 71A #94-109,Ruta N,1,90.0
+USK18213,1975-08-04,43.0,Mujer,Cra 77 60-70 torre 1 apto 906,Unicentro,1,14.0
+USK18211,1992-07-04,26.0,Hombre,cra 45 #45 43,Ruta N,6,354.0
+USK18209,1980-07-06,38.0,Hombre,calle 79c sur #55c- 94 La Estrella,U. CES,11,177.0
+USK18208,1978-05-08,40.0,Hombre,Cra. 39A #39C-6 Las Palmas,Coltejer,1,18.0
+USK18206,1981-02-25,38.0,Mujer,carrera72 #80a-43 Barrio Robledo,U. CES,8,11.0
+USK18201,1996-09-07,22.0,Mujer,calle42c #88-78 Barrio La America,U. CES,3,58.0
+USK18196,1992-12-03,26.0,Hombre,Calle 70 #70-63,Ruta N,1,1.0
+USK18195,1989-08-01,29.0,Mujer,Calle 3B Sur #29C-120,Ruta N,4,13.0
+USK18191,1988-07-07,30.0,Hombre,Col 80 # 50 c 44,Aventura,1,170.0
+USK18182,1994-08-16,24.0,Mujer,cr 52 N 84 06,Ruta N,1,14.0
+USK18181,1994-06-27,24.0,Mujer,cl 84 N 50 c 34,Ruta N,7,92.0
+USK18180,1990-05-09,28.0,Hombre,cr 76 sur N 45 b 105,"Ruta N, Aventura",8,86.0
+USK18179,1989-05-21,29.0,Mujer,cr 41 N 49 92,Ruta N,1,24.0
+USK18176,1981-06-01,37.0,Mujer,Carrera 42D#104-39,"Coltejer, Ruta N",2,68.0
+USK18173,1992-12-13,26.0,Hombre,cr 57 N 64 17,Ruta N,6,23.0
+USK18170,1986-01-14,33.0,Mujer,kr 57 a # 53 a-49,Coltejer,12,153.0
+USK18165,1992-12-22,26.0,Mujer,circular2 #68-14 Barrio Laureles,U. CES,7,37.0
+USK18163,1998-10-07,20.0,Mujer,calle42 #48-36 Municipio Guarne,U. CES,3,91.0
+USK18162,1979-02-04,40.0,Hombre,Calle 45A Sur #39B-02,"Ruta N, Aventura",2,7.0
+USK18155,1990-05-07,28.0,Mujer,Calle 40ASur #24B-105 Int 9822 Torre 16,Ruta N,3,49.0
+USK18152,1984-08-06,34.0,Mujer,carrera65cc #31-34 Barrio Belen Fatima,U. CES,4,22.0
+USK18147,1990-09-09,28.0,Mujer,Diag 63 #44-13,Puerta del Norte,2,279.0
+USK18144,1980-10-23,38.0,Mujer,Calle 37A #49A-10,"Ruta N, Puerta del Norte",2,61.0
+USK18142,1999-01-25,20.0,Mujer,carrera74a 91-62 Barrio Kennedy,U. CES,4,22.0
+USK18138,1973-04-02,45.0,Hombre,calle 80c# 55-87,Ruta N,3,816.0
+USK18134,1973-03-27,46.0,Mujer,Calle 65#56-84,"Ruta N, Aventura",4,118.0
+USK18130,1991-11-27,27.0,Mujer,transversal32a sur 31e-58 Barrio La Magnolia,U. CES,19,660.0
+USK18129,1984-01-26,35.0,Mujer,Carrera 115A #64CC-04 Apto 808,CESDE,1,19.0
+USK18127,1994-04-27,24.0,Mujer,carrera82c 30a-105 Barrio Belen,U. CES,4,29.0
+USK18126,1972-02-12,47.0,Mujer,Calle 49 #6AB-20,CESDE,4,46.0
+USK18124,1970-03-19,49.0,Hombre,calle45 e 75 80,Unicentro,1,46.0
+USK18120,1969-10-27,49.0,Mujer,calle 89a #42b- 30,Ruta N,1,373.0
+USK18110,1987-09-01,31.0,Mujer,carrera 96b#49-67,"Ruta N, Coltejer",6,480.0
+USK18107,1997-12-08,21.0,Mujer,calle17 #40b-320 Barrio Poblado,"U. CES, Plaza Mayor",5,83.0
+USK18101,1996-05-11,22.0,Mujer,kr52 c#84-17 Aranjuez los alamos,"Ruta N, Coltejer, Aventura",16,214.0
+USK18099,1980-12-12,38.0,Mujer,Calle 57A #24BB-60,CESDE,8,76.0
+USK18098,1994-01-26,25.0,Hombre,Carrera 81B #19B-63,CESDE,3,11.0
+USK18096,1997-07-23,21.0,Mujer,calle37 #89-12 Barrio Santamonica,U. CES,3,32.0
+USK18095,1990-08-07,28.0,Mujer,Carrera 72 #96-113,CESDE,7,199.0
+USK18092,1998-02-14,21.0,Mujer,carrera81 #104-15 Barrio 12 de Octubre,U. CES,1,10.0
+USK18087,1998-02-06,21.0,Hombre,carrera79 #34a-118 Barrio Laureles,U. CES,9,450.0
+USK18086,1990-04-11,28.0,Mujer,Calle 77 #50B-61,CESDE,2,11.0
+USK18085,1982-09-03,36.0,Mujer,carrera 74# 29-21,Ruta N,3,20.0
+USK18084,1977-02-05,42.0,Hombre,carrera76 #97a-46 Barrio Castilla,U. CES,7,247.0
+USK18081,1987-03-30,31.0,Hombre,carrera 74b# 92-109,Ruta N,1,46.0
+USK18076,1993-01-16,26.0,Mujer,Calle 64 #44-119 Envigado,Coltejer,1,35.0
+USK18071,1996-12-28,22.0,Hombre,Barrio Chagualo,Aventura,1,17.0
+USK18067,1997-02-14,22.0,Mujer,calle10a #22-130 Barrio Poblado,U. CES,11,237.0
+USK18057,1989-12-07,29.0,Hombre,Cra 36 A 65 B 38 Piso 2,"Ruta N, Coltejer",3,34.0
+USK18056,1992-06-25,26.0,Hombre,"Bello, La Navarra",Puerta del Norte,3,450.0
+USK18055,1981-05-01,37.0,Hombre,Calle 68 #36-18 Manrique Oriental,Terminal del Norte,2,3.0
+USK18054,1980-04-29,38.0,Mujer,Cra. 49 #107-123,Terminal del Norte,3,69.0
+USK18050,1972-05-19,46.0,Mujer,diag 57 #31-62,Puerta del Norte,1,76.0
+USK18049,1996-04-26,22.0,Mujer,Carrera 33 #57-44,"Coltejer, Aventura, Ruta N",10,217.0
+USK18047,1998-09-05,20.0,Mujer,carrera45 #57-53 Barrio Boston,U. CES,1,4.0
+USK18044,1988-02-22,31.0,Mujer,calle54 #50-21 Barrio centro,U. CES,6,85.0
+USK18042,1980-01-06,39.0,Mujer,Cra 50D #65-39,Ruta N,2,80.0
+USK18038,1984-11-17,34.0,Mujer,calle 74# 48a-99,Ruta N,3,211.0
+USK18036,1988-02-27,31.0,Mujer,carrera 68a # 106-21,Ruta N,25,152.0
+USK18034,1992-03-06,27.0,Mujer,Call 96a 81 02,"Terminal del Norte, Puerta del Norte, Aventura, Ruta N",23,
+USK18033,1994-04-25,24.0,Mujer,kr 94 #48a-158 Floresta santa lucia,Coltejer,2,35.0
+USK18032,1974-08-28,44.0,Mujer,calle5 sur #25-130 Barrio Poblado,U. CES,1,18.0
+USK18031,1992-07-14,26.0,Mujer,calle 100 #46a-09,Coltejer,11,130.0
+USK18029,1990-10-08,28.0,Mujer,carrera32 #16-300 Barrio Las Palmas,U. CES,1,5.0
+USK18022,1969-06-16,49.0,Hombre,calle52a #58-45 Barrio Perez,Aventura,3,95.0
+USK18020,1994-07-04,24.0,Hombre,Calle71a #45-66,Aventura,2,41.0
+USK18018,1997-01-30,22.0,Hombre,Cl 42c 90a 104,"Coltejer, Unicentro",12,
+USK18013,1988-09-14,30.0,Mujer,Cra. 89 #92C-32 Robledo,Terminal del Norte,4,113.0
+USK18010,1970-02-16,49.0,Mujer,Carrera 88A # 18A-16 Altavista,Aventura,3,22.0
+USK18009,1997-07-02,21.0,Hombre,Calle 65#56-84,"Aventura, Ruta N",2,20.0
+USK18008,1991-07-04,27.0,Hombre,Carrera 3# 55FF-61,"Aventura, Ruta N",3,112.0
+USK18007,1983-04-20,35.0,Mujer,calle 80b 52-51,Ruta N,7,372.0
+USK18006,1993-07-11,25.0,Hombre,aranjuez,"Ruta N, Unicentro",2,13.0
+USK18005,1991-02-17,28.0,Hombre,calle 113a#74c-20,"Unicentro, Ruta N",2,84.0
+USK18004,1993-07-13,25.0,Mujer,calle 118#38-13,"Coltejer, Ruta N",5,206.0
+USK18002,1980-07-02,38.0,Mujer,Carrera 75 DA #2B sur 35,CESDE,3,3.0
+USK17999,1992-09-30,26.0,Mujer,Carrera 45D #61-44,"Aventura, Ruta N",4,298.0
+USK17997,1975-10-26,43.0,Mujer,Santa Elena vereda piedra gorda,Coltejer,8,978.0
+USK17996,1998-10-18,20.0,Hombre,calle 50b-37-75,"Ruta N, Coltejer",3,157.0
+USK17994,1972-05-03,46.0,Mujer,calle 57d #28a-20 Ensizo,Coltejer,10,365.0
+USK17993,1997-01-28,22.0,Mujer,calle 86#49b-44,Ruta N,1,100.0
+USK17991,1991-12-27,27.0,Hombre,calle 86 # 49-44,Ruta N,1,37.0
+USK17990,1986-10-23,32.0,Mujer,calle 86 # 49b-44,Ruta N,2,46.0
+USK17989,1971-04-20,47.0,Hombre,Carrera 39 # 65BB-52,Aventura,1,77.0
+USK17987,1985-06-24,33.0,Hombre,Cll 68 # 48A 32,Ruta N,1,50.0
+USK17986,1989-09-09,29.0,Mujer,CR 38A 40A 06 AP501,Coltejer,4,170.0
+USK17983,1993-09-14,25.0,Hombre,calle 72a # 47-73,Ruta N,2,259.0
+USK17980,1980-08-04,38.0,Mujer,simon bolivar,Unicentro,5,80.0
+USK17979,1987-08-04,31.0,Hombre,calle 77#50-88,Ruta N,1,21.0
+USK17977,1988-05-30,30.0,Mujer,CL 65 92 108 IN 202,Coltejer,6,78.0
+USK17976,1985-04-29,33.0,Mujer,carrera 37b # 13sur-04,Ruta N,10,88.0
+USK17974,1998-02-28,21.0,Hombre,Carrera 29 #42-36,CESDE,2,5.0
+USK17973,1978-04-01,40.0,Mujer,calle 71a #42-21 int 105,Ruta N,1,14.0
+USK17970,1998-02-22,21.0,Hombre,calle97a #51b-08 Barrio San Isidro,U. CES,5,6.0
+USK17969,1994-11-18,24.0,Mujer,calle 65 #56a-60,Ruta N,1,33.0
+USK17968,1971-11-28,47.0,Mujer,Carrera 49#107-22,Coltejer,11,377.0
+USK17965,1983-04-11,35.0,Mujer,calle 102#42b-08,"Ruta N, Coltejer",2,34.0
+USK17962,1979-11-26,39.0,Mujer,carrera 50#84-41,Ruta N,29,
+USK17959,1977-08-06,41.0,Mujer,calle 35 #40-83 Barrio Itagui,U. CES,1,5.0
+USK17958,1976-08-15,42.0,Mujer,carrera50a #56-50 Barrio Prado Centro,U. CES,8,10.0
+USK17957,1993-06-24,25.0,Mujer,Aranjuez,Ruta N,2,51.0
+USK17956,1994-10-17,24.0,Mujer,Carrera 32#59-22,Coltejer,1,1.0
+USK17955,1974-02-07,45.0,Mujer,manrique oriental calle 71 # 28-56,"Coltejer, Ruta N",10,181.0
+USK17950,1974-09-27,44.0,Mujer,Carrera 24BD #69-102,Coltejer,7,62.0
+USK17948,1969-09-24,49.0,Mujer,Calle 67A#51-14,Coltejer,2,34.0
+USK17946,1999-03-18,20.0,Mujer,carrera46 #76 sur- 69 Barrio Ceramica (sabaneta),U. CES,1,22.0
+USK17945,1998-06-10,20.0,Mujer,carrera85b #77c- 23 Barrio Robledo,U. CES,9,108.0
+USK17941,1998-08-20,20.0,Mujer,cale41b sur #25-79 Barrio San Rafael Envigado,U. CES,7,24.0
+USK17940,1997-10-14,21.0,Mujer,calle42 sur #65a-84 Barrio San Antonio De Prado,U. CES,2,2.0
+USK17939,1997-01-30,22.0,Mujer,carrera27a #36d sur- 201 Barrio Loma Escodero,U. CES,7,30.0
+USK17936,1993-05-12,25.0,Hombre,Calle 66#51-37,Coltejer,1,22.0
+USK17934,1999-03-18,20.0,Mujer,crr28a #58-99,Puerta del Norte,4,10.0
+USK17931,1979-08-30,39.0,Hombre,Kr 19b # 15-57 Barbosa,Coltejer,8,305.0
+USK17930,1994-09-05,24.0,Hombre,Calle 40 #89-43 Santa Monica,Terminal del Norte,1,2.0
+USK17929,1994-09-08,24.0,Hombre,Cra. 65 #94-107 Castilla,Terminal del Norte,1,5.0
+USK17927,1992-04-06,26.0,Hombre,calle43c sur #46-45 Barrio primavera,U. CES,4,12.0
+USK17923,1971-12-02,47.0,Hombre,barrio san jose,U. CES,1,1.0
+USK17922,1986-01-30,33.0,Hombre,carrera 81#104-58 apto 301,Ruta N,2,102.0
+USK17921,1975-10-11,43.0,Mujer,bloque 19 central mayorista itagui,U. CES,1,1.0
+USK17918,1976-04-10,42.0,Mujer,Cra. 69A #56A Sur-31 Prados del Campo,Coltejer,7,295.0
+USK17914,1984-09-25,34.0,Mujer,carrera 61#37a-33,Unicentro,7,17.0
+USK17913,1998-04-11,20.0,Mujer,Carrera 47 #63A-19,CESDE,5,13.0
+USK17911,1992-08-13,26.0,Mujer,Corregimiento de Altavista,Ruta N,12,196.0
+USK17908,1996-09-02,22.0,Mujer,Calle 86 #32-36,CESDE,1,3.0
+USK17907,1997-02-21,22.0,Mujer,Carrera 109 #31B-71,CESDE,2,12.0
+USK17905,1995-01-18,24.0,Mujer,Carrera 33 #52A-27,CESDE,3,7.0
+USK17903,1996-06-06,22.0,Mujer,Cra 62E #111EE-68,CESDE,1,1.0
+USK17902,1994-07-11,24.0,Mujer,Cra 52 #100-14 Int 115,CESDE,1,1.0
+USK17900,1973-05-19,45.0,Mujer,carrera 46 #46a-27 anda lucia parte alta,Unicentro,3,195.0
+USK17899,1982-11-13,36.0,Mujer,carrera 65# 42-127-502,Unicentro,3,184.0
+USK17898,1984-03-10,35.0,Mujer,calle95 #65-52 Barrio Castilla,U. CES,2,2.0
+USK17897,1992-08-11,26.0,Mujer,calle26a #83b- 34 Barrio Belen Los Alpes,U. CES,1,1.0
+USK17891,1995-10-26,23.0,Mujer,calle51 Â·64c-34 Barrio Carlos C.Restrepo,U. CES,12,51.0
+USK17882,1977-01-18,42.0,Mujer,calle 49 #9b-210 Buenos aires,Coltejer,1,30.0
+USK17877,1992-08-27,26.0,Mujer,Calle 39 #50A-37 ItagÃ¼Ã­,Terminal del Norte,1,40.0
+USK17876,1985-06-09,33.0,Hombre,Cra. 68 #94-49 Castilla,Terminal del Norte,1,78.0
+USK17873,1988-10-08,30.0,Mujer,Calle 21c #40b -41,Puerta del Norte,3,92.0
+USK17872,1996-06-20,22.0,Mujer,Crr 54a #30b,Puerta del Norte,4,143.0
+USK17871,1992-09-24,26.0,Hombre,Carrera 27F Calle 34 DD Sur - 52,Unicentro,1,19.0
+USK17868,1985-12-13,33.0,Mujer,Carrera 73#52-65,"Aventura, Ruta N",9,213.0
+USK17854,1990-08-14,28.0,Mujer,villa hermosa,Ruta N,1,88.0
+USK17850,1996-09-26,22.0,Mujer,calle6 #43e-40 Barrio Patio Bonito,U. CES,1,1.0
+USK17845,1977-01-20,42.0,Mujer,calle79 #30-35 Barrio Manrique Oriental,Coltejer,1,1.0
+USK17842,1999-02-12,20.0,Hombre,calle 66a #55a - 51,Ruta N,6,74.0
+USK17838,1991-07-02,27.0,Hombre,Calle88 a # 51 b 23 Apto 204,Ruta N,5,521.0
+USK17835,1995-04-15,23.0,Mujer,carrera 36bb # 82-47,"Ruta N, Aventura",4,215.0
+USK17833,1971-04-13,47.0,Mujer,kr 75b #96-57 Castilla,Coltejer,4,221.0
+USK17824,1969-08-24,49.0,Mujer,calle49 #48-32 barrio buenos aires,Coltejer,4,18.0
+USK17820,1993-03-06,26.0,Hombre,Calle 64D #98-86 Pajarito.,CESDE,5,194.0
+USK17814,1981-04-24,37.0,Hombre,carrera 76a # 53-35,Ruta N,1,1.0
+USK17807,1980-06-14,38.0,Hombre,calle 84b #4a-75 colina de los bernal,Unicentro,2,16.0
+USK17805,1977-03-04,42.0,Mujer,Carrera 65 # 97 45 int 301,Ruta N,5,125.0
+USK17803,1989-08-15,29.0,Mujer,carrera100a #47e- 11 barrio san javier,U. CES,5,102.0
+USK17802,1998-08-06,20.0,Mujer,carrera76 #53-79 barrio los colores,U. CES,5,97.0
+USK17800,1982-01-06,37.0,Hombre,Calle 48BG #103B-32 San Javier,Coltejer,2,154.0
+USK17796,1973-12-27,45.0,Mujer,Av 37#64-05,"Ruta N, Puerta del Norte",43,
+USK17795,1973-03-20,46.0,Mujer,Avenida 48 #67-18,Puerta del Norte,1,71.0
+USK17794,1996-04-27,22.0,Mujer,Calle 53#54-20,Puerta del Norte,4,165.0
+USK17791,1987-11-11,31.0,Mujer,Calle 45B #6C-80,Coltejer,2,75.0
+USK17787,1998-06-09,20.0,Mujer,Cra 65 #28-60 Carrera Trinidad,CESDE,5,17.0
+USK17784,1978-02-01,41.0,Mujer,calle 42# 47 -10 la milagrosa,Coltejer,6,138.0
+USK17780,1973-11-16,45.0,Hombre,Calle 101A #73A-48 Pedregal,Coltejer,4,203.0
+USK17778,1999-02-05,20.0,Mujer,Calle 49 #17C-80 Buenos Aires,Coltejer,3,69.0
+USK17775,1986-01-02,33.0,Mujer,Calle 48f sur nÃºmero 39b 314 apto 1001,Unicentro,3,31.0
+USK17774,1977-09-08,41.0,Mujer,kr114#39E-52 interior 312 San Javier,Coltejer,1,23.0
+USK17772,1986-02-17,33.0,Hombre,Cra. 41 #54-26 BostÃ³n,Coltejer,4,225.0
+USK17764,1992-03-07,27.0,Mujer,calle 92 n 49 b 23,Ruta N,5,182.0
+USK17762,1988-08-26,30.0,Mujer,Cra 75 #25-34 Medellin,CESDE,2,2.0
+USK17759,1989-02-21,30.0,Hombre,calle7 #70-500 barrio la mota,U. CES,2,17.0
+USK17757,1993-06-23,25.0,Hombre,kr 66 bb # 55-51 EL trapiche bello,Coltejer,8,230.0
+USK17756,1998-09-14,20.0,Hombre,Calle 59b #69-99,Puerta del Norte,2,17.0
+USK17755,1970-04-06,48.0,Mujer,diag 58 #43-21,Puerta del Norte,3,216.0
+USK17754,1996-12-21,22.0,Mujer,Carrera 79# 46-75,Aventura,2,13.0
+USK17747,1998-11-15,20.0,Mujer,calle20e #73-29 barrio paris,U. CES,5,8.0
+USK17744,1989-08-24,29.0,Hombre,cll 28 # 82 a -30 Belen la palma,"Terminal del Norte, Coltejer",4,23.0
+USK17742,1982-04-13,36.0,Hombre,cra 39 n 52 06 apt 201,Coltejer,1,53.0
+USK17741,1991-04-30,27.0,Hombre,calle101c 72f-03 barrio 12 octubre,U. CES,5,19.0
+USK17737,1997-08-29,21.0,Mujer,calle8 #84f-155 barrio loma de los bernal,U. CES,1,35.0
+USK17736,1979-10-15,39.0,Mujer,calle 70a-#85a -10,Coltejer,18,
+USK17735,1986-09-01,32.0,Mujer,calle12 #71-47 barrio belen las playas,U. CES,9,40.0
+USK17734,1970-12-03,48.0,Mujer,Calle 77EE#91-57,"Plaza Mayor, Kaptadora 71",26,102.0
+USK17731,1998-11-30,20.0,Mujer,calle7 #81-107 barrio belen,U. CES,7,43.0
+USK17729,1992-12-31,26.0,Hombre,cll 47 # 50 95 copacabana,Coltejer,2,19.0
+USK17719,1987-09-21,31.0,Mujer,Av 42b #51-51,"Ruta N, Puerta del Norte",7,141.0
+USK17717,1998-10-26,20.0,Mujer,carrera72a #30b-14 barrio belen,"Unicentro, U. CES",2,78.0
+USK17715,1976-02-10,43.0,Hombre,kr 78#20 dd-20 Paris bello,Coltejer,4,160.0
+USK17713,1986-01-09,33.0,Hombre,Calle 48#39-61,"Kaptadora 71, Plaza Mayor",20,84.0
+USK17711,1976-01-17,43.0,Mujer,cra 69 # 78 B 12 apto 207,Terminal del Norte,1,26.0
+USK17706,1987-11-01,31.0,Hombre,calle 77c#85a-25,Ruta N,3,168.0
+USK17704,1973-10-28,45.0,Mujer,Calle 23A #55-44 Bello,Puerta del Norte,3,173.0
+USK17703,1989-09-11,29.0,Mujer,Cra.45A #30A Sur -19,Unicentro,3,104.0
+USK17693,1982-12-17,36.0,Mujer,Cra 64 #78-015 Bello,CESDE,3,5.0
+USK17687,1988-02-17,31.0,Mujer,calle 48 DE NÂº 96 A 62,Unicentro,3,564.0
+USK17686,1990-02-24,29.0,Hombre,kr15a#54-134 interior 110 villatina,Coltejer,1,62.0
+USK17685,1987-02-15,32.0,Mujer,Cra 76 #9AA-28 Int 201. Medellin,"CESDE, Coltejer",2,10.0
+USK17683,1978-10-26,40.0,Mujer,Calle 95B #42B-87 Int 201. Medellin,CESDE,2,3.0
+USK17675,1976-07-26,42.0,Mujer,Calle 60 #46-20 Barrio Prado,Aventura,1,94.0
+USK17670,1976-10-01,42.0,Hombre,Via robledo sector pilarica cr 72 B Cll 75 - 41 Edificio Palma Real apto. 703,"Ruta N, Terminal del Norte",17,502.0
+USK17668,1989-05-19,29.0,Mujer,Av 31 #66-29,Puerta del Norte,3,77.0
+USK17663,1994-10-21,24.0,Hombre,Calle 56 NÂ° 46 - 25,"Ruta N, Aventura, Puerta del Norte",5,429.0
+USK17660,1996-01-18,23.0,Mujer,Calle 20 b sur 35-101,U. CES,4,16.0
+USK17659,1970-03-10,49.0,Hombre,calle 44aa #10a-16 barrio buenos aires,Coltejer,21,
+USK17657,1971-09-21,47.0,Mujer,carrera57cc #24b- 17 barrio enciso,Coltejer,1,11.0
+USK17656,1998-09-28,20.0,Mujer,carrera37 #63a-76 barrio villa hermosa,Coltejer,2,160.0
+USK17646,1997-09-29,21.0,Mujer,Carrera 66B Circular 2-25,U. CES,1,3.0
+USK17645,1999-03-04,20.0,Mujer,Calle 92D#6855,U. CES,8,36.0
+USK17640,1998-06-12,20.0,Mujer,Carrera 75#99-10,U. CES,1,3.0
+USK17632,1998-10-08,20.0,Mujer,Calle 48D#94-50,U. CES,7,40.0
+USK17629,1979-08-10,39.0,Mujer,Retiro-Barrio VIcentenario,U. CES,7,192.0
+USK17627,1992-09-05,26.0,Mujer,Cra 62 #89-32 Medellin,CESDE,3,148.0
+USK17626,1974-02-24,45.0,Mujer,Diagonal 42DC #38A -19,Puerta del Norte,12,
+USK17625,1985-08-24,33.0,Mujer,Calle 21 #39e -08,Puerta del Norte,2,21.0
+USK17624,1998-08-30,20.0,Mujer,Parque Pilarica,U. CES,1,12.0
+USK17621,1979-05-26,39.0,Mujer,kr 33# 71b-25 manrique,Coltejer,4,91.0
+USK17620,1996-12-31,22.0,Mujer,calle 78#152a-155,Coltejer,17,198.0
+USK17615,1995-03-08,24.0,Hombre,Cra 40 #104-38 Medellin,CESDE,10,32.0
+USK17614,1986-08-18,32.0,Mujer,Calle 29 #50A-50 Yarumito,"Ruta N, Coltejer",2,142.0
+USK17613,1998-06-21,20.0,Hombre,Cra. 71A #94-95 Castilla,Ruta N,1,17.0
+USK17610,1979-11-20,39.0,Hombre,Calle 80B #55-54 El Bosque,"Ruta N, Aventura",19,
+USK17608,1989-07-22,29.0,Mujer,cra 97 ad #64 ae 24 int 202,Coltejer,3,90.0
+USK17604,1997-12-22,21.0,Mujer,Calle 39 #43A-61 Medellin,CESDE,5,62.0
+USK17602,1979-08-27,39.0,Mujer,Calle 37#40-58 Itagui,Terminal del Norte,1,5.0
+USK17601,1993-11-16,25.0,Hombre,Carrera 76#53-200,U. CES,6,317.0
+USK17600,1998-08-21,20.0,Mujer,Calle 76Dsur # 43A-100 Sabaneta,Terminal del Norte,2,2.0
+USK17599,1982-10-01,36.0,Mujer,Calle 59BB #69-185 Bello,Terminal del Norte,2,36.0
+USK17598,1993-08-13,25.0,Mujer,Cra 84B #63-17 Medellin,"Ruta N, Aventura, CESDE",33,650.0
+USK17597,1984-11-05,34.0,Mujer,Cll 104 B- # 84 D 61,Terminal del Norte,1,82.0
+USK17596,1996-09-22,22.0,Mujer,Carrera 25A #10-75,U. CES,3,13.0
+USK17595,1980-03-16,39.0,Hombre,kr 36#66-E23 VILLA HERMOSA,Coltejer,8,974.0
+USK17592,1992-12-18,26.0,Hombre,calle 91#50A-39,U. CES,1,16.0
+USK17591,1989-04-04,29.0,Mujer,Calle 10sur #53b-05,Coltejer,21,
+USK17589,1981-08-05,37.0,Mujer,Boston,Ruta N,1,9.0
+USK17587,1993-03-23,26.0,Mujer,Calle 65A #97-137,U. CES,1,1.0
+USK17585,1996-12-05,22.0,Mujer,carrera 29A#5Sur -215,U. CES,4,17.0
+USK17581,1980-05-31,38.0,Hombre,crab 42b nÂ° 87-65,Coltejer,2,97.0
+USK17577,1972-11-12,46.0,Mujer,manrique,Ruta N,2,33.0
+USK17573,1992-04-19,26.0,Mujer,Carrera79C#8Sur -50,U. CES,12,256.0
+USK17572,1997-09-28,21.0,Mujer,Calle 77AC#80-40,U. CES,3,41.0
+USK17571,1998-05-16,20.0,Mujer,Calle 28#24-18,"Terminal del Norte, U. CES, Puerta del Norte",13,431.0
+USK17564,1995-11-08,23.0,Mujer,calle52#49-71,Coltejer,10,74.0
+USK17556,1979-01-19,40.0,Mujer,carrera94 #78b-19 301 robledo aures,Coltejer,7,873.0
+USK17555,1988-04-08,30.0,Mujer,carrera53 #9b sur-17,Coltejer,3,151.0
+USK17547,1998-03-30,20.0,Mujer,calle 112#67-55,U. CES,16,101.0
+USK17545,1989-09-06,29.0,Mujer,cll 115 # 76 D 59,Ruta N,4,120.0
+USK17542,1991-06-07,27.0,Mujer,carrera36d #43 sur 100 barrio las antillas,Coltejer,2,3.0
+USK17537,1994-01-14,25.0,Mujer,Calle 94 N| 72 B 09 Apto 301,U. CES,2,16.0
+USK17536,1997-08-03,21.0,Hombre,Carrera39A#58A-29,U. CES,8,17.0
+USK17535,1988-10-19,30.0,Mujer,carrera 20 c #53 87 el pinal,Coltejer,7,324.0
+USK17534,1981-09-03,37.0,Mujer,Calle 54A #57-15 Bello,CESDE,1,11.0
+USK17526,1973-10-23,45.0,Mujer,Cra. 50 #63- a38,Puerta del Norte,2,38.0
+USK17525,1994-04-06,24.0,Mujer,Aeropuerto Jose Maria Cordoba,U. CES,1,27.0
+USK17524,1996-10-16,22.0,Mujer,CRA 49 #90-42,"Puerta del Norte, Coltejer",6,149.0
+USK17523,1999-02-24,20.0,Mujer,calle47#55-54 Rionegro,U. CES,3,60.0
+USK17521,1973-03-10,46.0,Mujer,Calle 37B Sur#27D44,U. CES,2,32.0
+USK17516,1997-01-06,22.0,Hombre,calle 65 N 56 - 84,"Aventura, Ruta N",10,178.0
+USK17511,1996-12-16,22.0,Mujer,Carrera 33 #47-4 Medellin,CESDE,10,61.0
+USK17510,1986-10-10,32.0,Hombre,Calle 50A #52-03 Bello.,"Coltejer, CESDE",11,130.0
+USK17508,1973-12-16,45.0,Mujer,Calle 112B #64D-39 Boyaca Las Brisas,Coltejer,10,326.0
+USK17506,1996-11-05,22.0,Mujer,Carrera 111C #13-31,U. CES,2,6.0
+USK17505,1996-12-01,22.0,Hombre,Calle 36Sur #27-10,U. CES,5,136.0
+USK17504,1995-10-25,23.0,Mujer,san javier,Ruta N,1,1.0
+USK17503,1993-03-30,25.0,Hombre,Cra. 60 #38 -38,Puerta del Norte,1,116.0
+USK17502,1989-06-19,29.0,Hombre,calle 48 c sur Â·#42a 80,U. CES,10,135.0
+USK17498,1995-03-29,23.0,Hombre,Carrera 48 #102-29,U. CES,2,24.0
+USK17497,1986-06-19,32.0,Hombre,Calle 107B #42B-48 Int 112,CESDE,20,123.0
+USK17492,1972-01-14,47.0,Mujer,Cra. 88 #47DD-26 Santa LucÃ­a,Coltejer,13,710.0
+USK17488,1997-03-31,21.0,Mujer,Calle 78ESur #47C-80,U. CES,4,33.0
+USK17486,1978-04-27,40.0,Mujer,Cra. 16B #32-50 Buenos Aires,Coltejer,1,1.0
+USK17485,1998-02-22,21.0,Mujer,Calle 94A #63A-080,U. CES,3,13.0
+USK17483,1979-11-24,39.0,Hombre,Carrera 88 #49-26,Ruta N,2,57.0
+USK17478,1989-10-06,29.0,Mujer,Crr 63AA #73-33,"Ruta N, Puerta del Norte, Coltejer",36,
+USK17469,1990-07-16,28.0,Mujer,Calle 35 #32-14 La Milagrosa,Coltejer,9,429.0
+USK17464,1995-09-03,23.0,Mujer,CLL 78 55 b 22,Aventura,1,49.0
+USK17452,1974-07-03,44.0,Mujer,cl 77 N 49 102,"Ruta N, , Aventura",13,
+USK17447,1983-12-12,35.0,Hombre,calle 71#59-22 bello,"Coltejer, U. CES, Terminal del Norte, Puerta del Norte",9,50.0
+USK17442,1990-09-10,28.0,Mujer,calle 100 # 51- 15 int 101,CESDE,4,67.0
+USK17441,1985-01-05,34.0,Mujer,Calle 58A #30-63 Enciso,Coltejer,25,
+USK17437,1977-01-17,42.0,Hombre,CRR 66A #52C 06,Puerta del Norte,1,3.0
+USK17412,1992-06-17,26.0,Mujer,calle 103 b # 50b -35 Villa niza,Coltejer,1,34.0
+USK17411,1972-03-18,47.0,Mujer,Av. 46c #68-68,Puerta del Norte,9,
+USK17409,1969-05-04,49.0,Mujer,calle46#3980,Coltejer,3,186.0
+USK17403,1984-07-12,34.0,Hombre,carrera 74 # 43-04,Unicentro,7,60.0
+USK17396,1985-06-19,33.0,Mujer,Calle 32a NÂ° 65b- 37 apto 201,Unicentro,2,77.0
+USK17391,1995-10-08,23.0,Hombre,"Calle 70 No 52-72, oficina 608",Ruta N,10,120.0
+USK17388,1975-10-25,43.0,Mujer,Calle 79 #55B-133 MedellÃ­n,Aventura,1,37.0
+USK17387,1990-03-20,29.0,Mujer,Cra. 37A #107-C14 MedellÃ­n,Aventura,1,6.0
+USK17384,1985-05-27,33.0,Mujer,cr 34a #71-62 apto 201,Ruta N,1,72.0
+USK17376,1994-05-23,24.0,Mujer,Calle 21A #62-11 Bello Apto. 302,"Ruta N, Aventura",4,228.0
+USK17375,1998-12-02,20.0,Hombre,Carrera 64A #94-80 Tricentenario,Terminal del Norte,1,1.0
+USK17372,1996-01-12,23.0,Hombre,Calle 98D #82-49 MedellÃ­n,Ruta N,2,2.0
+USK17370,1983-03-18,36.0,Mujer,Calle 59b 68-23,Puerta del Norte,1,24.0
+USK17369,1989-07-21,29.0,Hombre,Av.48c 65-11,"Ruta N, Kaptadora 70, Terminal del Norte, Aventura, Puerta del Norte",50,
+USK17368,1994-08-22,24.0,Mujer,calle 50c #20-212,Coltejer,2,100.0
+USK17367,1994-01-19,25.0,Mujer,calle98#67-43,Coltejer,1,16.0
+USK17365,1994-01-20,25.0,Mujer,kr29#40a-50,Coltejer,1,18.0
+USK17361,1983-11-11,35.0,Mujer,campo valdez,Ruta N,7,221.0
+USK17360,1988-06-08,30.0,Hombre,doce de octubre,Ruta N,10,89.0
+USK17356,1994-09-24,24.0,Hombre,Torres de la fuente chagualo,Ruta N,1,3.0
+USK17355,1998-07-04,20.0,Mujer,Calle 80C #72C-128 Lopez De Mesa,Terminal del Norte,3,642.0
+USK17354,1998-04-06,20.0,Hombre,Calle 66A # 55A-51,"Ruta N, Aventura",5,42.0
+USK17353,1994-06-22,24.0,Mujer,Diagonal 50A #42 B-197 Int244,Ruta N,1,5.0
+USK17351,1999-01-03,20.0,Mujer,calle 44# 39-36,Unicentro,3,174.0
+USK17350,1997-02-24,22.0,Mujer,Calle 56A #63-45,"Aventura, Ruta N",6,61.0
+USK17340,1990-02-13,29.0,Hombre,chagualo,Ruta N,1,77.0
+USK17339,1997-08-23,21.0,Mujer,rodeo alto,Ruta N,8,47.0
+USK17338,1976-12-05,42.0,Mujer,calle 104#50a-42,"Ruta N, Coltejer",18,
+USK17337,1995-01-02,24.0,Hombre,Carrera 95 #70-90,Ruta N,2,4.0
+USK17334,1971-08-03,47.0,Mujer,kr47c#75-35 bello,Puerta del Norte,8,206.0
+USK17327,1997-05-25,21.0,Hombre,Carrera 55A # 56-101,Ruta N,1,1.0
+USK17325,1994-04-07,24.0,Hombre,Calle 36 # 64A 34,Ruta N,4,7.0
+USK17321,1988-10-19,30.0,Hombre,Cra 18-D #63-38,CESDE,14,57.0
+USK17319,1993-02-10,26.0,Mujer,sabaneta,Ruta N,1,28.0
+USK17318,1986-10-26,32.0,Mujer,Calle 55 #15 A- 09,"Ruta N, CESDE",2,31.0
+USK17311,1990-08-18,28.0,Mujer,carrera 79 # 47- 60,Unicentro,1,7.0
+USK17295,1998-01-06,21.0,Mujer,Cra 91 a #47f17,Ruta N,4,180.0
+USK17284,1981-02-16,38.0,Hombre,Calle 63 #132-15,CESDE,9,23.0
+USK17275,1997-07-11,21.0,Mujer,calle 621 #56-51,Ruta N,2,53.0
+USK17248,1991-11-28,27.0,Mujer,Cll 73#50a11 3,"Puerta del Norte, Ruta N",4,36.0
+USK17225,1991-03-25,28.0,Mujer,calle 77#31-13 Mnrique oriental,Coltejer,4,373.0
+USK17224,1997-10-11,21.0,Mujer,Carerra 84E #95-35,"Ruta N, Aventura",7,67.0
+USK17212,1995-12-31,23.0,Mujer,Calle 10a #22-130,U. CES,3,16.0
+USK17194,1981-05-01,37.0,Hombre,Calle 86B #31-23,Ruta N,1,3.0
+USK17164,1998-08-25,20.0,Hombre,Carrera 42A #82-63,Ruta N,1,57.0
+USK17121,1991-07-13,27.0,Hombre,Carrera 58 #2b-65,Ruta N,8,173.0
+USK17101,1982-06-16,36.0,Hombre,Transversal 48A Sur #61-39 Limonar,Coltejer,1,23.0
+USK17096,1987-12-10,31.0,Mujer,Carrera 46 #85-133,Ruta N,21,
+USK17049,1983-01-16,36.0,Mujer,calle 43 # 47_17 Milan envigado,Coltejer,2,70.0
+USK17042,1997-11-08,21.0,Hombre,Calle 66 G 97 AC-159,"Coltejer, Aventura, Kaptadora 71",10,274.0
+USK17034,1983-03-19,36.0,Mujer,La mota,Unicentro,6,515.0
+USK17031,1978-10-23,40.0,Hombre,Cra 65A Cl 66-40,Coltejer,11,72.0
+USK17007,1987-01-19,32.0,Hombre,kr 51 # 92-72 Aranjuez,"Puerta del Norte, Aventura, Ruta N",18,567.0
+USK16996,1995-12-22,23.0,Hombre,Cra 37#95a23 int 118,Aventura,1,10.0
+USK16995,1998-05-07,20.0,Hombre,Av. 40 # 51-110,U. CES,6,80.0
+USK16993,1986-11-25,32.0,Hombre,Diagonal 54 #42-16 niquia,Ruta N,1,69.0
+USK16992,1982-08-28,36.0,Mujer,CARRERA 47# 1-95 PATIO BONITO,Unicentro,2,177.0
+USK16981,1999-02-23,20.0,Mujer,Transversal 39 # 73b 51,"U. CES, Unicentro, Ruta N",4,121.0
+USK16979,1998-04-11,20.0,Mujer,cl 128b sur n 57 111 Caldas,Ruta N,2,5.0
+USK16978,1991-06-16,27.0,Mujer,cr 48 N 68 62 Medellin,Ruta N,1,2.0
+USK16972,1996-11-18,22.0,Hombre,cr 91 b n 34 e 95,Ruta N,1,73.0
+USK16971,1999-02-12,20.0,Hombre,Tr 79C n 80 98 MedellÃ­n,Ruta N,2,9.0
+USK16969,1987-01-11,32.0,Mujer,Carrera 75#95-108,Aventura,2,95.0
+USK16968,1991-10-26,27.0,Mujer,Calle 98C #37-14 Int 301 Medellin,CESDE,2,22.0
+USK16945,1971-08-25,47.0,Mujer,cra.36 nro.45-77,Coltejer,3,158.0
+USK16943,1970-02-05,49.0,Mujer,calle 105a # 7016 aprt 302,Ruta N,6,41.0
+USK16919,1998-05-04,20.0,Hombre,Dg 44 #37b - 79,U. CES,10,13.0
+USK16910,1995-09-03,23.0,Hombre,Calle 78 #47-27 Medellin,CESDE,17,61.0
+USK16872,1983-03-09,36.0,Mujer,Calle 13 43D-50,"Plaza Mayor, Unicentro",7,427.0
+USK16871,1990-06-09,28.0,Hombre,calle 51 # 43 - 23 copacabana antioquia,U. CES,2,56.0
+USK16827,1988-11-09,30.0,Mujer,Cra 10 # 16 A sur - 244,U. CES,19,363.0
+USK16814,1979-10-06,39.0,Mujer,calle 47 # 73-30,Unicentro,3,121.0
+USK16789,1987-06-13,31.0,Mujer,carrera 51c #67A54,Ruta N,7,260.0
+USK16764,1992-02-08,27.0,Hombre,Cll55c#2-70int122,"Puerta del Norte, Ruta N, Coltejer",6,242.0
+USK16750,1985-07-29,33.0,Mujer,cra 78 a 91 a 78,Unicentro,4,228.0
+USK16727,1990-04-01,28.0,Mujer,CALLE 88 B 65A 52,Terminal del Norte,1,25.0
+USK16641,1991-01-09,28.0,Mujer,CRA 53 # 73-35,Unicentro,4,282.0
+USK16640,1990-01-02,29.0,Mujer,Calle 35 # 53 - 22,Unicentro,4,
+USK16600,1990-06-23,28.0,Mujer,calle 9a #75a-26,Unicentro,5,234.0
+USK16577,1997-01-30,22.0,Mujer,Guarne,Kaptadora 71,2,3.0
+USK16575,1998-03-24,21.0,Mujer,calle 80,"Aventura, Ruta N",3,95.0
+USK16549,1985-11-09,33.0,Mujer,CallÃ© 57C #28-74,Coltejer,8,404.0
+USK16489,1983-12-01,35.0,Mujer,Calle 94a #55-91,Puerta del Norte,24,
+USK16486,1990-11-09,28.0,Mujer,calle66a #55a-51 Barrio Sevilla,Aventura,3,112.0
+USK16452,1999-01-03,20.0,Mujer,none,"Unicentro, Kaptadora 71",2,157.0
+USK16447,1995-09-15,23.0,Mujer,calle 112a # 6711,Ruta N,5,46.0
+USK16442,1989-08-08,29.0,Mujer,calle 44 n 31-57 Int 201,Unicentro,1,180.0
+USK16438,1970-12-12,48.0,Hombre,Dg 57 #44-18,Puerta del Norte,2,44.0
+USK16435,1997-09-08,21.0,Mujer,carrera 48a 83-62,"Coltejer, Ruta N",3,36.0
+USK16399,1989-12-29,29.0,Hombre,Cr 31 N 62 a 18 MedellÃ­n,Ruta N,5,120.0
+USK16398,1996-03-13,23.0,Mujer,Cll 103c N 65 - 26 MedellÃ­n,Ruta N,6,39.0
+USK16384,1982-11-22,36.0,Mujer,Calle 76 #50-71campo valdes,Ruta N,2,244.0
+USK16366,1997-08-11,21.0,Mujer,kr 52 # 48 - 15,"Terminal del Norte, Coltejer, Puerta del Norte",11,353.0
+USK16301,1997-02-09,22.0,Mujer,Calle 38sur #43-35,Kaptadora 71,1,1.0
+USK16292,1995-07-08,23.0,Mujer,CL 100 BB # 30 BB 13,Aventura,1,21.0
+USK16276,1990-11-12,28.0,Hombre,AV 32 NÂ° 42 EE 264,Ruta N,5,446.0
+USK16274,1997-11-30,21.0,Mujer,Calle 59 # 50-31,Coltejer,1,43.0
+USK16264,1995-09-27,23.0,Mujer,carrera 71a #80-84,Terminal del Norte,6,201.0
+USK16248,1991-01-16,28.0,Mujer,calle 76cc #81d20,Aventura,2,22.0
+USK16173,1979-11-18,39.0,Hombre,Cl. 113AA 64C-60,Puerta del Norte,6,265.0
+USK16165,1982-10-04,36.0,Mujer,CARRERA 90 # 65c-10,Ruta N,2,90.0
+USK16164,1996-07-25,22.0,Mujer,Cra 40 # 65 AA 18 villa hermosa,Ruta N,4,117.0
+USK16114,1993-04-19,25.0,Hombre,Calle 87 sur # 65b-173,Ruta N,12,147.0
+USK16101,1999-03-14,20.0,Mujer,Cra 89# 77 AD 445,"Coltejer, Ruta N, Aventura",4,105.0
+USK16024,1993-07-19,25.0,Hombre,diagonal75cc # 01-110,Unicentro,20,745.0
+USK16004,1989-08-16,29.0,Hombre,Calle 119 no 64bb70,Coltejer,7,98.0
+USK15961,1997-12-15,21.0,Mujer,Av 20A #57 AA 113 Apto 202,Ruta N,7,98.0
+USK15924,1988-02-22,31.0,Hombre,Carrera 69 NÂº 40A sur - 27 San Antonio De Prado Barrio Horizonte,"Ruta N, Coltejer",15,148.0
+USK15914,1989-01-10,30.0,Mujer,Calle 28 N 58 bb31,Puerta del Norte,8,176.0
+USK15908,1979-08-03,39.0,Mujer,Calle 78 NÃºmero 50/65,Ruta N,1,57.0
+USK15885,1979-04-26,39.0,Mujer,Carrera 49# 65F-44,Aventura,1,190.0
+USK15882,1981-12-14,37.0,Hombre,Transversal 45D #84-25,Unicentro,8,530.0
+USK15829,1983-03-03,36.0,Mujer,CL 80 N 94 A 41,"Terminal del Norte, Aventura",5,246.0
+USK15730,1997-07-28,21.0,Mujer,"Villa Hermosa, Los Angeles. Calle 59 #41-49 Int 114","Coltejer, CESDE",16,111.0
+USK15717,1985-01-11,34.0,Mujer,Carrera 57a #72-23 Araucarias 1,Puerta del Norte,1,187.0
+USK15695,1985-07-27,33.0,Hombre,Buenos Aires,Coltejer,29,
+USK15691,1987-10-22,31.0,Mujer,Calle 81A #87-72 Robledo El Diamante,Terminal del Norte,5,98.0
+USK15689,1986-09-09,32.0,Hombre,Guayabal,"Ruta N, Plaza Mayor, Unicentro",7,48.0
+USK15672,1984-11-10,34.0,Mujer,Calle21#17-21,Plaza Mayor,1,311.0
+USK15637,1985-07-22,33.0,Mujer,Cra 40 #40-109,CESDE,20,73.0
+USK15620,1991-06-01,27.0,Mujer,Calle 52 #30-04 MedellÃ­n,Coltejer,4,87.0
+USK15601,1998-11-11,20.0,Mujer,Cll 77c # 85b 54,Aventura,3,51.0
+USK15560,1999-01-25,20.0,Mujer,Girardota vereda manga arriba,U. CES,16,142.0
+USK15511,1989-08-14,29.0,Hombre,Carrera 65d #35-37,Unicentro,2,106.0
+USK15483,1991-09-08,27.0,Mujer,cra 51D# 67-69,Ruta N,2,91.0
+USK15479,1989-01-12,30.0,Hombre,Diagonal 42db#36b 16 interior 201,Puerta del Norte,5,210.0
+USK15326,1991-01-23,28.0,Hombre,Cr 64B #52B Sur - 54 Apto 714,Terminal del Norte,8,58.0
+USK15305,1976-04-13,42.0,Mujer,cra 81 n 44 b 37,Unicentro,4,90.0
+USK15277,1992-07-09,26.0,Mujer,la nueva jerusalen,Ruta N,9,53.0
+USK15237,1985-07-12,33.0,Hombre,Calle 28 # 17-05,Terminal del Norte,8,
+USK15234,1972-02-14,47.0,Hombre,Cr 24 59B 30,Ruta N,1,1.0
+USK15159,1978-08-11,40.0,Mujer,CRA 36#65B123,Ruta N,8,938.0
+USK15067,1976-10-22,42.0,Hombre,carrera48 60-53 prado centro. Medellin,"Aventura, Coltejer, Terminal del Norte, Ruta N",17,412.0
+USK14983,1983-02-17,36.0,Mujer,Calle 76cb # 90d-57,Coltejer,1,16.0
+USK14975,1980-08-17,38.0,Mujer,Calle36bsur#55e47,"U. CES, Coltejer",5,731.0
+USK14962,1994-02-23,25.0,Hombre,Calle 57A# 68-80 Casa 020 Bello,"U. CES, Puerta del Norte, Terminal del Norte, Ruta N, Aventura",17,57.0
+USK14953,1984-02-16,35.0,Mujer,CRA 50 D 62-61,"Aventura, Ruta N",5,235.0
+USK14920,1974-10-25,44.0,Mujer,calle 57A nro 29-63,Coltejer,4,107.0
+USK14901,1994-10-12,24.0,Hombre,Cra 66AA 34-61 Off 207,Unicentro,2,65.0
+USK14859,1990-07-05,28.0,Mujer,carrera 45a #87-05,Ruta N,5,74.0
+USK14846,1999-01-22,20.0,Mujer,Calle 46C #75Sur-63,U. CES,4,28.0
+USK14841,1995-09-08,23.0,Mujer,Carrera 57 #88-67,"Terminal del Norte, Aventura",8,260.0
+USK14829,1998-05-22,20.0,Mujer,Calle 80C #72C-62 Robledo,Terminal del Norte,1,37.0
+USK14814,1990-03-14,29.0,Mujer,Calle 54 #13-41 Buenos Aires,Ruta N,1,7.0
+USK14812,1993-12-16,25.0,Mujer,Calle 109 #44-02 Int 301,"Aventura, Coltejer, Ruta N, CESDE",13,998.0
+USK14811,1994-01-06,25.0,Hombre,calle 80 # 72a 411,"Ruta N, Terminal del Norte, Coltejer",23,503.0
+USK14803,1990-12-11,28.0,Mujer,carrera 55 61 a 26,"Ruta N, Aventura",3,499.0
+USK14801,1987-09-15,31.0,Mujer,cr 30 clla 76 .63,Aventura,8,220.0
+USK14771,1990-01-25,29.0,Hombre,Carrera 53 #95 09 int 203,Terminal del Norte,4,96.0
+USK14737,1980-02-04,39.0,Mujer,Calle 50B #37-75,Coltejer,7,116.0
+USK14735,1973-10-23,45.0,Hombre,CARRERA 76 89-89,"Aventura, Ruta N",8,698.0
+USK14728,1980-03-29,38.0,Hombre,CALLE 16 NUMERO 65 46,"Unicentro, Aventura, Ruta N",11,278.0
+USK14727,1972-05-17,46.0,Mujer,Diagonal 59 # 40 - 31,Puerta del Norte,4,222.0
+USK14724,1976-03-08,43.0,Mujer,Diag 42CC 34 30 Bello,"Ruta N, Aventura, Puerta del Norte, Coltejer",166,
+USK14720,1987-11-08,31.0,Mujer,Carrera 92D # 87 02,"Terminal del Norte, Coltejer",8,782.0
+USK14716,1995-12-02,23.0,Hombre,Carrera 34 Numero 84c23,Terminal del Norte,9,71.0
+USK14701,1994-06-03,24.0,Hombre,cra 73c # 74a 56,Ruta N,4,63.0
+USK14674,1982-10-27,36.0,Mujer,Cra 50 n.82 10,Terminal del Norte,12,166.0
+USK14671,1983-12-11,35.0,Hombre,CARRERA 79 NÂ° 57 -65 interior 1606,"Unicentro, Coltejer",22,556.0
+USK14637,1977-03-14,42.0,Mujer,calle82a#6729,Puerta del Norte,1,111.0
+USK14615,1975-06-26,43.0,Hombre,CLL 105 # 49 -25,Coltejer,8,353.0
+USK14588,1991-10-09,27.0,Mujer,Cra 62 #48-75,Puerta del Norte,1,12.0
+USK14542,1992-01-14,27.0,Mujer,Diagonal55 #33-79 inte 909,Puerta del Norte,2,143.0
+USK14535,1989-09-13,29.0,Mujer,Cra 53 56 23 Piso 3,Terminal del Norte,1,25.0
+USK14531,1993-07-30,25.0,Hombre,Carrera 49a # 93-59,"Aventura, Ruta N",7,598.0
+USK14527,1983-02-13,36.0,Hombre,Calle 65C #102C-277 Robledo,Coltejer,2,36.0
+USK14508,1985-12-26,33.0,Hombre,CR 50 A #93-96 APTO 301,"Ruta N, Aventura",8,240.0
+USK14494,1983-09-26,35.0,Mujer,carrera 11 NÂº 12 24 Barbosa Antioquia,"Ruta N, Puerta del Norte, Aventura",20,186.0
+USK14481,1993-08-11,25.0,Hombre,Cra 65a #73-181,Ruta N,6,106.0
+USK14476,1980-04-14,38.0,Hombre,CALLE 61#56-51 INTERIOR 322,Aventura,1,27.0
+USK14468,1992-01-17,27.0,Hombre,Barrio 12 de Octubre,"Puerta del Norte, Aventura",3,57.0
+USK14414,1998-09-03,20.0,Hombre,calle 6 sur # 79-150,Coltejer,4,89.0
+USK14408,1998-10-26,20.0,Mujer,Cr 72 a # 79 50,Terminal del Norte,1,4.0
+USK14361,1975-12-13,43.0,Hombre,calle 71 a # 42-33,Ruta N,5,412.0
+USK14358,1977-01-04,42.0,Mujer,carrera 41 54 36,Ruta N,12,58.0
+USK14349,1997-05-28,21.0,Mujer,Carrera 59D #39-09,Ruta N,4,94.0
+USK14279,1993-07-15,25.0,Mujer,CRA 55 B 83 SUR 07,Coltejer,12,836.0
+USK14261,1988-05-07,30.0,Mujer,Cgto Santa Elena,Ruta N,2,17.0
+USK14213,1985-08-06,33.0,Hombre,Carrera 85 C 34 130 (201),"Coltejer, Unicentro",406,
+USK14186,1986-12-30,32.0,Mujer,Transversal 32 c 74 d 33 apt201,Unicentro,7,331.0
+USK14124,1978-07-18,40.0,Mujer,Cr 51 # 81-65,Terminal del Norte,4,297.0
+USK14120,1995-04-04,23.0,Mujer,Cra 64c # 51-61,"Aventura, Ruta N",8,189.0
+USK14086,1998-10-01,20.0,Hombre,Calle 77 #50-65,Ruta N,2,33.0
+USK14061,1983-10-07,35.0,Hombre,carrera 64 94a-146 int 404,"Coltejer, Ruta N, Aventura",12,389.0
+USK14033,1969-10-05,49.0,Hombre,Barrio Cataluna - Medellin,Unicentro,1,1.0
+USK14024,1991-10-18,27.0,Mujer,Carrera 44 87-53,"Ruta N, Aventura",6,67.0
+USK14015,1994-08-23,24.0,Mujer,Cra. 80 # 107A-34,Ruta N,1,12.0
+USK13998,1976-04-16,42.0,Hombre,"Calle Ba57 Barranquilla, Casa 57-a. Prado","Ruta N, Aventura, Kaptadora 71",21,150.0
+USK13984,1990-08-07,28.0,Mujer,Calle 6C Sur #84C-45 BelÃ©n,Terminal del Norte,1,26.0
+USK13924,1995-01-02,24.0,Mujer,Bosques de San Pablo,"Aventura, Coltejer, Konecta, Ruta N",6,184.0
+USK13912,1987-04-23,31.0,Mujer,Cr 32 107 a 25,"Ruta N, Konecta, Aventura, Terminal del Norte",11,768.0
+USK13897,1993-01-08,26.0,Mujer,Calle 61 #56-51,Aventura,1,5.0
+USK13888,1989-04-11,29.0,Mujer,Carrera 93 B No. 38 66 apto 206,Konecta,1,28.0
+USK13879,1990-11-15,28.0,Hombre,carrera 33 No 68 - 98,Konecta,1,3.0
+USK13851,1996-09-30,22.0,Hombre,calle 56 A # 25 B 23,Konecta,1,7.0
+USK13821,1990-09-24,28.0,Mujer,Carrera 63 A # 77 - 20 Ap 1312 Torre 3,Konecta,1,1.0
+USK13806,1994-06-15,24.0,Mujer,cr 68a #93-010,Terminal del Norte,3,69.0
+USK13751,1990-08-31,28.0,Hombre,cll 34cc #112.15,Ruta N,44,
+USK13695,1987-05-28,31.0,Hombre,Calle 68 # 41-36 Apto 201 B/ Manrique,"Aventura, Coltejer, Ruta N",12,787.0
+USK13669,1982-07-21,36.0,Hombre,calle 77d#86-37,Ruta N,1,43.0
+USK13658,1974-09-18,44.0,Hombre,calle 55#49-85,Coltejer,11,318.0
+USK13628,1990-11-17,28.0,Hombre,carrera 94e n 65 a 63,Ruta N,2,21.0
+USK13609,1997-03-16,22.0,Mujer,Calle 101#40-89,"Ruta N, Puerta del Norte",3,205.0
+USK13593,1988-10-12,30.0,Mujer,Calle 49BB # 96-97 MedellÃ­n,Terminal del Norte,5,40.0
+USK13536,1995-04-06,23.0,Mujer,Cl 60c # 145-269 (201) San Cristobal,"Ruta N, Terminal del Norte",6,309.0
+USK13518,1988-12-09,30.0,Mujer,Cr43A#124-80,"Ruta N, Aventura",3,33.0
+USK13499,1996-11-06,22.0,Mujer,CRA 39 65 AA 26,"Terminal del Norte, Coltejer",2,42.0
+USK13480,1993-05-22,25.0,Hombre,transversal 34 Sur #32 - 22 Int 301,"Kaptadora 70, Ruta N",57,185.0
+USK13470,1998-06-06,20.0,Hombre,Carrera 87A # 78-25,"Ruta N, Aventura",3,80.0
+USK13468,1988-04-02,30.0,Mujer,Calle 38a 59cc 38,Unicentro,3,188.0
+USK13455,1972-09-17,46.0,Mujer,Calle 76 # 50b 100 apto 201,Ruta N,11,921.0
+USK13441,1973-01-02,46.0,Hombre,Cl 25 58 28,"Aventura, Puerta del Norte, Kaptadora 71, Unicentro",25,858.0
+USK13398,1984-03-24,35.0,Mujer,Calle 79b cra56 - 21,Ruta N,8,233.0
+USK13383,1992-01-25,27.0,Mujer,carrera 82B N 48BB-21,CESDE,3,30.0
+USK13373,1997-03-09,22.0,Mujer,Cr 39c N 40-34,"Puerta del Norte, Aventura",6,68.0
+USK13372,1990-07-09,28.0,Mujer,Avenida 41 # 65-37,Puerta del Norte,1,32.0
+USK13350,1975-12-12,43.0,Mujer,Calle 54 # 57-24 Interior 302 B/ La AsunciÃ³n Copacabana Ant.,Puerta del Norte,16,
+USK13325,1996-06-13,22.0,Mujer,calle 81 b 32 31,Aventura,1,22.0
+USK13319,1969-05-15,49.0,Mujer,diagonal 53 av 13 54 interio 313,"Puerta del Norte, Ruta N",14,652.0
+USK13298,1984-06-19,34.0,Mujer,CALLE 68A 95 - 52,Coltejer,7,78.0
+USK13281,1994-02-02,25.0,Hombre,Calle 16# 76-24,Ruta N,2,40.0
+USK13260,1998-05-16,20.0,Mujer,Calle 31 n 7766,"Unicentro, Ruta N",3,122.0
+USK13249,1995-08-02,23.0,Mujer,cra 52 n 6047,Ruta N,1,1.0
+USK13248,1999-01-07,20.0,Hombre,calle 84 cra 58 dd - 5,Ruta N,4,197.0
+USK13244,1995-09-22,23.0,Mujer,Diagonal 55 #3245 bello Antioquia.,Puerta del Norte,12,259.0
+USK13220,1993-09-01,25.0,Hombre,calle 37b sur #27 -17 loma de las brujas,Ruta N,1,1.0
+USK13151,1983-05-19,35.0,Mujer,CALLE 96 N 52 - 35,"Aventura, Ruta N",9,410.0
+USK13057,1977-08-14,41.0,Hombre,Clle 78 e sur 47c 80. Apto 1813,Coltejer,1,1.0
+USK13041,1995-08-25,23.0,Mujer,cll 119 n50b 86,Coltejer,1,2.0
+USK13010,1994-03-29,24.0,Mujer,Cra 53b # 92a39,Ruta N,1,2.0
+USK13002,1992-04-04,26.0,Mujer,Tv 78 # 67 14,Terminal del Norte,35,318.0
+USK12996,1988-06-23,30.0,Hombre,cra 38 n 95 a 73,Ruta N,1,26.0
+USK12988,1990-08-30,28.0,Hombre,CALLE 65 F # 90 - 34,Terminal del Norte,5,11.0
+USK12944,1983-09-21,35.0,Mujer,Cra 29 #42-36,CESDE,18,254.0
+USK12883,1995-03-20,24.0,Hombre,calle 61 # 56-51,Aventura,1,26.0
+USK12875,1998-03-28,21.0,Mujer,Calle116#68a-07,"Puerta del Norte, Ruta N",4,43.0
+USK12806,1983-11-11,35.0,Mujer,Cra 81B Cll 140 INT 201 Medellin,Coltejer,38,
+USK12787,1990-12-02,28.0,Mujer,Carrera 44A #89-144,Coltejer,2,195.0
+USK12744,1995-05-02,23.0,Mujer,Calle 80B #55-24. Medellin,Coltejer,1,113.0
+USK12731,1997-02-27,22.0,Mujer,calle 61 # 53- 31 apto 101,"Kaptadora 70, Aventura",3,26.0
+USK12720,1996-01-01,23.0,Hombre,Cr 58 d cl 83 ee,"Aventura, Ruta N",20,692.0
+USK12677,1979-12-04,39.0,Mujer,NIQUIA,"Kaptadora 71, Puerta del Norte",3,29.0
+USK12648,1975-08-06,43.0,Mujer,Carrera 98A #62-75,Coltejer,4,311.0
+USK12645,1976-09-27,42.0,Mujer,Carrera 63A #20-72. Bello,Coltejer,7,325.0
+USK12544,1986-04-08,32.0,Hombre,CARRERA 44A # 85 - 54,"Ruta N, Terminal del Norte, CESDE, Coltejer",33,656.0
+USK12495,1975-08-05,43.0,Hombre,Av 42 #55-29 Edf Montecarlos Int 1102,Puerta del Norte,1,19.0
+USK12486,1996-03-17,23.0,Mujer,Calle 97 a # 49 - 83,Terminal del Norte,7,66.0
+USK12459,1995-08-08,23.0,Hombre,Maria Cano Carambola,"Aventura, Ruta N",3,62.0
+USK12457,1985-10-18,33.0,Mujer,Carrera 24BB #57AA-100. MedellÃ­n,"Ruta N, Coltejer",7,910.0
+USK12446,1993-10-07,25.0,Mujer,CRA 66 # 95-37,"Aventura, Terminal del Norte",4,179.0
+USK12444,1993-07-29,25.0,Hombre,Cra 38 #45D 4 Esquina. Torre AlcalÃ¡,CESDE,13,13.0
+USK12386,1979-05-01,39.0,Hombre,"Vereda la Aldea, medellin",Coltejer,16,111.0
+USK12385,1985-01-03,34.0,Mujer,"carrera 20C #53-19, int 101. Medellin",Coltejer,1,24.0
+USK12384,1993-03-31,25.0,Hombre,"Carrera 24 #46-36, medellin",Coltejer,2,26.0
+USK12377,1972-03-05,47.0,Mujer,"Calle 41 #88-35, medellin","Unicentro, Coltejer",3,171.0
+USK12376,1972-09-26,46.0,Mujer,"Carrera 50 #56-48, medellin",Coltejer,49,
+USK12373,1993-10-24,25.0,Mujer,"Calle 83A #39- 162, Medellin.",Coltejer,1,14.0
+USK12362,1998-09-05,20.0,Mujer,"Avenida 47 A # 63-45, Niquia Camcol","Puerta del Norte, Kaptadora 71, ADMIN",9,120.0
+USK12359,1993-01-18,26.0,Hombre,Cra 32b 3 sur 11,"Kaptadora 71, Aventura, Ruta N",12,479.0
+USK12346,1986-07-01,32.0,Hombre,Calle 90 # 67a 13,Terminal del Norte,7,382.0
+USK12273,1975-10-07,43.0,Hombre,CL 103 E BIS # 65 - 106 NORTE Medellin Antioquia,Ruta N,1,1.0
+USK12270,1983-04-06,35.0,Mujer,San Rafael,"ADMIN, Ruta N, Coltejer, Terminal del Norte",9,123.0
+USK12224,1972-11-30,46.0,Hombre,Calle 54 #86 A 35,CESDE,9,52.0
+USK12220,1985-01-01,34.0,Mujer,Niquia,Puerta del Norte,1,3.0
+USK12219,1970-11-20,48.0,Hombre,"Carrera 24 #47-84, Medellin",Coltejer,25,534.0
+USK12217,1990-01-15,29.0,Mujer,cra 32 #68 08,Coltejer,3,320.0
+USK12205,1986-07-18,32.0,Hombre,Carrera 80C #33-85,CESDE,1,1.0
+USK12195,1988-09-02,30.0,Hombre,diagonal 57 avenida 44-40 int 201,Ruta N,6,149.0
+USK12183,1987-05-26,31.0,Mujer,"Carrera 2BB #48C-02, Int 102. Medellin",Coltejer,1,26.0
+USK12182,1981-08-26,37.0,Mujer,Robledo,"Terminal del Norte, Coltejer",8,729.0
+USK12177,1998-07-09,20.0,Mujer,cra39 #40a 48,Coltejer,2,20.0
+USK12175,1979-06-17,39.0,Mujer,cll47 b #95 sur,Coltejer,5,45.0
+USK12158,1978-12-06,40.0,Mujer,"Carrera 39 #93-99, Int 105. Manrique",Coltejer,5,138.0
+USK12139,1992-11-26,26.0,Hombre,Araucarias 1 bello,"ADMIN, Puerta del Norte",7,517.0
+USK12134,1971-07-14,47.0,Hombre,Cr 52 34 03 P2 Barrio asn Jose Obrero Bello,Puerta del Norte,1,26.0
+USK12124,1973-06-25,45.0,Hombre,Carrera 21A #33-112,Coltejer,2,2.0
+USK12117,1974-04-20,44.0,Mujer,"Calle 40 #86A-05, Medellin",Coltejer,21,283.0
+USK12089,1997-01-16,22.0,Mujer,"Calle 50 #48-03, Medellin",Coltejer,14,
+USK12088,1985-04-11,33.0,Mujer,cll96#38-45,"Aventura, Coltejer",44,
+USK12086,1995-04-06,23.0,Mujer,"Calle 107BA #48A-35, medellin",Coltejer,13,375.0
+USK12079,1975-06-27,43.0,Mujer,cra 59b #36-06,"Terminal del Norte, Coltejer",5,173.0
+USK12060,1972-06-18,46.0,Hombre,calasania 1,Coltejer,4,181.0
+USK12030,1989-08-07,29.0,Mujer,cll 75b sur #50c66,Coltejer,15,421.0
+USK12010,1984-05-23,34.0,Hombre,cll56fd#20-36,Coltejer,3,27.0
+USK12002,1973-10-28,45.0,Mujer,"Calle 46 #38-18, Medellin",Coltejer,5,170.0
+USK11997,1981-02-21,38.0,Hombre,Carrera 117A #42B-104,Coltejer,77,
+USK11995,1988-06-12,30.0,Mujer,calle 107b 29-39,"Aventura, Terminal del Norte, Ruta N",18,110.0
+USK11987,1992-04-28,26.0,Mujer,cra 41 #21e 72,Coltejer,3,27.0
+USK11979,1994-12-09,24.0,Mujer,cra 46b#98a53 medellin,"Aventura, Terminal del Norte, Ruta N, Kaptadora 70, Coltejer, Unicentro",84,
+USK11969,1979-12-23,39.0,Hombre,"Carrera 32B #84-02, medellin","Coltejer, Aventura, Ruta N",197,
+USK11967,1991-02-11,28.0,Hombre,"Calle 65B #80-A91, Medellin",Coltejer,1,20.0
+USK11962,1988-11-12,30.0,Mujer,cll78a #93a-28,Coltejer,9,
+USK11937,1997-10-03,21.0,Mujer,cll39 #89-29,Unicentro,2,168.0
+USK11931,1976-02-06,43.0,Mujer,cll45 # 44-11,"Coltejer, Terminal del Norte",4,38.0
+USK11917,1989-03-09,30.0,Hombre,calle 45b # 75 - 77,CESDE,9,96.0
+USK11916,1982-07-30,36.0,Mujer,Calle 47 # 83 - 18,CESDE,55,
+USK11908,1971-11-25,47.0,Hombre,calle38 sur # 46-26,Coltejer,4,60.0
+USK11907,1984-04-30,34.0,Mujer,cra59 18-27,Coltejer,3,42.0
+USK11902,1978-02-21,41.0,Mujer,bello antioquia,"Kaptadora 71, Puerta del Norte",6,43.0
+USK11897,1978-11-03,40.0,Mujer,"Calle 59 #37-80, Medellin",Coltejer,4,499.0
+USK11892,1981-10-01,37.0,Mujer,calle 103a #84a-118,Terminal del Norte,7,141.0
+USK11884,1994-04-13,24.0,Mujer,Cra 65 #41-34,Ruta N,1,33.0
+USK11868,1988-03-07,31.0,Hombre,Cra 81 A # 87 - 107,"Ruta N, Terminal del Norte, Aventura",7,167.0
+USK11834,1992-11-14,26.0,Mujer,Cra.83 #52 bb12,"Kaptadora 70, Aventura",16,45.0
+USK11704,1992-06-05,26.0,Mujer,Carrera 69 # 80 55,Terminal del Norte,20,93.0
+USK11665,1976-09-20,42.0,Mujer,"Calle 42A #24-130, Medellin",Ruta N,5,168.0
+USK11631,1989-12-07,29.0,Hombre,Carrera 51c #67a - 16,"Ruta N, Aventura",11,231.0
+USK11597,1987-05-13,31.0,Hombre,cra 63c #5109,Puerta del Norte,20,580.0
+USK11590,1992-03-19,27.0,Hombre,Cll 45 con 44 NÂ° 44-77,"Kaptadora 71, Puerta del Norte",4,54.0
+USK11519,1994-12-22,24.0,Mujer,cra 15 # 35 - 09 Quinta Linda,Aventura,1,1.0
+USK11497,1988-08-21,30.0,Hombre,Calle 46C # 16E-69,Ruta N,1,47.0
+USK11404,1997-09-27,21.0,Mujer,Carrera 63A #74-57. Bello,"Ruta N, Aventura",26,592.0
+USK11378,1973-12-15,45.0,Mujer,calle 45 #22-34.bloque 3.urbanizacion villa nueva.,Coltejer,40,
+USK11364,1981-11-20,37.0,Mujer,Cll 55 123 B 12,Coltejer,8,54.0
+USK11362,1992-04-10,26.0,Hombre,Calle 92 # 71A - 54,"Terminal del Norte, Ruta N, Aventura",16,324.0
+USK11352,1995-01-17,24.0,Mujer,calle 52 # 7-78 Int 101,Coltejer,9,86.0
+USK11344,1989-09-21,29.0,Mujer,Calle 32 # 56- 43,Puerta del Norte,5,242.0
+USK11302,1991-08-10,27.0,Mujer,Sta elena,Aventura,2,13.0
+USK11245,1992-10-31,26.0,Mujer,cll 20f # 71-67,Terminal del Norte,1,8.0
+USK11244,1995-06-07,23.0,Hombre,cll20f # 71-67,Terminal del Norte,1,1.0
+USK11243,1992-06-03,26.0,Hombre,kra 35#46-50,Aventura,3,759.0
+USK11203,1993-11-02,25.0,Mujer,Crr 80 n 25b61,Coltejer,1,130.0
+USK11127,1983-03-16,36.0,Mujer,Carrera 43 B # 83 - 34,"Unicentro, Terminal del Norte, Ruta N, Aventura",6,136.0
+USK11099,1986-03-04,33.0,Hombre,CL 32 CR 33 B 106,"Terminal del Norte, Ruta N, Coltejer, Aventura",75,
+USK11048,1990-08-16,28.0,Mujer,Cra 43 # 86-61,Ruta N,4,689.0
+USK11002,1989-09-15,29.0,Mujer,cr 81 cll 96 a 15 apto 201,"Kaptadora 70, Terminal del Norte",3,44.0
+USK10980,1993-09-06,25.0,Mujer,Carrera 62 calle 101 c-10,Coltejer,2,72.0
+USK10941,1995-09-12,23.0,Mujer,av 47 a n 67- 72,"Konecta, Puerta del Norte, Terminal del Norte",13,650.0
+USK10915,1995-02-26,24.0,Mujer,Calle 79 # 46-60,"Ruta N, Aventura, Coltejer",8,331.0
+USK10865,1981-07-15,37.0,Hombre,CRA 51 A # 1 SUR 31,Coltejer,6,168.0
+USK10845,1991-01-18,28.0,Hombre,calle 67 # 50 A -44,"Aventura, Ruta N",8,116.0
+USK10834,1985-07-13,33.0,Mujer,calle 21 80 aa 61,Coltejer,3,165.0
+USK10815,1977-05-04,41.0,Mujer,calle falsa,"Ruta N, ADMIN, Aventura, Konecta",10,725.0
+USK10810,1983-01-26,36.0,Hombre,Calle 91 # 67 a 29,ADMIN,1,119.0
+USK10726,1989-01-13,30.0,Hombre,calle falsa,Aventura,1,82.0
+USK10721,1972-05-15,46.0,Hombre,cl 2b 81a 190 apto 429,"Unicentro, Coltejer",10,306.0
+USK10687,1979-12-20,39.0,Hombre,calle 52 NÂº 49 - 40,"Puerta del Norte, Coltejer",4,8.0
+USK10676,1991-07-26,27.0,Mujer,Calle 76GG # 82FF-23,Aventura,1,8.0
+USK10668,1993-10-09,25.0,Mujer,cll 47 # 72 -09,"Unicentro, ADMIN, Ruta N, Kaptadora 70",63,299.0
+USK10620,1995-09-12,23.0,Hombre,Calle 9B Sur #79A 221,"Unicentro, Santafe",10,
+USK10600,1995-03-03,24.0,Mujer,Carrera 50A #67-10,"Coltejer, Ruta N",11,233.0
+USK10526,1986-12-20,32.0,Hombre,calle falsa 123,Coltejer,2,7.0
+USK10524,1994-09-02,24.0,Hombre,calle 96aa # 81-04 apt 302,Coltejer,3,30.0
+USK10470,1980-10-23,38.0,Hombre,"Finca Villa Celina 3er Riel, sector El Rosario, Vereda Barro Blanco, Santa Elena",Ruta N,7,96.0
+USK10449,1986-08-11,32.0,Hombre,calle 43 # 120 -74,"Unicentro, Aventura, Ruta N",14,389.0
+USK10332,1980-06-11,38.0,Hombre,Calle 56 #36a39,Coltejer,13,226.0
+USK10208,1995-06-15,23.0,Mujer,Cr 65b # 9310,Terminal del Norte,12,72.0
+USK10172,1992-04-10,26.0,Hombre,Cll 47A Cra 86B-24,"Ruta N, Aventura",4,82.0
+USK10098,1987-07-23,31.0,Hombre,carrera 29 45 16,Coltejer,41,226.0
+USK10092,1981-11-13,37.0,Hombre,"Carrera 62 # 39 - 21, Int: 301, Itagui.","Ruta N, Terminal del Norte",9,228.0
+USK10060,1991-05-05,27.0,Hombre,carrera 79 91 150,"Terminal del Norte, Ruta N",12,395.0
+USK10050,1986-05-18,32.0,Mujer,Calle 78 sur 40 255,Coltejer,12,142.0
+USK10009,1982-08-25,36.0,Hombre,Carrera 44 # 26 - 71 Apartamento 1004,"Aventura, Terminal del Norte, Kaptadora 70, Ruta N",17,130.0
+USK9942,1995-01-08,24.0,Mujer,calle 71c numero 30-79 interior 201,"Kaptadora 71, Puerta del Norte",5,29.0
+USK9938,1992-09-14,26.0,Mujer,Cra84a cll 101 cf 18,"Terminal del Norte, Aventura, Ruta N",4,120.0
+USK9919,1996-10-19,22.0,Mujer,cll121#48a-10,Ruta N,4,106.0
+USK9835,1989-08-29,29.0,Mujer,Calle 62 A # 92 - 54,Coltejer,12,255.0
+USK9825,1980-02-10,39.0,Mujer,Cra 50d No. 65 - 29,"Aventura, Kaptadora 70",6,79.0
+USK9821,1989-11-23,29.0,Hombre,Carrera 43 #64-73,"Ruta N, Puerta del Norte, Aventura",6,54.0
+USK9816,1994-08-18,24.0,Hombre,Calle 62D # 98A-49 Interior 101,"Puerta del Norte, Aventura, Ruta N, Kaptadora 71",10,121.0
+USK9799,1974-02-27,45.0,Hombre,Calle 48 C 67 - 33 APTO 304 TORRENZA 1 Suramericana,"Coltejer, Terminal del Norte, Ruta N",8,282.0
+USK9788,1986-09-27,32.0,Hombre,Diagonal 61 A 40 A 175,Kaptadora 71,1,9.0
+USK9781,1997-06-17,21.0,Hombre,Calle 114 # 63D 09 INT 401,"Kaptadora 71, Puerta del Norte, Kaptadora 70",38,661.0
+USK9769,1985-08-22,33.0,Hombre,"calle 79 # 57 - 35, Araucarias 1 (Bello - Ant.)","Coltejer, Kaptadora 71, Puerta del Norte",83,577.0
+USK9759,1986-09-19,32.0,Mujer,crr 31 AA NÂº 83-05 Manrique jardin,Coltejer,6,197.0
+USK9724,1986-05-18,32.0,Hombre,Calle 112a #68a70,Aventura,1,76.0
+USK9665,1996-07-03,22.0,Mujer,Calle 64 # 52-86,"Kaptadora 70, Terminal del Norte, Ruta N",7,114.0
+USK9647,1994-04-23,24.0,Mujer,Cr 31 AA Cll 82 a 13 apart 302,Coltejer,12,277.0
+USK9640,1998-05-08,20.0,Mujer,Cra. 52 # 80-07,Ruta N,2,19.0
+USK9632,1976-09-05,42.0,Hombre,Av 47a 65-67,"Coltejer, Puerta del Norte",4,57.0
+USK9606,1975-07-21,43.0,Mujer,Vereda AncÃ³n,Puerta del Norte,4,100.0
+USK9566,1975-07-12,43.0,Mujer,Calle 27A no. 55-29 CabaÃ±as Bello,Puerta del Norte,2,113.0
+USK9565,1987-01-28,32.0,Hombre,Cra 70B 4-131 casa 4-76,"Kaptadora 70, Unicentro, Coltejer, Santafe",12,214.0
+USK9544,1990-10-07,28.0,Mujer,Carrera 55 AA 54 Sur 34,Coltejer,2,30.0
+USK9524,1995-03-11,24.0,Hombre,Carrera 51D #67A-24,Ruta N,3,62.0
+USK9462,1987-04-14,31.0,Mujer,Calle 126 # 43 c 43,Kaptadora 70,1,1.0
+USK9460,1993-12-12,25.0,Mujer,Crr 48 #61-07,Kaptadora 70,1,1.0
+USK9459,1977-08-26,41.0,Mujer,Crr 75 #92_103,"Kaptadora 70, Coltejer",5,267.0
+USK9457,1997-02-10,22.0,Mujer,Crr 49 # 72-27,"Kaptadora 70, Coltejer, Ruta N",4,10.0
+USK9455,1999-02-13,20.0,Mujer,Crr 42c # 108-39,"Kaptadora 70, Coltejer",5,13.0
+USK9454,1985-01-23,34.0,Mujer,Crr 81 #113-45,"CESDE, Coltejer, Kaptadora 70",7,74.0
+USK9453,1985-11-26,33.0,Hombre,Calle 107 #50b 30,Kaptadora 70,1,1.0
+USK9414,1980-05-19,38.0,Mujer,Calle 70 # 44-46,"Coltejer, Kaptadora 70",7,124.0
+USK9411,1997-09-06,21.0,Mujer,Crr 57a #51-52,Kaptadora 70,1,1.0
+USK9398,1979-03-31,39.0,Mujer,Calle 58B # 38b-39,Kaptadora 70,2,9.0
+USK9396,1972-07-11,46.0,Mujer,Calle 91d #66-58,Kaptadora 70,1,5.0
+USK9393,1969-05-23,49.0,Mujer,Crr 31 #106a - 88,Kaptadora 70,1,4.0
+USK9391,1979-06-06,39.0,Hombre,Crr 52 123-57,Kaptadora 70,1,3.0
+USK9390,1969-08-25,49.0,Hombre,Cra31 #102a-88,Kaptadora 70,1,2.0
+USK9385,1976-09-16,42.0,Hombre,Calle 34c #34c-41,Kaptadora 70,1,2.0
+USK9341,1988-08-23,30.0,Mujer,"CRA 24 C NRO. 41 SUR 60, APTO 403, ENVIGADO",Santafe,2,11.0
+USK9317,1992-08-09,26.0,Mujer,CRA 55 A # 62 A 61,Ruta N,5,223.0
+USK9315,1993-10-30,25.0,Hombre,Calle 65# 56-84,"Ruta N, Aventura",16,323.0
+USK9267,1988-03-24,31.0,Hombre,Dg 54 # 44 - 15,Coltejer,7,51.0
+USK9257,1991-05-22,27.0,Hombre,Cra45#61-45,Coltejer,2,454.0
+USK9222,1985-03-16,34.0,Hombre,calle 52 # 49 71,"Aventura, Coltejer",13,213.0
+USK9148,1997-05-19,21.0,Hombre,copacabana,"Kaptadora 71, Coltejer, Ruta N, Terminal del Norte, Puerta del Norte",20,269.0
+USK9092,1973-03-07,46.0,Mujer,carrera 32 no16-285,"Ruta N, Aventura, U. CES, Santafe",21,419.0
+USK9091,1995-07-12,23.0,Mujer,Cara 39a#101b-83 int 101,"Ruta N, Coltejer",4,178.0
+USK9072,1982-03-10,37.0,Mujer,Carrera 22 A 59 a 17,"Coltejer, Kaptadora 70",3,16.0
+USK9026,1970-05-12,48.0,Hombre,Calle 92 # 76 A 12 Robledo Miramar,"Aventura, Ruta N, Coltejer, Kaptadora 71",77,
+USK8991,1988-09-01,30.0,Mujer,CALLE 105 A 78 C42,Coltejer,4,116.0
+USK8986,1996-09-09,22.0,Mujer,calle 45 # 9f-43 int 310,Coltejer,7,72.0
+USK8953,1985-04-18,33.0,Mujer,calle 64 bg n 106-109,"Coltejer, Ruta N",9,69.0
+USK8951,1996-03-16,23.0,Mujer,calle 65f #47 45,"Ruta N, Aventura",9,391.0
+USK8911,1984-08-24,34.0,Mujer,CRA 45b#65-19 villa hermosa la mansiÃ³n,Aventura,7,204.0
+USK8888,1995-01-03,24.0,Mujer,Calle 83 # 45-14,"Aventura, Ruta N, Kaptadora 71",4,138.0
+USK8857,1996-08-02,22.0,Hombre,calle falsa,"Ruta N, Coltejer",5,388.0
+USK8806,1990-04-30,28.0,Hombre,calle 66A #55A-51 interior 1512,"Aventura, Ruta N",8,122.0
+USK8805,1992-02-04,27.0,Mujer,calle 66A 55A-51 interior 1512,Aventura,3,20.0
+USK8736,1971-11-19,47.0,Hombre,cr 115 a cl 64 cc 04 interior 1409,Coltejer,9,138.0
+USK8703,1998-10-26,20.0,Hombre,clle 71c #30 215,Ruta N,1,12.0
+USK8685,1993-11-28,25.0,Mujer,Calle 76 DE #89-43,"Aventura, Coltejer",16,459.0
+USK8670,1982-10-14,36.0,Hombre,Calle 64 # 52-58 Apto 302,"Ruta N, Aventura",16,208.0
+USK8637,1973-07-07,45.0,Mujer,Calle 91# 51A23 apto 403,Aventura,8,381.0
+USK8621,1995-05-03,23.0,Mujer,CRA 46 No 94-87,"Kaptadora 71, Coltejer",7,179.0
+USK8620,1985-04-09,33.0,Mujer,Carrera 36 No 71-94,"Kaptadora 71, Coltejer",11,156.0
+USK8597,1980-06-19,38.0,Mujer,cl 62 b 62 a 33,"Coltejer, Kaptadora 71",30,772.0
+USK8579,1992-02-06,27.0,Mujer,carrera 72 # ciruclar 4 - 37,"Unicentro, Ruta N, Kaptadora 70",8,74.0
+USK8568,1992-12-15,26.0,Mujer,Cll 37 B SUR # 27 B 125,"Kaptadora 71, Coltejer",5,38.0
+USK8536,1982-06-02,36.0,Mujer,cl 64 45 c 56,Coltejer,9,124.0
+USK8534,1980-06-15,38.0,Hombre,cl 64 45 c 56,"Kaptadora 71, Coltejer",207,
+USK8468,1976-05-24,42.0,Mujer,Torres de la fuente,"Ruta N, Aventura",3,7.0
+USK8440,1981-12-27,37.0,Mujer,CALLE 53 N 49-124 APTO 402,"Coltejer, Kaptadora 71",13,395.0
+USK8439,1997-09-22,21.0,Mujer,carrera 24 BB clle 56 D 24,"Kaptadora 71, Coltejer",4,31.0
+USK8381,1987-10-10,31.0,Mujer,CARRERA 58 50 37,Coltejer,12,262.0
+USK8337,1988-11-02,30.0,Mujer,CLLE 48 # 99-111,"Coltejer, Kaptadora 71",54,
+USK8335,1994-06-20,24.0,Hombre,Carrera 75A Nro. 95 - 76 (Interior 201),Ruta N,8,232.0
+USK8289,1986-01-06,33.0,Hombre,Carrera 15 46 29-,"Coltejer, Aventura",2,421.0
+USK8275,1990-12-02,28.0,Hombre,carrera 16B32-14,Coltejer,11,295.0
+USK8261,1993-06-13,25.0,Mujer,carrera 19 # 13-84,"Coltejer, Kaptadora 71",10,21.0
+USK8257,1992-02-02,27.0,Mujer,12.231,"Coltejer, Kaptadora 71",53,429.0
+USK8208,1996-01-13,23.0,Hombre,Calle 49 # 81 - 37,"Aventura, Ruta N",24,775.0
+USK8112,1993-08-29,25.0,Hombre,Cl 62 51D 43 JESUS NAZARENO,"Aventura, Ruta N, Kaptadora 70",19,239.0
+USK8103,1993-11-04,25.0,Mujer,carrera 72 #45d 16 apto 504,"Kaptadora 70, Kaptadora 71, Ruta N, Aventura",14,237.0
+USK8054,1982-12-30,36.0,Hombre,calle 45,"Kaptadora 71, Coltejer",10,173.0
+USK8035,1988-10-26,30.0,Hombre,Edf. Capri - Chagualo - MedellÃ­n,"Aventura, Kaptadora 70",8,73.0
+USK8019,1989-12-10,29.0,Hombre,carrera 17b # 48-17,"Coltejer, Kaptadora 71",2,33.0
+USK8003,1982-11-20,36.0,Mujer,cra 54 # 90 - 69,"Aventura, Ruta N",3,238.0
+USK8002,1981-01-11,38.0,Mujer,Carrera 40 68-38 piso 3,"Kaptadora 70, Ruta N, Aventura, Kaptadora 71",52,784.0
+USK7992,1984-04-10,34.0,Mujer,Cr 67B 56A 12 Urb Azaleas,"Puerta del Norte, Ruta N",28,564.0
+USK7975,1994-02-25,25.0,Hombre,cr 77b n60-81,"Ruta N, Aventura",7,307.0
+USK7974,1982-12-18,36.0,Hombre,Calle 64 # 53 - 22,"Ruta N, Kaptadora 71, Aventura, Kaptadora 70",12,155.0
+USK7972,1986-05-16,32.0,Mujer,Calle 68 # 47-60,"Coltejer, Ruta N",7,213.0
+USK7969,1986-12-11,32.0,Mujer,Cra 96 A Cl 62 D 03,"Coltejer, Plaza Mayor",7,68.0
+USK7968,1994-12-30,24.0,Hombre,Calle 95A # 37-18,Aventura,1,161.0
+USK7939,1980-07-22,38.0,Hombre,calle 71 #48A-14,"Ruta N, Santafe",2,15.0
+USK7929,1987-07-13,31.0,Mujer,Calle 68 #48-24,"Aventura, Ruta N",9,106.0
+USK7892,1994-04-27,24.0,Hombre,Calle 66a # 55a-51 int 1274,Kaptadora 71,1,2.0
+USK7883,1987-07-02,31.0,Hombre,Carrera 65 # 34 - 11,"Kaptadora 71, Aventura, Ruta N",39,65.0
+USK7863,1982-09-09,36.0,Hombre,diagonal 81b#76-123int802,"Ruta N, Coltejer, Plaza Mayor, Kaptadora 71",36,
+USK7824,1979-11-27,39.0,Hombre,cl 54 cr 50a 41 int 302,Coltejer,14,337.0
+USK7802,1982-11-04,36.0,Hombre,Carrera 44a # 83-50,Ruta N,5,212.0
+USK7763,1993-07-07,25.0,Hombre,Calle 65 # 56 - 84 Apto 1323,"Aventura, Kaptadora 70, Ruta N",7,80.0
+USK7753,1989-12-29,29.0,Mujer,Cra 5g,"Ruta N, Kaptadora 71",2,16.0
+USK7688,1990-05-03,28.0,Hombre,aranjuez,"Coltejer, Ruta N",25,395.0
+USK7650,1980-01-15,39.0,Hombre,calle 44# 90-13 505,Ruta N,14,529.0
+USK7646,1990-11-11,28.0,Mujer,Calle 49 N 99 E 91 INT 312,"Aventura, Kaptadora 71, Kaptadora 70, Ruta N",43,705.0
+USK7620,1988-12-19,30.0,Mujer,Calle 56#62-69 interior 150,Ruta N,1,46.0
+USK7616,1987-03-02,32.0,Mujer,Cra 80C # 30a 65,"Aventura, Kaptadora 70",4,76.0
+USK7576,1982-08-11,36.0,Mujer,Carrera 32 N 75 C 78,Kaptadora 70,3,15.0
+USK7497,1992-11-05,26.0,Mujer,km 10 via al mar,"Ruta N, Aventura",3,62.0
+USK7475,1981-07-01,37.0,Hombre,Calle 42 No.63-107 Apto 811,"Kaptadora 71, Ruta N",15,95.0
+USK7463,1991-09-27,27.0,Hombre,Diagonal 57 38 31 Bloque 34 ap 133,"Puerta del Norte, Ruta N",12,303.0
+USK7440,1970-09-08,48.0,Mujer,calle 65 no 55-30,"Aventura, Kaptadora 70",5,41.0
+USK7263,1996-04-20,22.0,Mujer,calle 61 # 56-51 apto 407,"Aventura, Ruta N",3,62.0
+USK7262,1992-08-01,26.0,Hombre,Av 20 nÃºmero 54 104,Kaptadora 70,2,2.0
+USK7261,1997-12-22,21.0,Hombre,CALLE 61 # 56 - 51,"Kaptadora 71, Aventura, Ruta N",8,144.0
+USK7213,1994-09-22,24.0,Mujer,Cra55#61a15,Ruta N,2,202.0
+USK7186,1970-07-30,48.0,Hombre,calle 27 #55-131 int-301,"Kaptadora 70, Puerta del Norte, Aventura",13,212.0
+USK7172,1987-02-21,32.0,indefinido,Carrera 27 N 40a 66,Ruta N,1,40.0
+USK7171,1980-11-19,38.0,Mujer,"Calle 27 Sur # 27 B 87, Areka Apartamento 1002","Santafe, Kaptadora 71, Aventura, Ruta N",9,249.0
+USK7114,1995-11-22,23.0,Mujer,call 42 d sur n 34b 64,"Ruta N, Aventura, Kaptadora 70",10,160.0
+USK7113,1998-01-13,21.0,Mujer,Calle 76 # 50 b 100,"Ruta N, Kaptadora 70, Kaptadora 71",20,793.0
+USK7031,1994-11-13,24.0,Hombre,Carrera 50 # 78-44,"Ruta N, Kaptadora 70, Kaptadora 71",12,100.0
+USK6987,1985-09-24,33.0,Hombre,Carrera 48 # 57 - 59 Apto: 401,"Ruta N, Kaptadora 71",30,101.0
+USK6952,1990-03-24,29.0,Hombre,carrera 51b #67-42,"Ruta N, Aventura, Kaptadora 70",20,133.0
+USK6943,1992-04-16,26.0,Mujer,Calle 75D#36A-68,"Aventura, Ruta N",4,160.0
+USK6909,1996-09-11,22.0,Hombre,Crr 53 #b 46-32,Ruta N,3,66.0
+USK6906,1996-12-25,22.0,Hombre,Calle 78A #67-54,"Kaptadora 71, Kaptadora 70",12,78.0
+USK6900,1986-03-14,33.0,Mujer,Cra 48 C NÂ°16A SUR 50 APTO 1704,"Kaptadora 71, Ruta N",3,63.0
+USK6897,1983-10-16,35.0,Mujer,N,"Aventura, Coltejer",2,34.0
+USK6872,1989-02-17,30.0,Hombre,calle 60 # 77 a 100,Kaptadora 71,4,9.0
+USK6814,1995-01-05,24.0,Mujer,Calle 36 A# 31 - 28,"Coltejer, Kaptadora 71, Ruta N",4,121.0
+USK6798,1991-04-13,27.0,Mujer,calle 65 # 55-30 int 601,"Ruta N, Kaptadora 71",3,31.0
+USK6782,1994-09-11,24.0,Hombre,Diag 43. Av.34 E-20 (121) Bello - Niquia,"Kaptadora 70, Ruta N",7,143.0
+USK6739,1986-03-05,33.0,Hombre,Calle 48 FF Sur 42 D27. Loma Del Barro. Bloque 7.8 Int. 104. Barrio:SeÃ±orial,"Aventura, Coltejer, Ruta N",18,
+USK6725,1979-08-23,39.0,Mujer,Calle 3 c # 79A-18 bloque 9 casa 25,"Ruta N, Aventura",7,463.0
+USK6710,1983-07-21,35.0,Mujer,Cll 65AA 97-35,"Ruta N, Kaptadora 70, Aventura, Kaptadora 71",19,126.0
+USK6640,1988-09-21,30.0,Mujer,Cra 51A #69 -1,"Aventura, Kaptadora 70",14,759.0
+USK6603,1988-08-29,30.0,Mujer,calle 55 # 24-61,"Coltejer, Kaptadora 70",4,120.0
+USK6562,1996-04-20,22.0,Hombre,Calle 65 #55-30 urbanizaciÃ³n Torres de la fuente apto. 521 B/ chagualo,"Kaptadora 71, Ruta N, Kaptadora 70, Aventura",21,328.0
+USK6539,1975-06-30,43.0,Mujer,cra 58 aa 31-28,"Kaptadora 70, Ruta N",3,5.0
+USK6525,1986-10-10,32.0,Mujer,Calle 80 n 55 c 31 apto 301,"Kaptadora 71, Terminal del Norte, Ruta N",11,239.0
+USK6517,1989-10-02,29.0,Mujer,cra 27 # 64 sur 102,Aventura,1,2.0
+USK6496,1991-09-18,27.0,Hombre,Calle 68 # 51c-39,"Kaptadora 70, Kaptadora 71, Aventura",7,43.0
+USK6408,1994-12-06,24.0,Hombre,Calle 94 #54-34,"Aventura, Ruta N, Kaptadora 71",7,59.0
+USK6406,1998-03-17,21.0,Mujer,carrera 73 A # 94-31,Aventura,1,107.0
+USK6392,1985-10-29,33.0,Hombre,calle 31b # 89-19,"Ruta N, Kaptadora 70",4,6.0
+USK6346,1995-07-09,23.0,Hombre,calle 58 aa # 98 b 132,"Ruta N, Kaptadora 71",4,92.0
+USK6280,1986-07-24,32.0,Hombre,Avenida 40 Diagonal 51-110,"Aventura, Ruta N, Kaptadora 71, Kaptadora 70",33,336.0
+USK6259,1996-11-23,22.0,Mujer,Carrera 18 #33-76,"Aventura, Ruta N",6,238.0
+USK6212,1975-08-26,43.0,Hombre,Carrera 50d# 65_62,"Aventura, Kaptadora 70, Ruta N",31,1.6
+USK6203,1993-08-05,25.0,Hombre,Calle 23 Â·78-51,"Kaptadora 70, Ruta N",12,71.0
+USK6153,1995-01-04,24.0,Mujer,Carrera 48 # 126 sur 18,Kaptadora 71,15,24.0
+USK6124,1995-10-24,23.0,Hombre,Calle 61 #56-51 Unidad Capri Apto 1311,Ruta N,12,314.0
+USK6055,1991-05-05,27.0,Mujer,calle 48 NÂ°99 D 101,"Aventura, Ruta N, Kaptadora 70",3,111.0
+USK6026,1977-12-31,41.0,Mujer,CALLE 1B # 66-86,"Aventura, Kaptadora 70",31,351.0
+USK6018,1992-11-28,26.0,Hombre,Calle 61 # 51D-57 Conjunto Residencial Juan del Corral Apartamento 1101 Torre E,"Aventura, Kaptadora 71, Coltejer, Ruta N",21,311.0
+USK5983,1997-05-07,21.0,Hombre,Cra. 51B #67A-65,"Ruta N, Aventura, Kaptadora 70, Kaptadora 71",23,300.0
+USK5929,1988-08-06,30.0,Mujer,cll 30a # 65cc- 40,"Kaptadora 70, Ruta N, Aventura",15,723.0
+USK5889,1995-06-06,23.0,Hombre,calle 65 #56-84,"Ruta N, Aventura",9,162.0
+USK5854,1987-01-10,32.0,Hombre,transversal 45 84- 27,Kaptadora 71,5,39.0
+USK5828,1998-10-07,20.0,Mujer,cra 50d n 65-57,"Kaptadora 71, Kaptadora 70, Ruta N",16,426.0
+USK5713,1984-09-24,34.0,Hombre,calle 71 #49-25,"Kaptadora 71, Aventura, Ruta N",42,
+USK5675,1998-02-17,21.0,Mujer,Transversal 49 C sur 62 c 21,Kaptadora 71,2,7.0
+USK5669,1993-09-17,25.0,Hombre,CR 45 CL 81 31,"Aventura, Kaptadora 71, Kaptadora 70, Ruta N, Coltejer",45,980.0
+USK5609,1989-07-10,29.0,Mujer,DG 47a 32 25,Aventura,1,1.0
+USK5558,1985-03-31,33.0,Mujer,Cl 20 b 75 77 apto 301,"Kaptadora 70, Aventura",6,80.0
+USK5553,1978-04-07,40.0,Mujer,Calle 82 NÂ°71 A 35 MedellÃ­n,"Kaptadora 70, Kaptadora 71, Ruta N, Aventura",48,904.0
+USK5545,1994-05-10,24.0,Mujer,cra 49 # 54 00,"Aventura, Kaptadora 71, Kaptadora 70, Puerta del Norte",17,59.0
+USK5527,1981-09-03,37.0,Mujer,Calle 27a # 58-148,Kaptadora 70,2,15.0
+USK5453,1979-03-15,40.0,Hombre,Calle 83 No 67 A 96,"Ruta N, Terminal del Norte, ADMIN, Coltejer, Aventura",53,
+USK5449,1989-04-20,29.0,Hombre,Carrera 71 A n 97-86,"Ruta N, Kaptadora 71",4,84.0
+USK5446,1994-10-06,24.0,Hombre,Cr 71 A #105 A - 04,"Kaptadora 71, Ruta N",16,26.0
+USK5406,1981-03-07,38.0,Hombre,Calle 66a #55a-51 Int 147,"Ruta N, Aventura",9,659.0
+USK5383,1995-12-14,23.0,Mujer,Diagonal 93 A # 39 - 61,"Kaptadora 71, Ruta N",3,27.0
+USK5375,1987-07-30,31.0,Hombre,cll 97A -76-91,"Ruta N, Kaptadora 71",22,186.0
+USK5374,1991-11-11,27.0,Hombre,calle 69 # 36 30,Ruta N,3,82.0
+USK5355,1990-09-06,28.0,Mujer,carrera 40 # 85 a 53,"Kaptadora 71, Ruta N",6,120.0
+USK5354,1981-01-22,38.0,Hombre,CALLE 86A # 92E 27 APTO 301,Ruta N,2,49.0
+USK5350,1985-04-01,33.0,Mujer,Calle 52B 80-35 Apt 403,"Kaptadora 71, Ruta N",5,80.0
+USK5347,1995-01-22,24.0,Mujer,Cl 65 #84-56,"Ruta N, Kaptadora 70, Kaptadora 71",3,29.0
+USK5313,1995-11-02,23.0,Mujer,"Calle 39 A # 59 DD 30 , Ciudadela Serramonte, Bello","Kaptadora 70, Kaptadora 71, Aventura, Ruta N",23,124.0
+USK5298,1997-02-24,22.0,Mujer,CALLE 61 #56 51,Colaboramerica,3,28.0
+USK5294,1996-02-21,23.0,Mujer,CR 61 N 71-28 INT 101,"Ruta N, Kaptadora 71",6,49.0
+USK5272,1999-03-18,20.0,Mujer,Calle 26 # 58d-56,Ruta N,5,17.0
+USK5230,1997-04-14,21.0,Hombre,carrera 75 # 89a 15,"Ruta N, Kaptadora 70, Aventura",15,715.0
+USK5213,1998-06-04,20.0,Hombre,Calle 90 #72 - 70 Int 201,"Kaptadora 70, Aventura, Coltejer",7,91.0
+USK5207,1993-08-31,25.0,Hombre,Calle 59D # 68E-257,Kaptadora 71,1,3.0
+USK5181,1986-05-13,32.0,Hombre,Carrera 89# 42C 15 Apto 403,"Kaptadora 70, Ruta N",4,56.0
+USK5150,1996-12-09,22.0,Hombre,cra 56a #61-24,"Kaptadora 70, Ruta N, Aventura",7,29.0
+USK5145,1982-04-29,36.0,Hombre,Cr31bb#32b-18,"Puerta del Norte, Coltejer",6,44.0
+USK5097,1994-03-15,25.0,Hombre,Diagonal 31c # 35 sur 40,"Kaptadora 70, Kaptadora 71",4,5.0
+USK5096,1986-11-19,32.0,Hombre,Itagui,"Ruta N, Kaptadora 71, Kaptadora 70",8,13.0
+USK5060,1993-09-23,25.0,Mujer,Calle 65#55-30,"Aventura, Ruta N, Kaptadora 71",11,95.0
+USK5045,1985-04-15,33.0,Hombre,Carrera 81A # 33A-12,"Kaptadora 70, Kaptadora 71, Ruta N",33,92.0
+USK5033,1991-08-18,27.0,Hombre,Calle 16a sur # 45 25,"Kaptadora 71, Kaptadora 70, Ruta N",5,7.0
+USK5029,1992-08-12,26.0,Mujer,cll 65 #55-30,"Kaptadora 70, Ruta N",8,91.0
+USK4995,1970-04-16,48.0,Hombre,calle 76 numero 50-24,"Ruta N, Aventura",4,222.0
+USK4910,1998-06-21,20.0,Mujer,Calle101A#74-28 Apto. 301,"Ruta N, Kaptadora 71, Terminal del Norte, Coltejer",6,106.0
+USK4865,1980-09-23,38.0,Mujer,cra 64 c # 51 -61,"Kaptadora 70, Puerta del Norte, Aventura, Ruta N",32,
+USK4848,1992-08-10,26.0,Hombre,cl 71,"Kaptadora 71, Ruta N, Aventura, Kaptadora 70",88,
+USK4847,1984-11-21,34.0,Hombre,clle 128 b sur # 83-81 apt 205,"Aventura, , Kaptadora 70, Coltejer",4,237.0
+USK4748,1988-11-24,30.0,Mujer,cll 21# 81-70,"Ruta N, Kaptadora 70",9,55.0
+USK4731,1984-04-24,34.0,Mujer,Cl 44 A 79 C 86,"Kaptadora 70, Aventura",12,127.0
+USK4710,1988-08-26,30.0,Mujer,Calle 85 b 48 b 14,"Aventura, Puerta del Norte",5,522.0
+USK4700,1996-07-09,22.0,Hombre,Calle 57 # 66 BB 95 - Bello,Ruta N,1,2.0
+USK4674,1992-01-31,27.0,Mujer,Calle 65#55-30,Kaptadora 70,1,3.0
+USK4657,1989-06-20,29.0,Mujer,CARRERA51 #92 72,Ruta N,11,521.0
+USK4649,1995-12-03,23.0,Mujer,calle 105c No 71 a 110 Int 301,Aventura,1,200.0
+USK4624,1986-08-16,32.0,Hombre,Calle 52c 63aa42,"Kaptadora 70, Aventura",7,88.0
+USK4623,1975-09-29,43.0,Mujer,calle56a 81 34,Ruta N,1,1.0
+USK4613,1990-03-07,29.0,Hombre,CR 49 #52-40,"Kaptadora 71, Kaptadora 70",3,14.0
+USK4600,1982-04-28,36.0,Mujer,CARRERA 73 # 98-117,"Ruta N, Aventura, Kaptadora 70",20,372.0
+USK4572,1984-10-29,34.0,Mujer,Clle 47A #31-37,Aventura,2,42.0
+USK4554,1995-11-24,23.0,Hombre,Calle 80 # 43-32,"Kaptadora 70, , Ruta N",5,158.0
+USK4538,1991-06-11,27.0,Hombre,cll 61 # 56-51,Kaptadora 70,1,6.0
+USK4537,1996-07-17,22.0,Hombre,Carrera 51 # 80-36,"Coltejer, Terminal del Norte, Aventura, Ruta N",20,547.0
+USK4516,1982-06-06,36.0,Mujer,CALLE 94 NO. 53-26 APTO 301,"Ruta N, Aventura, Kaptadora 70, Kaptadora 71",102,
+USK4459,1986-10-21,32.0,Hombre,calle falsa,"Aventura, Ruta N, Kaptadora 70, Kaptadora 71",17,221.0
+USK4410,1993-01-04,26.0,Hombre,Crr 64BB #104-47 Apt 502,Kaptadora 71,10,92.0
+USK4382,1979-11-06,39.0,Hombre,Carrera 76 No. 18Âª19 Parque Biblioteca BelÃ©n,"Puerta del Norte, Ruta N, Kaptadora 70, Aventura",14,630.0
+USK4377,1985-12-25,33.0,Hombre,Cra 66 BB # 55-51,Ruta N,7,135.0
+USK4331,1996-01-11,23.0,Mujer,Avenida 36c # 45-85,"Aventura, Kaptadora 70",14,333.0
+USK4249,1993-05-03,25.0,Mujer,cra 50 # 138 sur 36,"Kaptadora 70,",14,191.0
+USK4197,1988-12-21,30.0,Mujer,Calle 94 # 73A - 22,"Aventura, Ruta N",2,13.0
+USK4184,1991-05-19,27.0,Mujer,Calle 94 # 73A 22,"Ruta N, Kaptadora 70, Santafe",3,11.0
+USK4157,1989-11-23,29.0,Mujer,cra 50 # 87-89,"Kaptadora 70, Ruta N, Kaptadora 71",10,148.0
+USK4141,1981-02-20,38.0,Mujer,calle 93 47 23,"Puerta del Norte, Aventura",6,39.0
+USK4097,1998-08-16,20.0,Hombre,cr 76 a N 53 215,Kaptadora 71,1,3.0
+USK4073,1980-12-02,38.0,Hombre,CRA 97 # 64-67,"Terminal del Norte, Coltejer",5,61.0
+USK4062,1988-03-05,31.0,Mujer,calle 64 g 94 b 70,"Aventura, Kaptadora 70, Unicentro",11,274.0
+USK4061,1998-11-23,20.0,Mujer,Castilla,"Ruta N, , Kaptadora 71",3,221.0
+USK4024,1994-07-27,24.0,Hombre,Crr57 cll85 17,Ruta N,1,79.0
+USK4003,1994-04-04,24.0,Mujer,calle 61#56-51,", Ruta N, Kaptadora 70, Aventura",24,163.0
+USK3962,1994-01-02,25.0,Hombre,Cr 20 #56 Fh 24,"Ruta N, Kaptadora 70, Kaptadora 71",6,17.0
+USK3935,1992-01-14,27.0,Hombre,Cra120B #42B 31,", Coltejer",8,40.0
+USK3925,1980-01-05,39.0,Mujer,Calle 94 a # 63 a80 AP 117,"Kaptadora 70, Aventura, Kaptadora 71, Ruta N",30,930.0
+USK3890,1988-03-04,31.0,Mujer,Calle 65 #56a-60,"Aventura, Kaptadora 70, Kaptadora 71, Ruta N",37,
+USK3867,1989-10-25,29.0,Hombre,calle 76 carrera 49 - 101,"Ruta N, Kaptadora 71, Kaptadora 70",31,393.0
+USK3853,1981-11-14,37.0,Mujer,Calle 7 #81B - 13 apto 106,"Kaptadora 70, Ruta N, Kaptadora 71, Unicentro",4,12.0
+USK3835,1990-01-01,29.0,Mujer,Calle 35 #40-41 Barrio San JosÃ©,"Ruta N, , Kaptadora 71",7,210.0
+USK3789,1990-03-30,28.0,Hombre,Carrera 62 #38a sur 12,Ruta N,2,17.0
+USK3781,1993-12-03,25.0,Hombre,"Av. 26, No. 52-200","Aventura, Kaptadora 70, Puerta del Norte, Kaptadora 71, Plaza Mayor",53,
+USK3758,1992-08-31,26.0,Mujer,Calle,"Kaptadora 70, Aventura, Kaptadora 71, Ruta N",26,289.0
+USK3748,1998-07-10,20.0,Mujer,Carrera 41A #66-85 Interior 201,"Kaptadora 71, Ruta N, Kaptadora 70",12,115.0
+USK3734,1986-08-18,32.0,Hombre,Cra 84 # 42 C - 70,", Ruta N",3,174.0
+USK3707,1994-06-08,24.0,Hombre,Calle 88 #57-35,"Terminal del Norte, Kaptadora 70, Aventura",7,57.0
+USK3293,1990-01-01,29.0,Mujer,Calle 55 # 26 b 55,Coltejer,4,115.0
+USK3279,1997-11-17,21.0,Mujer,"El Chagualo, MedellÃ­n - Antioquia, Colombia","Ruta N, Kaptadora 70",8,94.0
+USK3254,1992-08-24,26.0,Mujer,Calle 73 diagonal N 70-104,"Kaptadora 70, Ruta N, Kaptadora 71, Coltejer",44,590.0
+USK3210,1995-05-12,23.0,Mujer,"Buenos Aires, MedellÃ­n - Antioquia, Colombia",Kaptadora 70,1,1.0
+USK3188,1989-07-26,29.0,Mujer,"El Chagualo - Antioquia, Colombia","Ruta N, , Kaptadora 70",49,1.43
+USK2775,1995-10-30,23.0,Mujer,"MedellÃ­n - Antioquia, Colombia","Kaptadora 71, Kaptadora 70, Ruta N, Aventura",7,55.0
+USK2751,1986-03-18,33.0,Hombre,Cr 42b N 23 a Sur - 34,"Aventura, Santafe, Kaptadora 71, Puerta del Norte, Ruta N, CESDE, , La Solar, Terminal del Norte, ADMIN, Coltejer, Kaptadora 70, U. CES, Colaboramerica",524,
+USK2718,1989-03-17,30.0,Mujer,Cr 92 #93-90,Kaptadora 70,3,29.0
+USK2656,1984-05-05,34.0,Mujer,"Campo Valdes, MedellÃ­n - Antioquia, Colombia",Kaptadora 70,3,15.0
+USK2654,1982-02-17,37.0,Hombre,"Robledo, MedellÃ­n - Antioquia, Colombia","Kaptadora 70, Kaptadora 71",19,47.0
+USK2643,1996-01-01,23.0,Hombre,"El Chagualo, MedellÃ­n - Antioquia, Colombia","Aventura, Kaptadora 70",14,81.0
+USK2609,1992-04-05,26.0,Mujer,calle 32EE # 80c 27,"Coltejer, Kaptadora 71, Ruta N, Aventura, Kaptadora 70",26,48.0
+USK2603,1995-09-13,23.0,Hombre,Cll 99 #44 b 18,Aventura,1,23.0
+USK2559,1996-10-11,22.0,Mujer,Carrera 37 # 66 c 08,"Kaptadora 70, Aventura, Puerta del Norte, Ruta N",13,511.0
+USK2451,1993-10-08,25.0,Hombre,Cra 51B # 96-96,CESDE,21,482.0
+USK2434,1994-06-10,24.0,Mujer,carrera 47 #68-40,"Aventura, Kaptadora 71, Ruta N, Coltejer",18,114.0
+USK2420,1981-08-14,37.0,Hombre,carrera 72a 45e-43,"Unicentro, Coltejer",13,216.0
+USK2402,1997-01-11,22.0,Mujer,calle 65 # 55-30,"Ruta N, Aventura",2,5.0
+USK2400,1996-04-01,22.0,Hombre,cr 25 N 39 sur 52 int 101 envigado,"Kaptadora 70, Ruta N",2,2.0
+USK2391,1997-03-12,22.0,Hombre,Carrera 63a # 94a-113,"Aventura, Kaptadora 71, Terminal del Norte, Kaptadora 70, Ruta N",51,
+USK2363,1991-01-19,28.0,Hombre,"FontidueÃ±o, Bello - Antioquia, Colombia","Kaptadora 71, Ruta N, Kaptadora 70",52,230.0
+USK2240,1997-07-23,21.0,Hombre,"Calle 21 Sur # 41-117, Envigado - Antioquia, Colombia",Kaptadora 70,9,61.0
+USK2232,1993-07-08,25.0,Mujer,calle 52 # 39 a 32,"Kaptadora 70, Aventura",23,352.0
+USK2155,1977-07-01,41.0,Hombre,cra 30 n 10 159 apto 504,Unicentro,1,54.0
+USK2097,1990-02-21,29.0,Mujer,"Belalcazar, MedellÃ­n - Antioquia, Colombia","Kaptadora 71, Kaptadora 70, Ruta N",48,367.0
+USK2006,1973-04-26,45.0,Hombre,kr 49b 26b 50 to 2 apt 913,", Puerta del Norte, Kaptadora 70, Unicentro, Kaptadora 71",24,764.0
+USK1995,1995-12-07,23.0,Mujer,Carrera 41 # 58 - 25,"Ruta N, Coltejer",13,978.0
+USK1993,1988-03-05,31.0,Mujer,carrera 2 a # 52-21,"Kaptadora 70, Kaptadora 71, Coltejer, Ruta N",13,389.0
+USK1985,1998-01-18,21.0,Hombre,Calle 36 45 39 in 201,"Kaptadora 70, Kaptadora 71",2,7.0
+USK1943,1985-06-13,33.0,Mujer,"Sabaneta - Antioquia, Colombia","Kaptadora 70, Kaptadora 71",5,30.0
+USK1871,1978-10-21,40.0,Mujer,"El Poblado, MedellÃ­n - Antioquia, Colombia",Kaptadora 70,6,16.0
+USK1830,1989-01-20,30.0,Hombre,CRA 20 22 64,"Coltejer, Ruta N, Terminal del Norte",4,329.0
+USK1759,1984-06-24,34.0,Hombre,"Cra. 53b # 41-157, Copacabana - Antioquia, Colombia","Kaptadora 70, Ruta N, , Kaptadora 71",94,
+USK1720,1991-01-29,28.0,Hombre,Cra 42b n 23a sur 34 apto 203,"Puerta del Norte, CESDE, Aventura, La Solar, Kaptadora 71, Ruta N, ADMIN, Coltejer, Colaboramerica, Kaptadora 70",221,
+USK1642,1991-05-20,27.0,Mujer,"El Chagualo, MedellÃ­n - Antioquia, Colombia","Aventura, Kaptadora 70",11,90.0
+USK1517,1979-01-16,40.0,Hombre,"Aranjuez, MedellÃ­n - Antioquia, Colombia","Ruta N, Puerta del Norte, Aventura",9,605.0
+USK1453,1995-05-13,23.0,Mujer,"Girardota - Antioquia, Colombia",Kaptadora 71,1,6.0
+USK1435,1992-10-27,26.0,Mujer,calle 57 # 36 A - 19,", Aventura, Kaptadora 70",9,276.0
+USK1379,1993-05-23,25.0,Hombre,calle103 #34-38,Plaza Mayor,1,2.0
+USK1355,1987-01-23,32.0,Mujer,Calle 49b#76a62,"Kaptadora 71, Unicentro, Kaptadora 70, Ruta N",71,
+USK1293,1972-02-21,47.0,Mujer,Buenos aires,"Aventura, , Ruta N, Kaptadora 71, Kaptadora 70",74,
+USK1271,1994-03-14,25.0,Mujer,viviisazazu19@gmail.com,"Kaptadora 70, Ruta N",16,82.0
+USK1229,1990-02-16,29.0,Hombre,"Sevilla, MedellÃ­n - Antioquia, Colombia","Kaptadora 71, Aventura, ADMIN, , Kaptadora 70, Ruta N, Coltejer",127,414.0
+USK1181,1991-03-12,28.0,Mujer,calle 79 #43-31,Ruta N,6,410.0
+USK1155,1991-06-19,27.0,Mujer,Calle 60A #40-28,"Kaptadora 71, Kaptadora 70, Coltejer",50,732.0
+USK1152,1995-07-23,23.0,Hombre,Calle 27 Sur # 27D-02,"Puerta del Norte, Terminal del Norte, Unicentro, Aventura, Ruta N, La Solar, , Santafe, U. CES, CESDE, Kaptadora 71, Coltejer, Plaza Mayor, Kaptadora 70",349,
+USK1068,1997-08-28,21.0,Mujer,CRA 48b #81-62,Ruta N,4,7.0
+USK1055,1993-03-17,26.0,Mujer,Carrera 14C #50-12,"Coltejer, Terminal del Norte",6,76.0
+USK997,1992-12-12,26.0,Mujer,"Bello, Antioquia",", Kaptadora 70, Ruta N",44,280.0
+USK936,1993-03-24,26.0,Mujer,clla 65#56-84 int 805,"Kaptadora 70, Ruta N",3,55.0
+USK914,1989-06-09,29.0,Hombre,"Chagualo, MedellÃ­n - Antioquia, Colombia","Aventura, Kaptadora 70, Ruta N",6,69.0
+USK885,1977-07-03,41.0,Mujer,"Girardota - Antioquia, Colombia","Terminal del Norte, Puerta del Norte",5,127.0
+USK879,1989-12-31,29.0,Mujer,calle falsa,U. CES,13,173.0
+USK865,1997-12-02,21.0,Hombre,Cr 56D #76A Sur-40,"Ruta N, Aventura, Kaptadora 71, Kaptadora 70",30,138.0
+USK862,1990-01-14,29.0,Mujer,Calle 77ac #75-165 torre 3 apto1603,Ruta N,3,66.0
+USK838,1995-04-15,23.0,Hombre,Calle 81 #32-18,"Ruta N, Aventura",7,23.0
+USK832,1991-08-08,27.0,Hombre,Cl 4 sur,Ruta N,5,7.0
+USK817,1987-07-05,31.0,Mujer,"Campo Valdes, MedellÃ­n - Antioquia, Colombia",Kaptadora 70,2,20.0
+USK733,1993-09-11,25.0,Mujer,"Manrique Oriental, MedellÃ­n - Antioquia, Colombia","Kaptadora 70, Kaptadora 71, Ruta N",14,105.0
+USK626,1992-01-20,27.0,Mujer,"BelÃ©n, MedellÃ­n - Antioquia, Colombia","Aventura, Kaptadora 70",7,26.0
+USK570,1984-04-21,34.0,Mujer,"MedellÃ­n - Antioquia, Colombia",Kaptadora 70,3,15.0
+USK553,1994-09-17,24.0,Hombre,"Colombia, MedellÃ­n - Antioquia","Kaptadora 71, U. CES, Santafe, Aventura, , Coltejer, Ruta N, Kaptadora 70, Unicentro",215,
+USK538,1991-06-09,27.0,Mujer,"Manrique, MedellÃ­n - Antioquia, Colombia",", Coltejer, Aventura, Kaptadora 71, Kaptadora 70, Ruta N",44,
+USK470,1994-01-02,25.0,Hombre,Calle 31 No 44 145,"Aventura, , Ruta N, Kaptadora 70, Santafe, Kaptadora 71",10,246.0
+USK466,1990-11-22,28.0,Hombre,"Robledo, MedellÃ­n - Antioquia, Colombia","Ruta N, Kaptadora 70",10,549.0
+USK461,1995-01-09,24.0,Mujer,"Calle 86 # 49b12, MedellÃ­n - Antioquia, Colombia",Kaptadora 70,1,4.0
+USK437,1985-06-29,33.0,Mujer,"Campo Valdes, MedellÃ­n - Antioquia, Colombia","Ruta N, Kaptadora 71, Aventura, , Kaptadora 70",55,968.0
+USK360,1996-03-24,23.0,Mujer,Cra 39,"Kaptadora 70, Kaptadora 71, Ruta N",19,203.0
+USK234,1996-01-02,23.0,Hombre,Calle 47 # 72 b 46,"Aventura, Ruta N, Kaptadora 71, , Kaptadora 70",18,607.0
+USK204,1972-01-13,47.0,Hombre,"La PiÃ±uela, MedellÃ­n - Antioquia, Colombia",", Aventura, Kaptadora 70, Ruta N",72,
+USK192,1988-04-10,30.0,Mujer,Calle 101B 72 - 13,"Kaptadora 71, Ruta N, , Kaptadora 70",58,229.0
+USK165,1980-06-30,38.0,Hombre,Carrera 42B 23A Sur - 34 apto 203,"U. CES, ADMIN, , Ruta N, Colaboramerica, Aventura, Kaptadora 71, Kaptadora 70",216,916.0

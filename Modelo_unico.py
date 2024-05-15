@@ -35,6 +35,15 @@ print("Mean Squared Error:", mse_bc)
 print("R^2 Score:", r2_bc)
 
 
+# Importancia de las variables
+importances1 = random_forest.feature_importances_
+indices1 = np.argsort(importances1)[::-1]
+top_variables1 = X.columns[indices1[:4]]
+top_importances1 = importances1[indices1[:4]]
+for variable, importancia in zip(top_variables1, top_importances1):
+    print(f"Variable: {variable}, Importancia: {importancia}")
+
+
 ### Tabla final
 tabla_cod2=tabla_cod.copy()
 tabla_cod2['ubicacion_recoleccion']=tabla1['ubicacion_recoleccion']

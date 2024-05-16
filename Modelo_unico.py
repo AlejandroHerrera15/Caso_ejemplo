@@ -48,18 +48,44 @@ for variable, importancia in zip(top_variables1, top_importances1):
 tabla_cod2=tabla_cod.copy()
 tabla_cod2['ubicacion_recoleccion']=tabla1['ubicacion_recoleccion']
 
+# Separar los elementos de 'ubicacion_recoleccion' por coma y desglosarlos en filas separadas
+tabla_cod3 = tabla_cod2.copy()
+tabla_cod3['ubicacion_recoleccion'] = tabla_cod3['ubicacion_recoleccion'].str.split(', ')
+tabla_cod3 = tabla_cod3.explode('ubicacion_recoleccion')
+
 # Agrupar por 'ubicacion_recoleccion' y sumar el número de visitas por persona
-visitas_por_ubicacion = tabla_cod2.groupby('ubicacion_recoleccion')['visitas_predichas'].sum()
+visitas_por_ubicacion2 = tabla_cod3.groupby('ubicacion_recoleccion')['visitas_predichas'].sum()
 
-visitas_por_ubicacion = visitas_por_ubicacion.sort_values(ascending=False)
+visitas_por_ubicacion2 = visitas_por_ubicacion2.sort_values(ascending=False)
 # Convertir la serie a DataFrame
-df_visitas_por_ubicacion = visitas_por_ubicacion.reset_index()
-df_visitas_por_ubicacion.columns = ['ubicacion_recoleccion', 'visitas_predichas_mes']
-df_visitas_por_ubicacion = pd.DataFrame(df_visitas_por_ubicacion)
-df_visitas_por_ubicacion.head(10)
+df_visitas_por_ubicacion2 = visitas_por_ubicacion2.reset_index()
+df_visitas_por_ubicacion2.columns = ['ubicacion_recoleccion', 'visitas_predichas_mes']
+df_visitas_por_ubicacion2 = pd.DataFrame(df_visitas_por_ubicacion2)
+df_visitas_por_ubicacion2.head(10)
 
 
+## GRAFICAR LOS LUGARES POTENCIALES SEGÚN EL NÚMERO DE VIVSITAS MENSUALES
+import folium
 
+# Crear un mapa centrado en Medellín
+mapa = folium.Map(location=[6.244203, -75.581211], zoom_start=12)
+
+# Agregar marcadores con nombres para las coordenadas proporcionadas
+marcadores = [
+    {"nombre": "Centro comercial Aventura", "latitud": 6.264033, "longitud": -75.567149},
+    {"nombre": "Centro comercial Puerta del Norte", "latitud": 6.3394476, "longitud": -75.5442995},
+    {"nombre": "Universidad CES", "latitud": 6.208516, "longitud": -75.553145}
+]
+
+for marcador in marcadores:
+    folium.Marker(
+        location=[marcador["latitud"], marcador["longitud"]],
+        tooltip=marcador["nombre"]
+    ).add_to(mapa)
+
+
+# Mostrar el mapa
+mapa
 
 
 
